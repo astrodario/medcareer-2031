@@ -1,0 +1,53 @@
+nome,area,durata,target_demo,notti_mese,rep_mese,ore_sett,rischio_legale,burnout,rep_privato_score,tariffa_visita_privata,qol_score_base,rep_lorda_annua_stimata,rep_netta_annua_stimata,rep_privato_out_of_pocket
+Allergologia ed immunologia clinica,Medica,4,totale,0.5,1.0,40,1,40,7.0,120,86.0,112900.0,62100.0,36500.0
+Dermatologia e venereologia,Medica,4,totale,0.0,0.5,38,1,30,10.0,150,93.8,145400.0,80000.0,69400.0
+Ematologia,Medica,4,over65,2.5,3.0,44,2,65,4.5,130,58.3,94600.0,52000.0,16500.0
+Endocrinologia e malattie del metabolismo,Medica,4,over65,0.5,1.0,40,1,45,8.0,130,85.3,122900.0,67600.0,46400.0
+Gastroenterologia,Medica,4,over65,2.5,3.5,45,2,60,8.5,140,56.1,129900.0,71400.0,51800.0
+Geriatria,Medica,4,over80,3.0,2.0,42,1,60,6.0,110,66.5,106200.0,58400.0,27700.0
+Malattie dell'apparato cardiovascolare,Medica,4,over65,4.0,4.5,48,3,70,9.5,150,37.4,142600.0,78500.0,63300.0
+Malattie dell'apparato respiratorio,Medica,4,over65,2.5,2.5,42,2,60,7.5,130,63.2,119500.0,65700.0,41400.0
+Malattie infettive e tropicali,Medica,4,totale,2.5,2.5,42,2,65,4.0,120,62.5,91400.0,50300.0,13300.0
+Medicina d'emergenza-urgenza,Medica,4,totale,6.5,1.0,48,3,90,2.0,100,35.3,93800.0,51600.0,3800.0
+Medicina di comunità e delle cure primarie,Medica,4,over65,0.0,0.5,38,1,45,4.0,90,91.6,89300.0,49100.0,13300.0
+Medicina e cure palliative,Medica,4,over80,1.0,2.5,40,1,65,4.0,100,75.1,90200.0,49600.0,13300.0
+Medicina fisica e riabilitativa,Medica,4,over65,0.5,1.0,38,1,40,8.0,120,88.5,122900.0,67600.0,46400.0
+Medicina interna,Medica,4,over65,4.0,2.5,45,2,75,6.0,120,50.8,107000.0,58900.0,27700.0
+Medicina nucleare,Medica,4,over65,0.0,0.5,38,1,40,3.0,130,92.3,83900.0,46200.0,7900.0
+Medicina termale,Medica,4,over65,0.0,0.0,38,1,30,4.0,90,95.5,89300.0,49100.0,13300.0
+Nefrologia,Medica,4,over65,2.5,3.5,44,2,65,5.5,130,56.6,101800.0,56000.0,23700.0
+Neurologia,Medica,4,over65,3.0,3.0,44,2,65,8.0,140,56.1,125000.0,68700.0,46400.0
+Neuropsichiatria infantile,Medica,4,under15,1.0,1.5,40,1,60,8.5,130,79.2,128600.0,70800.0,51800.0
+Oncologia medica,Medica,4,over65,2.0,2.5,44,2,75,6.5,140,60.6,109600.0,60300.0,32000.0
+Pediatria,Medica,5,under15,4.0,3.0,44,2,65,8.0,120,51.9,125800.0,69200.0,46400.0
+Psichiatria,Medica,4,totale,3.0,2.0,42,2,80,8.5,120,59.7,130300.0,71700.0,51800.0
+Radioterapia,Medica,4,over65,0.5,1.5,40,2,50,3.5,130,79.1,86900.0,47800.0,10500.0
+Reumatologia,Medica,4,over65,0.5,1.0,38,1,45,7.5,130,87.8,117800.0,64800.0,41400.0
+Medicina Generale (MMG*),Cure Primarie*,3,over65,0.0,0.0,36,2,60,4.0,60,87.2,110000.0,58000.0,13300.0
+Cardiochirurgia,Chirurgica,5,over65,4.5,6.0,54,5,80,6.0,180,13.7,107500.0,59100.0,27700.0
+Chirurgia generale,Chirurgica,5,over65,5.0,5.0,50,4,75,7.0,140,24.4,116700.0,64200.0,36500.0
+Chirurgia maxillo-facciale,Chirurgica,5,totale,3.0,4.0,46,4,65,8.0,160,42.8,125000.0,68700.0,46400.0
+Chirurgia pediatrica,Chirurgica,5,under15,3.5,4.5,46,4,70,5.0,140,38.2,98900.0,54400.0,19900.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,totale,1.5,3.0,42,5,50,10.0,180,56.1,146700.0,80700.0,69400.0
+Chirurgia toracica,Chirurgica,5,over65,3.5,4.5,48,4,70,5.5,160,35.8,102600.0,56400.0,23700.0
+Chirurgia vascolare,Chirurgica,5,over65,4.0,5.0,48,4,70,7.5,150,31.9,120700.0,66400.0,41400.0
+Ginecologia ed ostetricia,Chirurgica,5,totale,4.5,4.5,48,5,75,9.0,140,27.0,137200.0,75500.0,57400.0
+Neurochirurgia,Chirurgica,5,over65,4.5,6.0,52,5,80,6.5,180,16.2,111700.0,61500.0,32000.0
+Oftalmologia,Chirurgica,4,over65,1.0,2.0,40,3,45,10.0,140,72.3,146200.0,80400.0,69400.0
+Ortopedia e traumatologia,Chirurgica,5,over65,4.0,5.0,48,5,70,9.5,150,28.2,142600.0,78500.0,63300.0
+Otorinolaringoiatria,Chirurgica,4,totale,2.0,3.0,42,3,50,8.5,130,61.4,129500.0,71200.0,51800.0
+Urologia,Chirurgica,5,over65,3.0,4.0,45,3,60,8.5,140,48.6,130300.0,71700.0,51800.0
+Anatomia patologica,Servizi,4,over65,0.0,0.5,38,2,50,3.5,120,87.1,86500.0,47600.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,totale,5.5,4.5,48,3,80,3.5,130,29.4,91100.0,50100.0,10500.0
+Audiologia e foniatria,Servizi,4,totale,0.0,0.5,38,1,35,7.0,110,93.1,112500.0,61900.0,36500.0
+Farmacologia e Tossicologia Clinica,Servizi,4,totale,0.0,0.5,38,1,35,3.0,100,93.1,83900.0,46200.0,7900.0
+Genetica medica,Servizi,4,totale,0.0,0.5,38,1,40,6.5,130,92.3,108000.0,59400.0,32000.0
+Igiene e medicina preventiva,Servizi,4,totale,0.0,1.0,38,1,40,4.0,100,90.7,89300.0,49100.0,13300.0
+Medicina del lavoro,Servizi,4,totale,0.0,0.0,38,1,35,8.5,80,94.8,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,totale,0.0,0.0,38,2,35,8.5,70,91.0,127800.0,70300.0,51800.0
+Medicina legale,Servizi,4,totale,0.0,1.0,38,2,45,9.0,200,86.2,133400.0,73400.0,57400.0
+Microbiologia e virologia,Servizi,4,totale,0.0,1.0,38,1,40,2.5,100,90.7,81700.0,44900.0,5700.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,totale,0.5,1.5,38,1,45,3.0,100,86.1,84400.0,46400.0,7900.0
+Radiodiagnostica,Servizi,4,totale,2.5,3.5,42,3,65,8.0,130,55.4,124500.0,68500.0,46400.0
+Scienza dell'alimentazione,Servizi,4,totale,0.0,0.0,38,1,35,8.0,110,94.8,122400.0,67300.0,46400.0
+Statistica sanitaria e Biometria,Servizi,4,totale,0.0,0.0,38,1,30,3.0,120,95.5,83900.0,46200.0,7900.0

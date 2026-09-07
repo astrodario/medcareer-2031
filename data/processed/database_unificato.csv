@@ -1,0 +1,1145 @@
+disciplina,area,durata_anni,territorio,tipo_territorio,contratti_annui_totali,contratti_quinquennio_2026_2031,tasso_abbandono_stimato,nuovi_specialisti_effettivi_5anni,stock_medici_attivi,quota_pensionandi_60plus,pensionamenti_stimati_2026_2031,delta_demografico_target_pct,target_demografico,qol_score_base,notti_mese,reperibilita_mese,ore_settimanali,classe_rischio_legale,indice_burnout,rep_lorda_annua,rep_netta_annua,rep_privato_stimato
+Allergologia ed immunologia clinica,Medica,4,Italia (Nazionale),Nazionale,85,425,0.02,416,220,0.38,84,-0.5,totale,86.0,0.5,1.0,40,1,40,112900.0,62100.0,36500.0
+Allergologia ed immunologia clinica,Medica,4,Abruzzo,Regione,2,10,0.02,10,5,0.38,2,-1.18,totale,86.0,0.5,1.0,40,1,40,112900.0,62100.0,36500.0
+Allergologia ed immunologia clinica,Medica,4,Basilicata,Regione,1,5,0.02,5,2,0.399,1,-4.41,totale,86.0,0.5,1.0,40,1,40,112900.0,62100.0,36500.0
+Allergologia ed immunologia clinica,Medica,4,Calabria,Regione,3,15,0.02,15,7,0.399,3,-2.33,totale,86.0,0.5,1.0,40,1,40,112900.0,62100.0,36500.0
+Allergologia ed immunologia clinica,Medica,4,Campania,Regione,8,40,0.02,39,21,0.38,8,-1.77,totale,86.0,0.5,1.0,40,1,40,112900.0,62100.0,36500.0
+Allergologia ed immunologia clinica,Medica,4,Emilia-Romagna,Regione,6,30,0.02,29,17,0.38,6,0.99,totale,86.0,0.5,1.0,40,1,40,112900.0,62100.0,36500.0
+Allergologia ed immunologia clinica,Medica,4,Friuli-Venezia Giulia,Regione,2,10,0.02,10,4,0.38,2,-0.45,totale,86.0,0.5,1.0,40,1,40,112900.0,62100.0,36500.0
+Allergologia ed immunologia clinica,Medica,4,Lazio,Regione,8,40,0.02,39,21,0.38,8,-0.4,totale,86.0,0.5,1.0,40,1,40,112900.0,62100.0,36500.0
+Allergologia ed immunologia clinica,Medica,4,Liguria,Regione,2,10,0.02,10,6,0.399,2,0.13,totale,86.0,0.5,1.0,40,1,40,112900.0,62100.0,36500.0
+Allergologia ed immunologia clinica,Medica,4,Lombardia,Regione,15,75,0.02,74,38,0.361,14,0.82,totale,86.0,0.5,1.0,40,1,40,112900.0,62100.0,36500.0
+Allergologia ed immunologia clinica,Medica,4,Marche,Regione,2,10,0.02,10,6,0.38,2,-0.81,totale,86.0,0.5,1.0,40,1,40,112900.0,62100.0,36500.0
+Allergologia ed immunologia clinica,Medica,4,Molise,Regione,0,0,0.02,0,1,0.399,0,-3.24,totale,86.0,0.5,1.0,40,1,40,112900.0,62100.0,36500.0
+Allergologia ed immunologia clinica,Medica,4,Piemonte,Regione,6,30,0.02,29,16,0.38,6,-0.21,totale,86.0,0.5,1.0,40,1,40,112900.0,62100.0,36500.0
+Allergologia ed immunologia clinica,Medica,4,Puglia,Regione,6,30,0.02,29,14,0.38,5,-2.15,totale,86.0,0.5,1.0,40,1,40,112900.0,62100.0,36500.0
+Allergologia ed immunologia clinica,Medica,4,Sardegna,Regione,2,10,0.02,10,6,0.38,2,-3.2,totale,86.0,0.5,1.0,40,1,40,112900.0,62100.0,36500.0
+Allergologia ed immunologia clinica,Medica,4,Sicilia,Regione,7,35,0.02,34,18,0.399,7,-1.88,totale,86.0,0.5,1.0,40,1,40,112900.0,62100.0,36500.0
+Allergologia ed immunologia clinica,Medica,4,Toscana,Regione,5,25,0.02,24,14,0.38,5,-0.3,totale,86.0,0.5,1.0,40,1,40,112900.0,62100.0,36500.0
+Allergologia ed immunologia clinica,Medica,4,Umbria,Regione,1,5,0.02,5,3,0.38,1,-1.16,totale,86.0,0.5,1.0,40,1,40,112900.0,62100.0,36500.0
+Allergologia ed immunologia clinica,Medica,4,Valle d'Aosta,Regione,0,0,0.02,0,1,0.38,0,-0.55,totale,86.0,0.5,1.0,40,1,40,112900.0,62100.0,36500.0
+Allergologia ed immunologia clinica,Medica,4,Veneto,Regione,7,35,0.02,34,18,0.361,6,-0.1,totale,86.0,0.5,1.0,40,1,40,112900.0,62100.0,36500.0
+Allergologia ed immunologia clinica,Medica,4,P.A. Bolzano,Regione,1,5,0.02,5,2,0.361,1,1.62,totale,86.0,0.5,1.0,40,1,40,112900.0,62100.0,36500.0
+Allergologia ed immunologia clinica,Medica,4,P.A. Trento,Regione,1,5,0.02,5,2,0.361,1,1.32,totale,86.0,0.5,1.0,40,1,40,112900.0,62100.0,36500.0
+Dermatologia e venereologia,Medica,4,Italia (Nazionale),Nazionale,125,625,0.01,619,950,0.38,361,-0.5,totale,93.8,0.0,0.5,38,1,30,145400.0,80000.0,69400.0
+Dermatologia e venereologia,Medica,4,Abruzzo,Regione,3,15,0.01,15,20,0.38,8,-1.18,totale,93.8,0.0,0.5,38,1,30,145400.0,80000.0,69400.0
+Dermatologia e venereologia,Medica,4,Basilicata,Regione,1,5,0.01,5,8,0.399,3,-4.41,totale,93.8,0.0,0.5,38,1,30,145400.0,80000.0,69400.0
+Dermatologia e venereologia,Medica,4,Calabria,Regione,4,20,0.01,20,29,0.399,12,-2.33,totale,93.8,0.0,0.5,38,1,30,145400.0,80000.0,69400.0
+Dermatologia e venereologia,Medica,4,Campania,Regione,12,60,0.01,59,90,0.38,34,-1.77,totale,93.8,0.0,0.5,38,1,30,145400.0,80000.0,69400.0
+Dermatologia e venereologia,Medica,4,Emilia-Romagna,Regione,9,45,0.01,45,72,0.38,27,0.99,totale,93.8,0.0,0.5,38,1,30,145400.0,80000.0,69400.0
+Dermatologia e venereologia,Medica,4,Friuli-Venezia Giulia,Regione,3,15,0.01,15,19,0.38,7,-0.45,totale,93.8,0.0,0.5,38,1,30,145400.0,80000.0,69400.0
+Dermatologia e venereologia,Medica,4,Lazio,Regione,12,60,0.01,59,92,0.38,35,-0.4,totale,93.8,0.0,0.5,38,1,30,145400.0,80000.0,69400.0
+Dermatologia e venereologia,Medica,4,Liguria,Regione,3,15,0.01,15,24,0.399,10,0.13,totale,93.8,0.0,0.5,38,1,30,145400.0,80000.0,69400.0
+Dermatologia e venereologia,Medica,4,Lombardia,Regione,21,105,0.01,104,162,0.361,58,0.82,totale,93.8,0.0,0.5,38,1,30,145400.0,80000.0,69400.0
+Dermatologia e venereologia,Medica,4,Marche,Regione,3,15,0.01,15,24,0.38,9,-0.81,totale,93.8,0.0,0.5,38,1,30,145400.0,80000.0,69400.0
+Dermatologia e venereologia,Medica,4,Molise,Regione,1,5,0.01,5,5,0.399,2,-3.24,totale,93.8,0.0,0.5,38,1,30,145400.0,80000.0,69400.0
+Dermatologia e venereologia,Medica,4,Piemonte,Regione,9,45,0.01,45,69,0.38,26,-0.21,totale,93.8,0.0,0.5,38,1,30,145400.0,80000.0,69400.0
+Dermatologia e venereologia,Medica,4,Puglia,Regione,8,40,0.01,40,62,0.38,24,-2.15,totale,93.8,0.0,0.5,38,1,30,145400.0,80000.0,69400.0
+Dermatologia e venereologia,Medica,4,Sardegna,Regione,3,15,0.01,15,25,0.38,10,-3.2,totale,93.8,0.0,0.5,38,1,30,145400.0,80000.0,69400.0
+Dermatologia e venereologia,Medica,4,Sicilia,Regione,10,50,0.01,50,77,0.399,31,-1.88,totale,93.8,0.0,0.5,38,1,30,145400.0,80000.0,69400.0
+Dermatologia e venereologia,Medica,4,Toscana,Regione,8,40,0.01,40,59,0.38,22,-0.3,totale,93.8,0.0,0.5,38,1,30,145400.0,80000.0,69400.0
+Dermatologia e venereologia,Medica,4,Umbria,Regione,2,10,0.01,10,14,0.38,5,-1.16,totale,93.8,0.0,0.5,38,1,30,145400.0,80000.0,69400.0
+Dermatologia e venereologia,Medica,4,Valle d'Aosta,Regione,0,0,0.01,0,2,0.38,1,-0.55,totale,93.8,0.0,0.5,38,1,30,145400.0,80000.0,69400.0
+Dermatologia e venereologia,Medica,4,Veneto,Regione,10,50,0.01,50,78,0.361,28,-0.1,totale,93.8,0.0,0.5,38,1,30,145400.0,80000.0,69400.0
+Dermatologia e venereologia,Medica,4,P.A. Bolzano,Regione,1,5,0.01,5,9,0.361,3,1.62,totale,93.8,0.0,0.5,38,1,30,145400.0,80000.0,69400.0
+Dermatologia e venereologia,Medica,4,P.A. Trento,Regione,1,5,0.01,5,9,0.361,3,1.32,totale,93.8,0.0,0.5,38,1,30,145400.0,80000.0,69400.0
+Ematologia,Medica,4,Italia (Nazionale),Nazionale,204,1020,0.05,969,1450,0.38,551,8.5,over65,58.3,2.5,3.0,44,2,65,94600.0,52000.0,16500.0
+Ematologia,Medica,4,Abruzzo,Regione,4,20,0.05,19,31,0.38,12,9.03,over65,58.3,2.5,3.0,44,2,65,94600.0,52000.0,16500.0
+Ematologia,Medica,4,Basilicata,Regione,2,10,0.05,10,13,0.399,5,8.52,over65,58.3,2.5,3.0,44,2,65,94600.0,52000.0,16500.0
+Ematologia,Medica,4,Calabria,Regione,6,30,0.05,28,45,0.399,18,9.5,over65,58.3,2.5,3.0,44,2,65,94600.0,52000.0,16500.0
+Ematologia,Medica,4,Campania,Regione,19,95,0.05,90,137,0.38,52,12.63,over65,58.3,2.5,3.0,44,2,65,94600.0,52000.0,16500.0
+Ematologia,Medica,4,Emilia-Romagna,Regione,15,75,0.05,71,110,0.38,42,9.01,over65,58.3,2.5,3.0,44,2,65,94600.0,52000.0,16500.0
+Ematologia,Medica,4,Friuli-Venezia Giulia,Regione,4,20,0.05,19,29,0.38,11,7.69,over65,58.3,2.5,3.0,44,2,65,94600.0,52000.0,16500.0
+Ematologia,Medica,4,Lazio,Regione,20,100,0.05,95,140,0.38,53,11.48,over65,58.3,2.5,3.0,44,2,65,94600.0,52000.0,16500.0
+Ematologia,Medica,4,Liguria,Regione,5,25,0.05,24,37,0.399,15,6.51,over65,58.3,2.5,3.0,44,2,65,94600.0,52000.0,16500.0
+Ematologia,Medica,4,Lombardia,Regione,35,175,0.05,166,248,0.361,90,10.72,over65,58.3,2.5,3.0,44,2,65,94600.0,52000.0,16500.0
+Ematologia,Medica,4,Marche,Regione,5,25,0.05,24,36,0.38,14,8.41,over65,58.3,2.5,3.0,44,2,65,94600.0,52000.0,16500.0
+Ematologia,Medica,4,Molise,Regione,1,5,0.05,5,7,0.399,3,6.78,over65,58.3,2.5,3.0,44,2,65,94600.0,52000.0,16500.0
+Ematologia,Medica,4,Piemonte,Regione,15,75,0.05,71,105,0.38,40,6.84,over65,58.3,2.5,3.0,44,2,65,94600.0,52000.0,16500.0
+Ematologia,Medica,4,Puglia,Regione,13,65,0.05,62,95,0.38,36,9.8,over65,58.3,2.5,3.0,44,2,65,94600.0,52000.0,16500.0
+Ematologia,Medica,4,Sardegna,Regione,5,25,0.05,24,38,0.38,14,9.57,over65,58.3,2.5,3.0,44,2,65,94600.0,52000.0,16500.0
+Ematologia,Medica,4,Sicilia,Regione,17,85,0.05,81,117,0.399,47,9.46,over65,58.3,2.5,3.0,44,2,65,94600.0,52000.0,16500.0
+Ematologia,Medica,4,Toscana,Regione,13,65,0.05,62,90,0.38,34,7.45,over65,58.3,2.5,3.0,44,2,65,94600.0,52000.0,16500.0
+Ematologia,Medica,4,Umbria,Regione,3,15,0.05,14,21,0.38,8,7.61,over65,58.3,2.5,3.0,44,2,65,94600.0,52000.0,16500.0
+Ematologia,Medica,4,Valle d'Aosta,Regione,0,0,0.05,0,3,0.38,1,10.58,over65,58.3,2.5,3.0,44,2,65,94600.0,52000.0,16500.0
+Ematologia,Medica,4,Veneto,Regione,17,85,0.05,81,119,0.361,43,11.23,over65,58.3,2.5,3.0,44,2,65,94600.0,52000.0,16500.0
+Ematologia,Medica,4,P.A. Bolzano,Regione,2,10,0.05,10,13,0.361,5,15.77,over65,58.3,2.5,3.0,44,2,65,94600.0,52000.0,16500.0
+Ematologia,Medica,4,P.A. Trento,Regione,2,10,0.05,10,13,0.361,5,12.85,over65,58.3,2.5,3.0,44,2,65,94600.0,52000.0,16500.0
+Endocrinologia e malattie del metabolismo,Medica,4,Italia (Nazionale),Nazionale,200,1000,0.02,980,1100,0.38,418,8.5,over65,85.3,0.5,1.0,40,1,45,122900.0,67600.0,46400.0
+Endocrinologia e malattie del metabolismo,Medica,4,Abruzzo,Regione,4,20,0.02,20,24,0.38,9,9.03,over65,85.3,0.5,1.0,40,1,45,122900.0,67600.0,46400.0
+Endocrinologia e malattie del metabolismo,Medica,4,Basilicata,Regione,2,10,0.02,10,10,0.399,4,8.52,over65,85.3,0.5,1.0,40,1,45,122900.0,67600.0,46400.0
+Endocrinologia e malattie del metabolismo,Medica,4,Calabria,Regione,6,30,0.02,29,34,0.399,14,9.5,over65,85.3,0.5,1.0,40,1,45,122900.0,67600.0,46400.0
+Endocrinologia e malattie del metabolismo,Medica,4,Campania,Regione,19,95,0.02,93,104,0.38,40,12.63,over65,85.3,0.5,1.0,40,1,45,122900.0,67600.0,46400.0
+Endocrinologia e malattie del metabolismo,Medica,4,Emilia-Romagna,Regione,15,75,0.02,74,84,0.38,32,9.01,over65,85.3,0.5,1.0,40,1,45,122900.0,67600.0,46400.0
+Endocrinologia e malattie del metabolismo,Medica,4,Friuli-Venezia Giulia,Regione,4,20,0.02,20,22,0.38,8,7.69,over65,85.3,0.5,1.0,40,1,45,122900.0,67600.0,46400.0
+Endocrinologia e malattie del metabolismo,Medica,4,Lazio,Regione,19,95,0.02,93,107,0.38,41,11.48,over65,85.3,0.5,1.0,40,1,45,122900.0,67600.0,46400.0
+Endocrinologia e malattie del metabolismo,Medica,4,Liguria,Regione,5,25,0.02,24,28,0.399,11,6.51,over65,85.3,0.5,1.0,40,1,45,122900.0,67600.0,46400.0
+Endocrinologia e malattie del metabolismo,Medica,4,Lombardia,Regione,34,170,0.02,167,188,0.361,68,10.72,over65,85.3,0.5,1.0,40,1,45,122900.0,67600.0,46400.0
+Endocrinologia e malattie del metabolismo,Medica,4,Marche,Regione,5,25,0.02,24,28,0.38,11,8.41,over65,85.3,0.5,1.0,40,1,45,122900.0,67600.0,46400.0
+Endocrinologia e malattie del metabolismo,Medica,4,Molise,Regione,1,5,0.02,5,5,0.399,2,6.78,over65,85.3,0.5,1.0,40,1,45,122900.0,67600.0,46400.0
+Endocrinologia e malattie del metabolismo,Medica,4,Piemonte,Regione,14,70,0.02,69,79,0.38,30,6.84,over65,85.3,0.5,1.0,40,1,45,122900.0,67600.0,46400.0
+Endocrinologia e malattie del metabolismo,Medica,4,Puglia,Regione,13,65,0.02,64,72,0.38,27,9.8,over65,85.3,0.5,1.0,40,1,45,122900.0,67600.0,46400.0
+Endocrinologia e malattie del metabolismo,Medica,4,Sardegna,Regione,5,25,0.02,24,29,0.38,11,9.57,over65,85.3,0.5,1.0,40,1,45,122900.0,67600.0,46400.0
+Endocrinologia e malattie del metabolismo,Medica,4,Sicilia,Regione,16,80,0.02,78,89,0.399,36,9.46,over65,85.3,0.5,1.0,40,1,45,122900.0,67600.0,46400.0
+Endocrinologia e malattie del metabolismo,Medica,4,Toscana,Regione,12,60,0.02,59,68,0.38,26,7.45,over65,85.3,0.5,1.0,40,1,45,122900.0,67600.0,46400.0
+Endocrinologia e malattie del metabolismo,Medica,4,Umbria,Regione,3,15,0.02,15,16,0.38,6,7.61,over65,85.3,0.5,1.0,40,1,45,122900.0,67600.0,46400.0
+Endocrinologia e malattie del metabolismo,Medica,4,Valle d'Aosta,Regione,0,0,0.02,0,2,0.38,1,10.58,over65,85.3,0.5,1.0,40,1,45,122900.0,67600.0,46400.0
+Endocrinologia e malattie del metabolismo,Medica,4,Veneto,Regione,16,80,0.02,78,91,0.361,33,11.23,over65,85.3,0.5,1.0,40,1,45,122900.0,67600.0,46400.0
+Endocrinologia e malattie del metabolismo,Medica,4,P.A. Bolzano,Regione,2,10,0.02,10,10,0.361,4,15.77,over65,85.3,0.5,1.0,40,1,45,122900.0,67600.0,46400.0
+Endocrinologia e malattie del metabolismo,Medica,4,P.A. Trento,Regione,2,10,0.02,10,10,0.361,4,12.85,over65,85.3,0.5,1.0,40,1,45,122900.0,67600.0,46400.0
+Gastroenterologia,Medica,4,Italia (Nazionale),Nazionale,206,1030,0.02,1009,2000,0.38,760,8.5,over65,56.1,2.5,3.5,45,2,60,129900.0,71400.0,51800.0
+Gastroenterologia,Medica,4,Abruzzo,Regione,4,20,0.02,20,43,0.38,16,9.03,over65,56.1,2.5,3.5,45,2,60,129900.0,71400.0,51800.0
+Gastroenterologia,Medica,4,Basilicata,Regione,2,10,0.02,10,18,0.399,7,8.52,over65,56.1,2.5,3.5,45,2,60,129900.0,71400.0,51800.0
+Gastroenterologia,Medica,4,Calabria,Regione,6,30,0.02,29,62,0.399,25,9.5,over65,56.1,2.5,3.5,45,2,60,129900.0,71400.0,51800.0
+Gastroenterologia,Medica,4,Campania,Regione,19,95,0.02,93,189,0.38,72,12.63,over65,56.1,2.5,3.5,45,2,60,129900.0,71400.0,51800.0
+Gastroenterologia,Medica,4,Emilia-Romagna,Regione,16,80,0.02,78,152,0.38,58,9.01,over65,56.1,2.5,3.5,45,2,60,129900.0,71400.0,51800.0
+Gastroenterologia,Medica,4,Friuli-Venezia Giulia,Regione,4,20,0.02,20,40,0.38,15,7.69,over65,56.1,2.5,3.5,45,2,60,129900.0,71400.0,51800.0
+Gastroenterologia,Medica,4,Lazio,Regione,20,100,0.02,98,194,0.38,74,11.48,over65,56.1,2.5,3.5,45,2,60,129900.0,71400.0,51800.0
+Gastroenterologia,Medica,4,Liguria,Regione,5,25,0.02,24,51,0.399,20,6.51,over65,56.1,2.5,3.5,45,2,60,129900.0,71400.0,51800.0
+Gastroenterologia,Medica,4,Lombardia,Regione,35,175,0.02,172,341,0.361,123,10.72,over65,56.1,2.5,3.5,45,2,60,129900.0,71400.0,51800.0
+Gastroenterologia,Medica,4,Marche,Regione,5,25,0.02,24,50,0.38,19,8.41,over65,56.1,2.5,3.5,45,2,60,129900.0,71400.0,51800.0
+Gastroenterologia,Medica,4,Molise,Regione,1,5,0.02,5,10,0.399,4,6.78,over65,56.1,2.5,3.5,45,2,60,129900.0,71400.0,51800.0
+Gastroenterologia,Medica,4,Piemonte,Regione,15,75,0.02,74,144,0.38,55,6.84,over65,56.1,2.5,3.5,45,2,60,129900.0,71400.0,51800.0
+Gastroenterologia,Medica,4,Puglia,Regione,14,70,0.02,69,131,0.38,50,9.8,over65,56.1,2.5,3.5,45,2,60,129900.0,71400.0,51800.0
+Gastroenterologia,Medica,4,Sardegna,Regione,5,25,0.02,24,53,0.38,20,9.57,over65,56.1,2.5,3.5,45,2,60,129900.0,71400.0,51800.0
+Gastroenterologia,Medica,4,Sicilia,Regione,17,85,0.02,83,162,0.399,65,9.46,over65,56.1,2.5,3.5,45,2,60,129900.0,71400.0,51800.0
+Gastroenterologia,Medica,4,Toscana,Regione,13,65,0.02,64,124,0.38,47,7.45,over65,56.1,2.5,3.5,45,2,60,129900.0,71400.0,51800.0
+Gastroenterologia,Medica,4,Umbria,Regione,3,15,0.02,15,29,0.38,11,7.61,over65,56.1,2.5,3.5,45,2,60,129900.0,71400.0,51800.0
+Gastroenterologia,Medica,4,Valle d'Aosta,Regione,0,0,0.02,0,4,0.38,2,10.58,over65,56.1,2.5,3.5,45,2,60,129900.0,71400.0,51800.0
+Gastroenterologia,Medica,4,Veneto,Regione,17,85,0.02,83,165,0.361,60,11.23,over65,56.1,2.5,3.5,45,2,60,129900.0,71400.0,51800.0
+Gastroenterologia,Medica,4,P.A. Bolzano,Regione,2,10,0.02,10,18,0.361,6,15.77,over65,56.1,2.5,3.5,45,2,60,129900.0,71400.0,51800.0
+Gastroenterologia,Medica,4,P.A. Trento,Regione,2,10,0.02,10,19,0.361,7,12.85,over65,56.1,2.5,3.5,45,2,60,129900.0,71400.0,51800.0
+Geriatria,Medica,4,Italia (Nazionale),Nazionale,390,1950,0.16,1638,1350,0.38,513,-0.5,over80,66.5,3.0,2.0,42,1,60,106200.0,58400.0,27700.0
+Geriatria,Medica,4,Abruzzo,Regione,8,40,0.16,34,29,0.38,11,13.09,over80,66.5,3.0,2.0,42,1,60,106200.0,58400.0,27700.0
+Geriatria,Medica,4,Basilicata,Regione,3,15,0.16,13,12,0.399,5,12.09,over80,66.5,3.0,2.0,42,1,60,106200.0,58400.0,27700.0
+Geriatria,Medica,4,Calabria,Regione,12,60,0.16,50,42,0.399,17,15.8,over80,66.5,3.0,2.0,42,1,60,106200.0,58400.0,27700.0
+Geriatria,Medica,4,Campania,Regione,37,185,0.16,155,128,0.38,49,18.8,over80,66.5,3.0,2.0,42,1,60,106200.0,58400.0,27700.0
+Geriatria,Medica,4,Emilia-Romagna,Regione,30,150,0.16,126,103,0.38,39,10.1,over80,66.5,3.0,2.0,42,1,60,106200.0,58400.0,27700.0
+Geriatria,Medica,4,Friuli-Venezia Giulia,Regione,8,40,0.16,34,27,0.38,10,11.36,over80,66.5,3.0,2.0,42,1,60,106200.0,58400.0,27700.0
+Geriatria,Medica,4,Lazio,Regione,38,190,0.16,160,131,0.38,50,12.54,over80,66.5,3.0,2.0,42,1,60,106200.0,58400.0,27700.0
+Geriatria,Medica,4,Liguria,Regione,10,50,0.16,42,35,0.399,14,6.36,over80,66.5,3.0,2.0,42,1,60,106200.0,58400.0,27700.0
+Geriatria,Medica,4,Lombardia,Regione,67,335,0.16,281,230,0.361,83,12.79,over80,66.5,3.0,2.0,42,1,60,106200.0,58400.0,27700.0
+Geriatria,Medica,4,Marche,Regione,10,50,0.16,42,34,0.38,13,8.3,over80,66.5,3.0,2.0,42,1,60,106200.0,58400.0,27700.0
+Geriatria,Medica,4,Molise,Regione,2,10,0.16,8,7,0.399,3,10.97,over80,66.5,3.0,2.0,42,1,60,106200.0,58400.0,27700.0
+Geriatria,Medica,4,Piemonte,Regione,28,140,0.16,118,97,0.38,37,9.1,over80,66.5,3.0,2.0,42,1,60,106200.0,58400.0,27700.0
+Geriatria,Medica,4,Puglia,Regione,26,130,0.16,109,89,0.38,34,16.63,over80,66.5,3.0,2.0,42,1,60,106200.0,58400.0,27700.0
+Geriatria,Medica,4,Sardegna,Regione,10,50,0.16,42,36,0.38,14,12.71,over80,66.5,3.0,2.0,42,1,60,106200.0,58400.0,27700.0
+Geriatria,Medica,4,Sicilia,Regione,32,160,0.16,134,109,0.399,43,15.59,over80,66.5,3.0,2.0,42,1,60,106200.0,58400.0,27700.0
+Geriatria,Medica,4,Toscana,Regione,24,120,0.16,101,84,0.38,32,9.99,over80,66.5,3.0,2.0,42,1,60,106200.0,58400.0,27700.0
+Geriatria,Medica,4,Umbria,Regione,6,30,0.16,25,19,0.38,7,8.97,over80,66.5,3.0,2.0,42,1,60,106200.0,58400.0,27700.0
+Geriatria,Medica,4,Valle d'Aosta,Regione,1,5,0.16,4,3,0.38,1,12.15,over80,66.5,3.0,2.0,42,1,60,106200.0,58400.0,27700.0
+Geriatria,Medica,4,Veneto,Regione,32,160,0.16,134,111,0.361,40,12.99,over80,66.5,3.0,2.0,42,1,60,106200.0,58400.0,27700.0
+Geriatria,Medica,4,P.A. Bolzano,Regione,4,20,0.16,17,12,0.361,4,10.0,over80,66.5,3.0,2.0,42,1,60,106200.0,58400.0,27700.0
+Geriatria,Medica,4,P.A. Trento,Regione,4,20,0.16,17,13,0.361,5,15.52,over80,66.5,3.0,2.0,42,1,60,106200.0,58400.0,27700.0
+Malattie dell'apparato cardiovascolare,Medica,4,Italia (Nazionale),Nazionale,580,2900,0.01,2871,5400,0.38,2052,8.5,over65,37.4,4.0,4.5,48,3,70,142600.0,78500.0,63300.0
+Malattie dell'apparato cardiovascolare,Medica,4,Abruzzo,Regione,12,60,0.01,59,116,0.38,44,9.03,over65,37.4,4.0,4.5,48,3,70,142600.0,78500.0,63300.0
+Malattie dell'apparato cardiovascolare,Medica,4,Basilicata,Regione,5,25,0.01,25,48,0.399,19,8.52,over65,37.4,4.0,4.5,48,3,70,142600.0,78500.0,63300.0
+Malattie dell'apparato cardiovascolare,Medica,4,Calabria,Regione,18,90,0.01,89,167,0.399,67,9.5,over65,37.4,4.0,4.5,48,3,70,142600.0,78500.0,63300.0
+Malattie dell'apparato cardiovascolare,Medica,4,Campania,Regione,55,275,0.01,272,510,0.38,194,12.63,over65,37.4,4.0,4.5,48,3,70,142600.0,78500.0,63300.0
+Malattie dell'apparato cardiovascolare,Medica,4,Emilia-Romagna,Regione,44,220,0.01,218,410,0.38,156,9.01,over65,37.4,4.0,4.5,48,3,70,142600.0,78500.0,63300.0
+Malattie dell'apparato cardiovascolare,Medica,4,Friuli-Venezia Giulia,Regione,12,60,0.01,59,109,0.38,41,7.69,over65,37.4,4.0,4.5,48,3,70,142600.0,78500.0,63300.0
+Malattie dell'apparato cardiovascolare,Medica,4,Lazio,Regione,56,280,0.01,277,523,0.38,199,11.48,over65,37.4,4.0,4.5,48,3,70,142600.0,78500.0,63300.0
+Malattie dell'apparato cardiovascolare,Medica,4,Liguria,Regione,15,75,0.01,74,139,0.399,55,6.51,over65,37.4,4.0,4.5,48,3,70,142600.0,78500.0,63300.0
+Malattie dell'apparato cardiovascolare,Medica,4,Lombardia,Regione,99,495,0.01,490,922,0.361,333,10.72,over65,37.4,4.0,4.5,48,3,70,142600.0,78500.0,63300.0
+Malattie dell'apparato cardiovascolare,Medica,4,Marche,Regione,15,75,0.01,74,136,0.38,52,8.41,over65,37.4,4.0,4.5,48,3,70,142600.0,78500.0,63300.0
+Malattie dell'apparato cardiovascolare,Medica,4,Molise,Regione,3,15,0.01,15,26,0.399,10,6.78,over65,37.4,4.0,4.5,48,3,70,142600.0,78500.0,63300.0
+Malattie dell'apparato cardiovascolare,Medica,4,Piemonte,Regione,42,210,0.01,208,390,0.38,148,6.84,over65,37.4,4.0,4.5,48,3,70,142600.0,78500.0,63300.0
+Malattie dell'apparato cardiovascolare,Medica,4,Puglia,Regione,38,190,0.01,188,354,0.38,135,9.8,over65,37.4,4.0,4.5,48,3,70,142600.0,78500.0,63300.0
+Malattie dell'apparato cardiovascolare,Medica,4,Sardegna,Regione,15,75,0.01,74,142,0.38,54,9.57,over65,37.4,4.0,4.5,48,3,70,142600.0,78500.0,63300.0
+Malattie dell'apparato cardiovascolare,Medica,4,Sicilia,Regione,47,235,0.01,233,438,0.399,175,9.46,over65,37.4,4.0,4.5,48,3,70,142600.0,78500.0,63300.0
+Malattie dell'apparato cardiovascolare,Medica,4,Toscana,Regione,36,180,0.01,178,335,0.38,127,7.45,over65,37.4,4.0,4.5,48,3,70,142600.0,78500.0,63300.0
+Malattie dell'apparato cardiovascolare,Medica,4,Umbria,Regione,8,40,0.01,40,78,0.38,30,7.61,over65,37.4,4.0,4.5,48,3,70,142600.0,78500.0,63300.0
+Malattie dell'apparato cardiovascolare,Medica,4,Valle d'Aosta,Regione,1,5,0.01,5,11,0.38,4,10.58,over65,37.4,4.0,4.5,48,3,70,142600.0,78500.0,63300.0
+Malattie dell'apparato cardiovascolare,Medica,4,Veneto,Regione,48,240,0.01,238,445,0.361,161,11.23,over65,37.4,4.0,4.5,48,3,70,142600.0,78500.0,63300.0
+Malattie dell'apparato cardiovascolare,Medica,4,P.A. Bolzano,Regione,5,25,0.01,25,50,0.361,18,15.77,over65,37.4,4.0,4.5,48,3,70,142600.0,78500.0,63300.0
+Malattie dell'apparato cardiovascolare,Medica,4,P.A. Trento,Regione,5,25,0.01,25,50,0.361,18,12.85,over65,37.4,4.0,4.5,48,3,70,142600.0,78500.0,63300.0
+Malattie dell'apparato respiratorio,Medica,4,Italia (Nazionale),Nazionale,265,1325,0.05,1259,1500,0.38,570,8.5,over65,63.2,2.5,2.5,42,2,60,119500.0,65700.0,41400.0
+Malattie dell'apparato respiratorio,Medica,4,Abruzzo,Regione,6,30,0.05,28,32,0.38,12,9.03,over65,63.2,2.5,2.5,42,2,60,119500.0,65700.0,41400.0
+Malattie dell'apparato respiratorio,Medica,4,Basilicata,Regione,2,10,0.05,10,13,0.399,5,8.52,over65,63.2,2.5,2.5,42,2,60,119500.0,65700.0,41400.0
+Malattie dell'apparato respiratorio,Medica,4,Calabria,Regione,8,40,0.05,38,47,0.399,19,9.5,over65,63.2,2.5,2.5,42,2,60,119500.0,65700.0,41400.0
+Malattie dell'apparato respiratorio,Medica,4,Campania,Regione,25,125,0.05,119,142,0.38,54,12.63,over65,63.2,2.5,2.5,42,2,60,119500.0,65700.0,41400.0
+Malattie dell'apparato respiratorio,Medica,4,Emilia-Romagna,Regione,20,100,0.05,95,114,0.38,43,9.01,over65,63.2,2.5,2.5,42,2,60,119500.0,65700.0,41400.0
+Malattie dell'apparato respiratorio,Medica,4,Friuli-Venezia Giulia,Regione,5,25,0.05,24,30,0.38,11,7.69,over65,63.2,2.5,2.5,42,2,60,119500.0,65700.0,41400.0
+Malattie dell'apparato respiratorio,Medica,4,Lazio,Regione,26,130,0.05,124,145,0.38,55,11.48,over65,63.2,2.5,2.5,42,2,60,119500.0,65700.0,41400.0
+Malattie dell'apparato respiratorio,Medica,4,Liguria,Regione,7,35,0.05,33,38,0.399,15,6.51,over65,63.2,2.5,2.5,42,2,60,119500.0,65700.0,41400.0
+Malattie dell'apparato respiratorio,Medica,4,Lombardia,Regione,45,225,0.05,214,256,0.361,92,10.72,over65,63.2,2.5,2.5,42,2,60,119500.0,65700.0,41400.0
+Malattie dell'apparato respiratorio,Medica,4,Marche,Regione,7,35,0.05,33,38,0.38,14,8.41,over65,63.2,2.5,2.5,42,2,60,119500.0,65700.0,41400.0
+Malattie dell'apparato respiratorio,Medica,4,Molise,Regione,1,5,0.05,5,7,0.399,3,6.78,over65,63.2,2.5,2.5,42,2,60,119500.0,65700.0,41400.0
+Malattie dell'apparato respiratorio,Medica,4,Piemonte,Regione,19,95,0.05,90,108,0.38,41,6.84,over65,63.2,2.5,2.5,42,2,60,119500.0,65700.0,41400.0
+Malattie dell'apparato respiratorio,Medica,4,Puglia,Regione,17,85,0.05,81,98,0.38,37,9.8,over65,63.2,2.5,2.5,42,2,60,119500.0,65700.0,41400.0
+Malattie dell'apparato respiratorio,Medica,4,Sardegna,Regione,7,35,0.05,33,40,0.38,15,9.57,over65,63.2,2.5,2.5,42,2,60,119500.0,65700.0,41400.0
+Malattie dell'apparato respiratorio,Medica,4,Sicilia,Regione,21,105,0.05,100,122,0.399,49,9.46,over65,63.2,2.5,2.5,42,2,60,119500.0,65700.0,41400.0
+Malattie dell'apparato respiratorio,Medica,4,Toscana,Regione,16,80,0.05,76,93,0.38,35,7.45,over65,63.2,2.5,2.5,42,2,60,119500.0,65700.0,41400.0
+Malattie dell'apparato respiratorio,Medica,4,Umbria,Regione,4,20,0.05,19,22,0.38,8,7.61,over65,63.2,2.5,2.5,42,2,60,119500.0,65700.0,41400.0
+Malattie dell'apparato respiratorio,Medica,4,Valle d'Aosta,Regione,1,5,0.05,5,3,0.38,1,10.58,over65,63.2,2.5,2.5,42,2,60,119500.0,65700.0,41400.0
+Malattie dell'apparato respiratorio,Medica,4,Veneto,Regione,22,110,0.05,104,124,0.361,45,11.23,over65,63.2,2.5,2.5,42,2,60,119500.0,65700.0,41400.0
+Malattie dell'apparato respiratorio,Medica,4,P.A. Bolzano,Regione,2,10,0.05,10,14,0.361,5,15.77,over65,63.2,2.5,2.5,42,2,60,119500.0,65700.0,41400.0
+Malattie dell'apparato respiratorio,Medica,4,P.A. Trento,Regione,2,10,0.05,10,14,0.361,5,12.85,over65,63.2,2.5,2.5,42,2,60,119500.0,65700.0,41400.0
+Malattie infettive e tropicali,Medica,4,Italia (Nazionale),Nazionale,250,1250,0.05,1188,1400,0.38,532,-0.5,totale,62.5,2.5,2.5,42,2,65,91400.0,50300.0,13300.0
+Malattie infettive e tropicali,Medica,4,Abruzzo,Regione,5,25,0.05,24,30,0.38,11,-1.18,totale,62.5,2.5,2.5,42,2,65,91400.0,50300.0,13300.0
+Malattie infettive e tropicali,Medica,4,Basilicata,Regione,2,10,0.05,10,12,0.399,5,-4.41,totale,62.5,2.5,2.5,42,2,65,91400.0,50300.0,13300.0
+Malattie infettive e tropicali,Medica,4,Calabria,Regione,8,40,0.05,38,43,0.399,17,-2.33,totale,62.5,2.5,2.5,42,2,65,91400.0,50300.0,13300.0
+Malattie infettive e tropicali,Medica,4,Campania,Regione,24,120,0.05,114,132,0.38,50,-1.77,totale,62.5,2.5,2.5,42,2,65,91400.0,50300.0,13300.0
+Malattie infettive e tropicali,Medica,4,Emilia-Romagna,Regione,19,95,0.05,90,106,0.38,40,0.99,totale,62.5,2.5,2.5,42,2,65,91400.0,50300.0,13300.0
+Malattie infettive e tropicali,Medica,4,Friuli-Venezia Giulia,Regione,5,25,0.05,24,28,0.38,11,-0.45,totale,62.5,2.5,2.5,42,2,65,91400.0,50300.0,13300.0
+Malattie infettive e tropicali,Medica,4,Lazio,Regione,24,120,0.05,114,136,0.38,52,-0.4,totale,62.5,2.5,2.5,42,2,65,91400.0,50300.0,13300.0
+Malattie infettive e tropicali,Medica,4,Liguria,Regione,6,30,0.05,28,36,0.399,14,0.13,totale,62.5,2.5,2.5,42,2,65,91400.0,50300.0,13300.0
+Malattie infettive e tropicali,Medica,4,Lombardia,Regione,43,215,0.05,204,239,0.361,86,0.82,totale,62.5,2.5,2.5,42,2,65,91400.0,50300.0,13300.0
+Malattie infettive e tropicali,Medica,4,Marche,Regione,6,30,0.05,28,35,0.38,13,-0.81,totale,62.5,2.5,2.5,42,2,65,91400.0,50300.0,13300.0
+Malattie infettive e tropicali,Medica,4,Molise,Regione,1,5,0.05,5,7,0.399,3,-3.24,totale,62.5,2.5,2.5,42,2,65,91400.0,50300.0,13300.0
+Malattie infettive e tropicali,Medica,4,Piemonte,Regione,18,90,0.05,86,101,0.38,38,-0.21,totale,62.5,2.5,2.5,42,2,65,91400.0,50300.0,13300.0
+Malattie infettive e tropicali,Medica,4,Puglia,Regione,16,80,0.05,76,92,0.38,35,-2.15,totale,62.5,2.5,2.5,42,2,65,91400.0,50300.0,13300.0
+Malattie infettive e tropicali,Medica,4,Sardegna,Regione,7,35,0.05,33,37,0.38,14,-3.2,totale,62.5,2.5,2.5,42,2,65,91400.0,50300.0,13300.0
+Malattie infettive e tropicali,Medica,4,Sicilia,Regione,20,100,0.05,95,113,0.399,45,-1.88,totale,62.5,2.5,2.5,42,2,65,91400.0,50300.0,13300.0
+Malattie infettive e tropicali,Medica,4,Toscana,Regione,16,80,0.05,76,87,0.38,33,-0.3,totale,62.5,2.5,2.5,42,2,65,91400.0,50300.0,13300.0
+Malattie infettive e tropicali,Medica,4,Umbria,Regione,4,20,0.05,19,20,0.38,8,-1.16,totale,62.5,2.5,2.5,42,2,65,91400.0,50300.0,13300.0
+Malattie infettive e tropicali,Medica,4,Valle d'Aosta,Regione,1,5,0.05,5,3,0.38,1,-0.55,totale,62.5,2.5,2.5,42,2,65,91400.0,50300.0,13300.0
+Malattie infettive e tropicali,Medica,4,Veneto,Regione,21,105,0.05,100,115,0.361,42,-0.1,totale,62.5,2.5,2.5,42,2,65,91400.0,50300.0,13300.0
+Malattie infettive e tropicali,Medica,4,P.A. Bolzano,Regione,2,10,0.05,10,13,0.361,5,1.62,totale,62.5,2.5,2.5,42,2,65,91400.0,50300.0,13300.0
+Malattie infettive e tropicali,Medica,4,P.A. Trento,Regione,2,10,0.05,10,13,0.361,5,1.32,totale,62.5,2.5,2.5,42,2,65,91400.0,50300.0,13300.0
+Medicina d'emergenza-urgenza,Medica,4,Italia (Nazionale),Nazionale,925,4625,0.48,2405,6500,0.38,2470,-0.5,totale,35.3,6.5,1.0,48,3,90,93800.0,51600.0,3800.0
+Medicina d'emergenza-urgenza,Medica,4,Abruzzo,Regione,20,100,0.48,52,140,0.38,53,-1.18,totale,35.3,6.5,1.0,48,3,90,93800.0,51600.0,3800.0
+Medicina d'emergenza-urgenza,Medica,4,Basilicata,Regione,8,40,0.48,21,58,0.399,23,-4.41,totale,35.3,6.5,1.0,48,3,90,93800.0,51600.0,3800.0
+Medicina d'emergenza-urgenza,Medica,4,Calabria,Regione,29,145,0.48,75,202,0.399,81,-2.33,totale,35.3,6.5,1.0,48,3,90,93800.0,51600.0,3800.0
+Medicina d'emergenza-urgenza,Medica,4,Campania,Regione,87,435,0.48,226,614,0.38,233,-1.77,totale,35.3,6.5,1.0,48,3,90,93800.0,51600.0,3800.0
+Medicina d'emergenza-urgenza,Medica,4,Emilia-Romagna,Regione,70,350,0.48,182,494,0.38,188,0.99,totale,35.3,6.5,1.0,48,3,90,93800.0,51600.0,3800.0
+Medicina d'emergenza-urgenza,Medica,4,Friuli-Venezia Giulia,Regione,19,95,0.48,49,132,0.38,50,-0.45,totale,35.3,6.5,1.0,48,3,90,93800.0,51600.0,3800.0
+Medicina d'emergenza-urgenza,Medica,4,Lazio,Regione,90,450,0.48,234,630,0.38,239,-0.4,totale,35.3,6.5,1.0,48,3,90,93800.0,51600.0,3800.0
+Medicina d'emergenza-urgenza,Medica,4,Liguria,Regione,24,120,0.48,62,167,0.399,67,0.13,totale,35.3,6.5,1.0,48,3,90,93800.0,51600.0,3800.0
+Medicina d'emergenza-urgenza,Medica,4,Lombardia,Regione,158,790,0.48,411,1110,0.361,401,0.82,totale,35.3,6.5,1.0,48,3,90,93800.0,51600.0,3800.0
+Medicina d'emergenza-urgenza,Medica,4,Marche,Regione,23,115,0.48,60,163,0.38,62,-0.81,totale,35.3,6.5,1.0,48,3,90,93800.0,51600.0,3800.0
+Medicina d'emergenza-urgenza,Medica,4,Molise,Regione,4,20,0.48,10,32,0.399,13,-3.24,totale,35.3,6.5,1.0,48,3,90,93800.0,51600.0,3800.0
+Medicina d'emergenza-urgenza,Medica,4,Piemonte,Regione,67,335,0.48,174,469,0.38,178,-0.21,totale,35.3,6.5,1.0,48,3,90,93800.0,51600.0,3800.0
+Medicina d'emergenza-urgenza,Medica,4,Puglia,Regione,61,305,0.48,159,426,0.38,162,-2.15,totale,35.3,6.5,1.0,48,3,90,93800.0,51600.0,3800.0
+Medicina d'emergenza-urgenza,Medica,4,Sardegna,Regione,24,120,0.48,62,171,0.38,65,-3.2,totale,35.3,6.5,1.0,48,3,90,93800.0,51600.0,3800.0
+Medicina d'emergenza-urgenza,Medica,4,Sicilia,Regione,75,375,0.48,195,527,0.399,210,-1.88,totale,35.3,6.5,1.0,48,3,90,93800.0,51600.0,3800.0
+Medicina d'emergenza-urgenza,Medica,4,Toscana,Regione,57,285,0.48,148,403,0.38,153,-0.3,totale,35.3,6.5,1.0,48,3,90,93800.0,51600.0,3800.0
+Medicina d'emergenza-urgenza,Medica,4,Umbria,Regione,13,65,0.48,34,94,0.38,36,-1.16,totale,35.3,6.5,1.0,48,3,90,93800.0,51600.0,3800.0
+Medicina d'emergenza-urgenza,Medica,4,Valle d'Aosta,Regione,2,10,0.48,5,14,0.38,5,-0.55,totale,35.3,6.5,1.0,48,3,90,93800.0,51600.0,3800.0
+Medicina d'emergenza-urgenza,Medica,4,Veneto,Regione,76,380,0.48,198,536,0.361,193,-0.1,totale,35.3,6.5,1.0,48,3,90,93800.0,51600.0,3800.0
+Medicina d'emergenza-urgenza,Medica,4,P.A. Bolzano,Regione,9,45,0.48,23,60,0.361,22,1.62,totale,35.3,6.5,1.0,48,3,90,93800.0,51600.0,3800.0
+Medicina d'emergenza-urgenza,Medica,4,P.A. Trento,Regione,9,45,0.48,23,61,0.361,22,1.32,totale,35.3,6.5,1.0,48,3,90,93800.0,51600.0,3800.0
+Medicina di comunità e delle cure primarie,Medica,4,Italia (Nazionale),Nazionale,125,625,0.32,425,350,0.38,133,8.5,over65,91.6,0.0,0.5,38,1,45,89300.0,49100.0,13300.0
+Medicina di comunità e delle cure primarie,Medica,4,Abruzzo,Regione,3,15,0.32,10,8,0.38,3,9.03,over65,91.6,0.0,0.5,38,1,45,89300.0,49100.0,13300.0
+Medicina di comunità e delle cure primarie,Medica,4,Basilicata,Regione,1,5,0.32,3,3,0.399,1,8.52,over65,91.6,0.0,0.5,38,1,45,89300.0,49100.0,13300.0
+Medicina di comunità e delle cure primarie,Medica,4,Calabria,Regione,4,20,0.32,14,11,0.399,4,9.5,over65,91.6,0.0,0.5,38,1,45,89300.0,49100.0,13300.0
+Medicina di comunità e delle cure primarie,Medica,4,Campania,Regione,12,60,0.32,41,33,0.38,13,12.63,over65,91.6,0.0,0.5,38,1,45,89300.0,49100.0,13300.0
+Medicina di comunità e delle cure primarie,Medica,4,Emilia-Romagna,Regione,9,45,0.32,31,27,0.38,10,9.01,over65,91.6,0.0,0.5,38,1,45,89300.0,49100.0,13300.0
+Medicina di comunità e delle cure primarie,Medica,4,Friuli-Venezia Giulia,Regione,3,15,0.32,10,7,0.38,3,7.69,over65,91.6,0.0,0.5,38,1,45,89300.0,49100.0,13300.0
+Medicina di comunità e delle cure primarie,Medica,4,Lazio,Regione,12,60,0.32,41,34,0.38,13,11.48,over65,91.6,0.0,0.5,38,1,45,89300.0,49100.0,13300.0
+Medicina di comunità e delle cure primarie,Medica,4,Liguria,Regione,3,15,0.32,10,9,0.399,4,6.51,over65,91.6,0.0,0.5,38,1,45,89300.0,49100.0,13300.0
+Medicina di comunità e delle cure primarie,Medica,4,Lombardia,Regione,21,105,0.32,71,60,0.361,22,10.72,over65,91.6,0.0,0.5,38,1,45,89300.0,49100.0,13300.0
+Medicina di comunità e delle cure primarie,Medica,4,Marche,Regione,3,15,0.32,10,9,0.38,3,8.41,over65,91.6,0.0,0.5,38,1,45,89300.0,49100.0,13300.0
+Medicina di comunità e delle cure primarie,Medica,4,Molise,Regione,1,5,0.32,3,2,0.399,1,6.78,over65,91.6,0.0,0.5,38,1,45,89300.0,49100.0,13300.0
+Medicina di comunità e delle cure primarie,Medica,4,Piemonte,Regione,9,45,0.32,31,25,0.38,10,6.84,over65,91.6,0.0,0.5,38,1,45,89300.0,49100.0,13300.0
+Medicina di comunità e delle cure primarie,Medica,4,Puglia,Regione,8,40,0.32,27,23,0.38,9,9.8,over65,91.6,0.0,0.5,38,1,45,89300.0,49100.0,13300.0
+Medicina di comunità e delle cure primarie,Medica,4,Sardegna,Regione,3,15,0.32,10,9,0.38,3,9.57,over65,91.6,0.0,0.5,38,1,45,89300.0,49100.0,13300.0
+Medicina di comunità e delle cure primarie,Medica,4,Sicilia,Regione,10,50,0.32,34,28,0.399,11,9.46,over65,91.6,0.0,0.5,38,1,45,89300.0,49100.0,13300.0
+Medicina di comunità e delle cure primarie,Medica,4,Toscana,Regione,8,40,0.32,27,22,0.38,8,7.45,over65,91.6,0.0,0.5,38,1,45,89300.0,49100.0,13300.0
+Medicina di comunità e delle cure primarie,Medica,4,Umbria,Regione,2,10,0.32,7,5,0.38,2,7.61,over65,91.6,0.0,0.5,38,1,45,89300.0,49100.0,13300.0
+Medicina di comunità e delle cure primarie,Medica,4,Valle d'Aosta,Regione,0,0,0.32,0,1,0.38,0,10.58,over65,91.6,0.0,0.5,38,1,45,89300.0,49100.0,13300.0
+Medicina di comunità e delle cure primarie,Medica,4,Veneto,Regione,10,50,0.32,34,29,0.361,10,11.23,over65,91.6,0.0,0.5,38,1,45,89300.0,49100.0,13300.0
+Medicina di comunità e delle cure primarie,Medica,4,P.A. Bolzano,Regione,1,5,0.32,3,3,0.361,1,15.77,over65,91.6,0.0,0.5,38,1,45,89300.0,49100.0,13300.0
+Medicina di comunità e delle cure primarie,Medica,4,P.A. Trento,Regione,1,5,0.32,3,3,0.361,1,12.85,over65,91.6,0.0,0.5,38,1,45,89300.0,49100.0,13300.0
+Medicina e cure palliative,Medica,4,Italia (Nazionale),Nazionale,140,700,0.28,504,400,0.38,152,-0.5,over80,75.1,1.0,2.5,40,1,65,90200.0,49600.0,13300.0
+Medicina e cure palliative,Medica,4,Abruzzo,Regione,3,15,0.28,11,9,0.38,3,13.09,over80,75.1,1.0,2.5,40,1,65,90200.0,49600.0,13300.0
+Medicina e cure palliative,Medica,4,Basilicata,Regione,1,5,0.28,4,4,0.399,2,12.09,over80,75.1,1.0,2.5,40,1,65,90200.0,49600.0,13300.0
+Medicina e cure palliative,Medica,4,Calabria,Regione,4,20,0.28,14,12,0.399,5,15.8,over80,75.1,1.0,2.5,40,1,65,90200.0,49600.0,13300.0
+Medicina e cure palliative,Medica,4,Campania,Regione,13,65,0.28,47,38,0.38,14,18.8,over80,75.1,1.0,2.5,40,1,65,90200.0,49600.0,13300.0
+Medicina e cure palliative,Medica,4,Emilia-Romagna,Regione,11,55,0.28,40,30,0.38,11,10.1,over80,75.1,1.0,2.5,40,1,65,90200.0,49600.0,13300.0
+Medicina e cure palliative,Medica,4,Friuli-Venezia Giulia,Regione,3,15,0.28,11,8,0.38,3,11.36,over80,75.1,1.0,2.5,40,1,65,90200.0,49600.0,13300.0
+Medicina e cure palliative,Medica,4,Lazio,Regione,14,70,0.28,50,39,0.38,15,12.54,over80,75.1,1.0,2.5,40,1,65,90200.0,49600.0,13300.0
+Medicina e cure palliative,Medica,4,Liguria,Regione,4,20,0.28,14,10,0.399,4,6.36,over80,75.1,1.0,2.5,40,1,65,90200.0,49600.0,13300.0
+Medicina e cure palliative,Medica,4,Lombardia,Regione,24,120,0.28,86,68,0.361,25,12.79,over80,75.1,1.0,2.5,40,1,65,90200.0,49600.0,13300.0
+Medicina e cure palliative,Medica,4,Marche,Regione,4,20,0.28,14,10,0.38,4,8.3,over80,75.1,1.0,2.5,40,1,65,90200.0,49600.0,13300.0
+Medicina e cure palliative,Medica,4,Molise,Regione,1,5,0.28,4,2,0.399,1,10.97,over80,75.1,1.0,2.5,40,1,65,90200.0,49600.0,13300.0
+Medicina e cure palliative,Medica,4,Piemonte,Regione,10,50,0.28,36,29,0.38,11,9.1,over80,75.1,1.0,2.5,40,1,65,90200.0,49600.0,13300.0
+Medicina e cure palliative,Medica,4,Puglia,Regione,9,45,0.28,32,26,0.38,10,16.63,over80,75.1,1.0,2.5,40,1,65,90200.0,49600.0,13300.0
+Medicina e cure palliative,Medica,4,Sardegna,Regione,4,20,0.28,14,11,0.38,4,12.71,over80,75.1,1.0,2.5,40,1,65,90200.0,49600.0,13300.0
+Medicina e cure palliative,Medica,4,Sicilia,Regione,11,55,0.28,40,32,0.399,13,15.59,over80,75.1,1.0,2.5,40,1,65,90200.0,49600.0,13300.0
+Medicina e cure palliative,Medica,4,Toscana,Regione,9,45,0.28,32,25,0.38,10,9.99,over80,75.1,1.0,2.5,40,1,65,90200.0,49600.0,13300.0
+Medicina e cure palliative,Medica,4,Umbria,Regione,2,10,0.28,7,6,0.38,2,8.97,over80,75.1,1.0,2.5,40,1,65,90200.0,49600.0,13300.0
+Medicina e cure palliative,Medica,4,Valle d'Aosta,Regione,0,0,0.28,0,1,0.38,0,12.15,over80,75.1,1.0,2.5,40,1,65,90200.0,49600.0,13300.0
+Medicina e cure palliative,Medica,4,Veneto,Regione,12,60,0.28,43,33,0.361,12,12.99,over80,75.1,1.0,2.5,40,1,65,90200.0,49600.0,13300.0
+Medicina e cure palliative,Medica,4,P.A. Bolzano,Regione,1,5,0.28,4,4,0.361,1,10.0,over80,75.1,1.0,2.5,40,1,65,90200.0,49600.0,13300.0
+Medicina e cure palliative,Medica,4,P.A. Trento,Regione,1,5,0.28,4,4,0.361,1,15.52,over80,75.1,1.0,2.5,40,1,65,90200.0,49600.0,13300.0
+Medicina fisica e riabilitativa,Medica,4,Italia (Nazionale),Nazionale,340,1700,0.03,1649,1650,0.38,627,8.5,over65,88.5,0.5,1.0,38,1,40,122900.0,67600.0,46400.0
+Medicina fisica e riabilitativa,Medica,4,Abruzzo,Regione,7,35,0.03,34,35,0.38,13,9.03,over65,88.5,0.5,1.0,38,1,40,122900.0,67600.0,46400.0
+Medicina fisica e riabilitativa,Medica,4,Basilicata,Regione,3,15,0.03,15,15,0.399,6,8.52,over65,88.5,0.5,1.0,38,1,40,122900.0,67600.0,46400.0
+Medicina fisica e riabilitativa,Medica,4,Calabria,Regione,11,55,0.03,53,51,0.399,20,9.5,over65,88.5,0.5,1.0,38,1,40,122900.0,67600.0,46400.0
+Medicina fisica e riabilitativa,Medica,4,Campania,Regione,32,160,0.03,155,156,0.38,59,12.63,over65,88.5,0.5,1.0,38,1,40,122900.0,67600.0,46400.0
+Medicina fisica e riabilitativa,Medica,4,Emilia-Romagna,Regione,26,130,0.03,126,125,0.38,48,9.01,over65,88.5,0.5,1.0,38,1,40,122900.0,67600.0,46400.0
+Medicina fisica e riabilitativa,Medica,4,Friuli-Venezia Giulia,Regione,7,35,0.03,34,33,0.38,13,7.69,over65,88.5,0.5,1.0,38,1,40,122900.0,67600.0,46400.0
+Medicina fisica e riabilitativa,Medica,4,Lazio,Regione,33,165,0.03,160,160,0.38,61,11.48,over65,88.5,0.5,1.0,38,1,40,122900.0,67600.0,46400.0
+Medicina fisica e riabilitativa,Medica,4,Liguria,Regione,9,45,0.03,44,42,0.399,17,6.51,over65,88.5,0.5,1.0,38,1,40,122900.0,67600.0,46400.0
+Medicina fisica e riabilitativa,Medica,4,Lombardia,Regione,58,290,0.03,281,282,0.361,102,10.72,over65,88.5,0.5,1.0,38,1,40,122900.0,67600.0,46400.0
+Medicina fisica e riabilitativa,Medica,4,Marche,Regione,9,45,0.03,44,41,0.38,16,8.41,over65,88.5,0.5,1.0,38,1,40,122900.0,67600.0,46400.0
+Medicina fisica e riabilitativa,Medica,4,Molise,Regione,2,10,0.03,10,8,0.399,3,6.78,over65,88.5,0.5,1.0,38,1,40,122900.0,67600.0,46400.0
+Medicina fisica e riabilitativa,Medica,4,Piemonte,Regione,25,125,0.03,121,119,0.38,45,6.84,over65,88.5,0.5,1.0,38,1,40,122900.0,67600.0,46400.0
+Medicina fisica e riabilitativa,Medica,4,Puglia,Regione,22,110,0.03,107,108,0.38,41,9.8,over65,88.5,0.5,1.0,38,1,40,122900.0,67600.0,46400.0
+Medicina fisica e riabilitativa,Medica,4,Sardegna,Regione,9,45,0.03,44,44,0.38,17,9.57,over65,88.5,0.5,1.0,38,1,40,122900.0,67600.0,46400.0
+Medicina fisica e riabilitativa,Medica,4,Sicilia,Regione,28,140,0.03,136,134,0.399,53,9.46,over65,88.5,0.5,1.0,38,1,40,122900.0,67600.0,46400.0
+Medicina fisica e riabilitativa,Medica,4,Toscana,Regione,21,105,0.03,102,102,0.38,39,7.45,over65,88.5,0.5,1.0,38,1,40,122900.0,67600.0,46400.0
+Medicina fisica e riabilitativa,Medica,4,Umbria,Regione,5,25,0.03,24,24,0.38,9,7.61,over65,88.5,0.5,1.0,38,1,40,122900.0,67600.0,46400.0
+Medicina fisica e riabilitativa,Medica,4,Valle d'Aosta,Regione,1,5,0.03,5,3,0.38,1,10.58,over65,88.5,0.5,1.0,38,1,40,122900.0,67600.0,46400.0
+Medicina fisica e riabilitativa,Medica,4,Veneto,Regione,28,140,0.03,136,136,0.361,49,11.23,over65,88.5,0.5,1.0,38,1,40,122900.0,67600.0,46400.0
+Medicina fisica e riabilitativa,Medica,4,P.A. Bolzano,Regione,3,15,0.03,15,15,0.361,5,15.77,over65,88.5,0.5,1.0,38,1,40,122900.0,67600.0,46400.0
+Medicina fisica e riabilitativa,Medica,4,P.A. Trento,Regione,3,15,0.03,15,15,0.361,5,12.85,over65,88.5,0.5,1.0,38,1,40,122900.0,67600.0,46400.0
+Medicina interna,Medica,4,Italia (Nazionale),Nazionale,810,4050,0.12,3564,8000,0.38,3040,8.5,over65,50.8,4.0,2.5,45,2,75,107000.0,58900.0,27700.0
+Medicina interna,Medica,4,Abruzzo,Regione,17,85,0.12,75,172,0.38,65,9.03,over65,50.8,4.0,2.5,45,2,75,107000.0,58900.0,27700.0
+Medicina interna,Medica,4,Basilicata,Regione,7,35,0.12,31,71,0.399,28,8.52,over65,50.8,4.0,2.5,45,2,75,107000.0,58900.0,27700.0
+Medicina interna,Medica,4,Calabria,Regione,25,125,0.12,110,248,0.399,99,9.5,over65,50.8,4.0,2.5,45,2,75,107000.0,58900.0,27700.0
+Medicina interna,Medica,4,Campania,Regione,77,385,0.12,339,756,0.38,287,12.63,over65,50.8,4.0,2.5,45,2,75,107000.0,58900.0,27700.0
+Medicina interna,Medica,4,Emilia-Romagna,Regione,62,310,0.12,273,608,0.38,231,9.01,over65,50.8,4.0,2.5,45,2,75,107000.0,58900.0,27700.0
+Medicina interna,Medica,4,Friuli-Venezia Giulia,Regione,16,80,0.12,70,162,0.38,62,7.69,over65,50.8,4.0,2.5,45,2,75,107000.0,58900.0,27700.0
+Medicina interna,Medica,4,Lazio,Regione,78,390,0.12,343,775,0.38,294,11.48,over65,50.8,4.0,2.5,45,2,75,107000.0,58900.0,27700.0
+Medicina interna,Medica,4,Liguria,Regione,21,105,0.12,92,205,0.399,82,6.51,over65,50.8,4.0,2.5,45,2,75,107000.0,58900.0,27700.0
+Medicina interna,Medica,4,Lombardia,Regione,138,690,0.12,607,1366,0.361,493,10.72,over65,50.8,4.0,2.5,45,2,75,107000.0,58900.0,27700.0
+Medicina interna,Medica,4,Marche,Regione,20,100,0.12,88,201,0.38,76,8.41,over65,50.8,4.0,2.5,45,2,75,107000.0,58900.0,27700.0
+Medicina interna,Medica,4,Molise,Regione,4,20,0.12,18,39,0.399,16,6.78,over65,50.8,4.0,2.5,45,2,75,107000.0,58900.0,27700.0
+Medicina interna,Medica,4,Piemonte,Regione,58,290,0.12,255,578,0.38,220,6.84,over65,50.8,4.0,2.5,45,2,75,107000.0,58900.0,27700.0
+Medicina interna,Medica,4,Puglia,Regione,53,265,0.12,233,525,0.38,200,9.8,over65,50.8,4.0,2.5,45,2,75,107000.0,58900.0,27700.0
+Medicina interna,Medica,4,Sardegna,Regione,21,105,0.12,92,211,0.38,80,9.57,over65,50.8,4.0,2.5,45,2,75,107000.0,58900.0,27700.0
+Medicina interna,Medica,4,Sicilia,Regione,66,330,0.12,290,648,0.399,259,9.46,over65,50.8,4.0,2.5,45,2,75,107000.0,58900.0,27700.0
+Medicina interna,Medica,4,Toscana,Regione,50,250,0.12,220,497,0.38,189,7.45,over65,50.8,4.0,2.5,45,2,75,107000.0,58900.0,27700.0
+Medicina interna,Medica,4,Umbria,Regione,12,60,0.12,53,115,0.38,44,7.61,over65,50.8,4.0,2.5,45,2,75,107000.0,58900.0,27700.0
+Medicina interna,Medica,4,Valle d'Aosta,Regione,2,10,0.12,9,17,0.38,6,10.58,over65,50.8,4.0,2.5,45,2,75,107000.0,58900.0,27700.0
+Medicina interna,Medica,4,Veneto,Regione,67,335,0.12,295,659,0.361,238,11.23,over65,50.8,4.0,2.5,45,2,75,107000.0,58900.0,27700.0
+Medicina interna,Medica,4,P.A. Bolzano,Regione,7,35,0.12,31,74,0.361,27,15.77,over65,50.8,4.0,2.5,45,2,75,107000.0,58900.0,27700.0
+Medicina interna,Medica,4,P.A. Trento,Regione,8,40,0.12,35,74,0.361,27,12.85,over65,50.8,4.0,2.5,45,2,75,107000.0,58900.0,27700.0
+Medicina nucleare,Medica,4,Italia (Nazionale),Nazionale,90,450,0.05,428,550,0.38,209,8.5,over65,92.3,0.0,0.5,38,1,40,83900.0,46200.0,7900.0
+Medicina nucleare,Medica,4,Abruzzo,Regione,2,10,0.05,10,12,0.38,5,9.03,over65,92.3,0.0,0.5,38,1,40,83900.0,46200.0,7900.0
+Medicina nucleare,Medica,4,Basilicata,Regione,1,5,0.05,5,5,0.399,2,8.52,over65,92.3,0.0,0.5,38,1,40,83900.0,46200.0,7900.0
+Medicina nucleare,Medica,4,Calabria,Regione,3,15,0.05,14,17,0.399,7,9.5,over65,92.3,0.0,0.5,38,1,40,83900.0,46200.0,7900.0
+Medicina nucleare,Medica,4,Campania,Regione,9,45,0.05,43,52,0.38,20,12.63,over65,92.3,0.0,0.5,38,1,40,83900.0,46200.0,7900.0
+Medicina nucleare,Medica,4,Emilia-Romagna,Regione,7,35,0.05,33,42,0.38,16,9.01,over65,92.3,0.0,0.5,38,1,40,83900.0,46200.0,7900.0
+Medicina nucleare,Medica,4,Friuli-Venezia Giulia,Regione,2,10,0.05,10,11,0.38,4,7.69,over65,92.3,0.0,0.5,38,1,40,83900.0,46200.0,7900.0
+Medicina nucleare,Medica,4,Lazio,Regione,9,45,0.05,43,53,0.38,20,11.48,over65,92.3,0.0,0.5,38,1,40,83900.0,46200.0,7900.0
+Medicina nucleare,Medica,4,Liguria,Regione,2,10,0.05,10,14,0.399,6,6.51,over65,92.3,0.0,0.5,38,1,40,83900.0,46200.0,7900.0
+Medicina nucleare,Medica,4,Lombardia,Regione,15,75,0.05,71,94,0.361,34,10.72,over65,92.3,0.0,0.5,38,1,40,83900.0,46200.0,7900.0
+Medicina nucleare,Medica,4,Marche,Regione,2,10,0.05,10,14,0.38,5,8.41,over65,92.3,0.0,0.5,38,1,40,83900.0,46200.0,7900.0
+Medicina nucleare,Medica,4,Molise,Regione,0,0,0.05,0,3,0.399,1,6.78,over65,92.3,0.0,0.5,38,1,40,83900.0,46200.0,7900.0
+Medicina nucleare,Medica,4,Piemonte,Regione,6,30,0.05,28,40,0.38,15,6.84,over65,92.3,0.0,0.5,38,1,40,83900.0,46200.0,7900.0
+Medicina nucleare,Medica,4,Puglia,Regione,6,30,0.05,28,36,0.38,14,9.8,over65,92.3,0.0,0.5,38,1,40,83900.0,46200.0,7900.0
+Medicina nucleare,Medica,4,Sardegna,Regione,2,10,0.05,10,15,0.38,6,9.57,over65,92.3,0.0,0.5,38,1,40,83900.0,46200.0,7900.0
+Medicina nucleare,Medica,4,Sicilia,Regione,7,35,0.05,33,45,0.399,18,9.46,over65,92.3,0.0,0.5,38,1,40,83900.0,46200.0,7900.0
+Medicina nucleare,Medica,4,Toscana,Regione,6,30,0.05,28,34,0.38,13,7.45,over65,92.3,0.0,0.5,38,1,40,83900.0,46200.0,7900.0
+Medicina nucleare,Medica,4,Umbria,Regione,1,5,0.05,5,8,0.38,3,7.61,over65,92.3,0.0,0.5,38,1,40,83900.0,46200.0,7900.0
+Medicina nucleare,Medica,4,Valle d'Aosta,Regione,0,0,0.05,0,1,0.38,0,10.58,over65,92.3,0.0,0.5,38,1,40,83900.0,46200.0,7900.0
+Medicina nucleare,Medica,4,Veneto,Regione,7,35,0.05,33,45,0.361,16,11.23,over65,92.3,0.0,0.5,38,1,40,83900.0,46200.0,7900.0
+Medicina nucleare,Medica,4,P.A. Bolzano,Regione,1,5,0.05,5,5,0.361,2,15.77,over65,92.3,0.0,0.5,38,1,40,83900.0,46200.0,7900.0
+Medicina nucleare,Medica,4,P.A. Trento,Regione,1,5,0.05,5,5,0.361,2,12.85,over65,92.3,0.0,0.5,38,1,40,83900.0,46200.0,7900.0
+Medicina termale,Medica,4,Italia (Nazionale),Nazionale,5,25,0.5,12,20,0.38,8,8.5,over65,95.5,0.0,0.0,38,1,30,89300.0,49100.0,13300.0
+Medicina termale,Medica,4,Abruzzo,Regione,0,0,0.5,0,1,0.38,0,9.03,over65,95.5,0.0,0.0,38,1,30,89300.0,49100.0,13300.0
+Medicina termale,Medica,4,Basilicata,Regione,0,0,0.5,0,1,0.399,0,8.52,over65,95.5,0.0,0.0,38,1,30,89300.0,49100.0,13300.0
+Medicina termale,Medica,4,Calabria,Regione,0,0,0.5,0,1,0.399,0,9.5,over65,95.5,0.0,0.0,38,1,30,89300.0,49100.0,13300.0
+Medicina termale,Medica,4,Campania,Regione,0,0,0.5,0,2,0.38,1,12.63,over65,95.5,0.0,0.0,38,1,30,89300.0,49100.0,13300.0
+Medicina termale,Medica,4,Emilia-Romagna,Regione,0,0,0.5,0,2,0.38,1,9.01,over65,95.5,0.0,0.0,38,1,30,89300.0,49100.0,13300.0
+Medicina termale,Medica,4,Friuli-Venezia Giulia,Regione,0,0,0.5,0,1,0.38,0,7.69,over65,95.5,0.0,0.0,38,1,30,89300.0,49100.0,13300.0
+Medicina termale,Medica,4,Lazio,Regione,0,0,0.5,0,2,0.38,1,11.48,over65,95.5,0.0,0.0,38,1,30,89300.0,49100.0,13300.0
+Medicina termale,Medica,4,Liguria,Regione,0,0,0.5,0,1,0.399,0,6.51,over65,95.5,0.0,0.0,38,1,30,89300.0,49100.0,13300.0
+Medicina termale,Medica,4,Lombardia,Regione,1,5,0.5,2,3,0.361,1,10.72,over65,95.5,0.0,0.0,38,1,30,89300.0,49100.0,13300.0
+Medicina termale,Medica,4,Marche,Regione,0,0,0.5,0,1,0.38,0,8.41,over65,95.5,0.0,0.0,38,1,30,89300.0,49100.0,13300.0
+Medicina termale,Medica,4,Molise,Regione,0,0,0.5,0,1,0.399,0,6.78,over65,95.5,0.0,0.0,38,1,30,89300.0,49100.0,13300.0
+Medicina termale,Medica,4,Piemonte,Regione,0,0,0.5,0,1,0.38,0,6.84,over65,95.5,0.0,0.0,38,1,30,89300.0,49100.0,13300.0
+Medicina termale,Medica,4,Puglia,Regione,0,0,0.5,0,1,0.38,0,9.8,over65,95.5,0.0,0.0,38,1,30,89300.0,49100.0,13300.0
+Medicina termale,Medica,4,Sardegna,Regione,0,0,0.5,0,1,0.38,0,9.57,over65,95.5,0.0,0.0,38,1,30,89300.0,49100.0,13300.0
+Medicina termale,Medica,4,Sicilia,Regione,0,0,0.5,0,2,0.399,1,9.46,over65,95.5,0.0,0.0,38,1,30,89300.0,49100.0,13300.0
+Medicina termale,Medica,4,Toscana,Regione,0,0,0.5,0,1,0.38,0,7.45,over65,95.5,0.0,0.0,38,1,30,89300.0,49100.0,13300.0
+Medicina termale,Medica,4,Umbria,Regione,0,0,0.5,0,1,0.38,0,7.61,over65,95.5,0.0,0.0,38,1,30,89300.0,49100.0,13300.0
+Medicina termale,Medica,4,Valle d'Aosta,Regione,0,0,0.5,0,1,0.38,0,10.58,over65,95.5,0.0,0.0,38,1,30,89300.0,49100.0,13300.0
+Medicina termale,Medica,4,Veneto,Regione,0,0,0.5,0,2,0.361,1,11.23,over65,95.5,0.0,0.0,38,1,30,89300.0,49100.0,13300.0
+Medicina termale,Medica,4,P.A. Bolzano,Regione,0,0,0.5,0,1,0.361,0,15.77,over65,95.5,0.0,0.0,38,1,30,89300.0,49100.0,13300.0
+Medicina termale,Medica,4,P.A. Trento,Regione,0,0,0.5,0,1,0.361,0,12.85,over65,95.5,0.0,0.0,38,1,30,89300.0,49100.0,13300.0
+Nefrologia,Medica,4,Italia (Nazionale),Nazionale,320,1600,0.15,1360,2200,0.38,836,8.5,over65,56.6,2.5,3.5,44,2,65,101800.0,56000.0,23700.0
+Nefrologia,Medica,4,Abruzzo,Regione,7,35,0.15,30,47,0.38,18,9.03,over65,56.6,2.5,3.5,44,2,65,101800.0,56000.0,23700.0
+Nefrologia,Medica,4,Basilicata,Regione,3,15,0.15,13,20,0.399,8,8.52,over65,56.6,2.5,3.5,44,2,65,101800.0,56000.0,23700.0
+Nefrologia,Medica,4,Calabria,Regione,10,50,0.15,42,68,0.399,27,9.5,over65,56.6,2.5,3.5,44,2,65,101800.0,56000.0,23700.0
+Nefrologia,Medica,4,Campania,Regione,30,150,0.15,128,208,0.38,79,12.63,over65,56.6,2.5,3.5,44,2,65,101800.0,56000.0,23700.0
+Nefrologia,Medica,4,Emilia-Romagna,Regione,24,120,0.15,102,167,0.38,63,9.01,over65,56.6,2.5,3.5,44,2,65,101800.0,56000.0,23700.0
+Nefrologia,Medica,4,Friuli-Venezia Giulia,Regione,6,30,0.15,26,45,0.38,17,7.69,over65,56.6,2.5,3.5,44,2,65,101800.0,56000.0,23700.0
+Nefrologia,Medica,4,Lazio,Regione,31,155,0.15,132,213,0.38,81,11.48,over65,56.6,2.5,3.5,44,2,65,101800.0,56000.0,23700.0
+Nefrologia,Medica,4,Liguria,Regione,8,40,0.15,34,56,0.399,22,6.51,over65,56.6,2.5,3.5,44,2,65,101800.0,56000.0,23700.0
+Nefrologia,Medica,4,Lombardia,Regione,55,275,0.15,234,376,0.361,136,10.72,over65,56.6,2.5,3.5,44,2,65,101800.0,56000.0,23700.0
+Nefrologia,Medica,4,Marche,Regione,8,40,0.15,34,55,0.38,21,8.41,over65,56.6,2.5,3.5,44,2,65,101800.0,56000.0,23700.0
+Nefrologia,Medica,4,Molise,Regione,2,10,0.15,8,11,0.399,4,6.78,over65,56.6,2.5,3.5,44,2,65,101800.0,56000.0,23700.0
+Nefrologia,Medica,4,Piemonte,Regione,23,115,0.15,98,159,0.38,60,6.84,over65,56.6,2.5,3.5,44,2,65,101800.0,56000.0,23700.0
+Nefrologia,Medica,4,Puglia,Regione,21,105,0.15,89,144,0.38,55,9.8,over65,56.6,2.5,3.5,44,2,65,101800.0,56000.0,23700.0
+Nefrologia,Medica,4,Sardegna,Regione,8,40,0.15,34,58,0.38,22,9.57,over65,56.6,2.5,3.5,44,2,65,101800.0,56000.0,23700.0
+Nefrologia,Medica,4,Sicilia,Regione,26,130,0.15,110,178,0.399,71,9.46,over65,56.6,2.5,3.5,44,2,65,101800.0,56000.0,23700.0
+Nefrologia,Medica,4,Toscana,Regione,20,100,0.15,85,137,0.38,52,7.45,over65,56.6,2.5,3.5,44,2,65,101800.0,56000.0,23700.0
+Nefrologia,Medica,4,Umbria,Regione,5,25,0.15,21,32,0.38,12,7.61,over65,56.6,2.5,3.5,44,2,65,101800.0,56000.0,23700.0
+Nefrologia,Medica,4,Valle d'Aosta,Regione,1,5,0.15,4,5,0.38,2,10.58,over65,56.6,2.5,3.5,44,2,65,101800.0,56000.0,23700.0
+Nefrologia,Medica,4,Veneto,Regione,26,130,0.15,110,181,0.361,65,11.23,over65,56.6,2.5,3.5,44,2,65,101800.0,56000.0,23700.0
+Nefrologia,Medica,4,P.A. Bolzano,Regione,3,15,0.15,13,20,0.361,7,15.77,over65,56.6,2.5,3.5,44,2,65,101800.0,56000.0,23700.0
+Nefrologia,Medica,4,P.A. Trento,Regione,3,15,0.15,13,20,0.361,7,12.85,over65,56.6,2.5,3.5,44,2,65,101800.0,56000.0,23700.0
+Neurologia,Medica,4,Italia (Nazionale),Nazionale,310,1550,0.03,1504,2400,0.38,912,8.5,over65,56.1,3.0,3.0,44,2,65,125000.0,68700.0,46400.0
+Neurologia,Medica,4,Abruzzo,Regione,7,35,0.03,34,52,0.38,20,9.03,over65,56.1,3.0,3.0,44,2,65,125000.0,68700.0,46400.0
+Neurologia,Medica,4,Basilicata,Regione,3,15,0.03,15,21,0.399,8,8.52,over65,56.1,3.0,3.0,44,2,65,125000.0,68700.0,46400.0
+Neurologia,Medica,4,Calabria,Regione,10,50,0.03,48,74,0.399,30,9.5,over65,56.1,3.0,3.0,44,2,65,125000.0,68700.0,46400.0
+Neurologia,Medica,4,Campania,Regione,29,145,0.03,141,227,0.38,86,12.63,over65,56.1,3.0,3.0,44,2,65,125000.0,68700.0,46400.0
+Neurologia,Medica,4,Emilia-Romagna,Regione,24,120,0.03,116,182,0.38,69,9.01,over65,56.1,3.0,3.0,44,2,65,125000.0,68700.0,46400.0
+Neurologia,Medica,4,Friuli-Venezia Giulia,Regione,6,30,0.03,29,49,0.38,19,7.69,over65,56.1,3.0,3.0,44,2,65,125000.0,68700.0,46400.0
+Neurologia,Medica,4,Lazio,Regione,30,150,0.03,146,232,0.38,88,11.48,over65,56.1,3.0,3.0,44,2,65,125000.0,68700.0,46400.0
+Neurologia,Medica,4,Liguria,Regione,8,40,0.03,39,62,0.399,25,6.51,over65,56.1,3.0,3.0,44,2,65,125000.0,68700.0,46400.0
+Neurologia,Medica,4,Lombardia,Regione,53,265,0.03,257,410,0.361,148,10.72,over65,56.1,3.0,3.0,44,2,65,125000.0,68700.0,46400.0
+Neurologia,Medica,4,Marche,Regione,8,40,0.03,39,60,0.38,23,8.41,over65,56.1,3.0,3.0,44,2,65,125000.0,68700.0,46400.0
+Neurologia,Medica,4,Molise,Regione,2,10,0.03,10,12,0.399,5,6.78,over65,56.1,3.0,3.0,44,2,65,125000.0,68700.0,46400.0
+Neurologia,Medica,4,Piemonte,Regione,22,110,0.03,107,173,0.38,66,6.84,over65,56.1,3.0,3.0,44,2,65,125000.0,68700.0,46400.0
+Neurologia,Medica,4,Puglia,Regione,20,100,0.03,97,157,0.38,60,9.8,over65,56.1,3.0,3.0,44,2,65,125000.0,68700.0,46400.0
+Neurologia,Medica,4,Sardegna,Regione,8,40,0.03,39,63,0.38,24,9.57,over65,56.1,3.0,3.0,44,2,65,125000.0,68700.0,46400.0
+Neurologia,Medica,4,Sicilia,Regione,25,125,0.03,121,194,0.399,77,9.46,over65,56.1,3.0,3.0,44,2,65,125000.0,68700.0,46400.0
+Neurologia,Medica,4,Toscana,Regione,19,95,0.03,92,149,0.38,57,7.45,over65,56.1,3.0,3.0,44,2,65,125000.0,68700.0,46400.0
+Neurologia,Medica,4,Umbria,Regione,4,20,0.03,19,35,0.38,13,7.61,over65,56.1,3.0,3.0,44,2,65,125000.0,68700.0,46400.0
+Neurologia,Medica,4,Valle d'Aosta,Regione,1,5,0.03,5,5,0.38,2,10.58,over65,56.1,3.0,3.0,44,2,65,125000.0,68700.0,46400.0
+Neurologia,Medica,4,Veneto,Regione,26,130,0.03,126,198,0.361,71,11.23,over65,56.1,3.0,3.0,44,2,65,125000.0,68700.0,46400.0
+Neurologia,Medica,4,P.A. Bolzano,Regione,3,15,0.03,15,22,0.361,8,15.77,over65,56.1,3.0,3.0,44,2,65,125000.0,68700.0,46400.0
+Neurologia,Medica,4,P.A. Trento,Regione,3,15,0.03,15,22,0.361,8,12.85,over65,56.1,3.0,3.0,44,2,65,125000.0,68700.0,46400.0
+Neuropsichiatria infantile,Medica,4,Italia (Nazionale),Nazionale,215,1075,0.02,1054,1200,0.38,456,-10.2,under15,79.2,1.0,1.5,40,1,60,128600.0,70800.0,51800.0
+Neuropsichiatria infantile,Medica,4,Abruzzo,Regione,5,25,0.02,24,26,0.38,10,-11.85,under15,79.2,1.0,1.5,40,1,60,128600.0,70800.0,51800.0
+Neuropsichiatria infantile,Medica,4,Basilicata,Regione,2,10,0.02,10,11,0.399,4,-12.34,under15,79.2,1.0,1.5,40,1,60,128600.0,70800.0,51800.0
+Neuropsichiatria infantile,Medica,4,Calabria,Regione,7,35,0.02,34,37,0.399,15,-10.23,under15,79.2,1.0,1.5,40,1,60,128600.0,70800.0,51800.0
+Neuropsichiatria infantile,Medica,4,Campania,Regione,20,100,0.02,98,113,0.38,43,-9.83,under15,79.2,1.0,1.5,40,1,60,128600.0,70800.0,51800.0
+Neuropsichiatria infantile,Medica,4,Emilia-Romagna,Regione,16,80,0.02,78,91,0.38,35,-8.5,under15,79.2,1.0,1.5,40,1,60,128600.0,70800.0,51800.0
+Neuropsichiatria infantile,Medica,4,Friuli-Venezia Giulia,Regione,4,20,0.02,20,24,0.38,9,-8.04,under15,79.2,1.0,1.5,40,1,60,128600.0,70800.0,51800.0
+Neuropsichiatria infantile,Medica,4,Lazio,Regione,21,105,0.02,103,116,0.38,44,-12.77,under15,79.2,1.0,1.5,40,1,60,128600.0,70800.0,51800.0
+Neuropsichiatria infantile,Medica,4,Liguria,Regione,6,30,0.02,29,31,0.399,12,-5.44,under15,79.2,1.0,1.5,40,1,60,128600.0,70800.0,51800.0
+Neuropsichiatria infantile,Medica,4,Lombardia,Regione,37,185,0.02,181,205,0.361,74,-8.35,under15,79.2,1.0,1.5,40,1,60,128600.0,70800.0,51800.0
+Neuropsichiatria infantile,Medica,4,Marche,Regione,5,25,0.02,24,30,0.38,11,-12.1,under15,79.2,1.0,1.5,40,1,60,128600.0,70800.0,51800.0
+Neuropsichiatria infantile,Medica,4,Molise,Regione,1,5,0.02,5,6,0.399,2,-11.94,under15,79.2,1.0,1.5,40,1,60,128600.0,70800.0,51800.0
+Neuropsichiatria infantile,Medica,4,Piemonte,Regione,16,80,0.02,78,87,0.38,33,-8.69,under15,79.2,1.0,1.5,40,1,60,128600.0,70800.0,51800.0
+Neuropsichiatria infantile,Medica,4,Puglia,Regione,14,70,0.02,69,79,0.38,30,-11.82,under15,79.2,1.0,1.5,40,1,60,128600.0,70800.0,51800.0
+Neuropsichiatria infantile,Medica,4,Sardegna,Regione,6,30,0.02,29,32,0.38,12,-17.99,under15,79.2,1.0,1.5,40,1,60,128600.0,70800.0,51800.0
+Neuropsichiatria infantile,Medica,4,Sicilia,Regione,17,85,0.02,83,97,0.399,39,-10.03,under15,79.2,1.0,1.5,40,1,60,128600.0,70800.0,51800.0
+Neuropsichiatria infantile,Medica,4,Toscana,Regione,13,65,0.02,64,74,0.38,28,-9.93,under15,79.2,1.0,1.5,40,1,60,128600.0,70800.0,51800.0
+Neuropsichiatria infantile,Medica,4,Umbria,Regione,3,15,0.02,15,17,0.38,6,-12.09,under15,79.2,1.0,1.5,40,1,60,128600.0,70800.0,51800.0
+Neuropsichiatria infantile,Medica,4,Valle d'Aosta,Regione,0,0,0.02,0,2,0.38,1,-12.0,under15,79.2,1.0,1.5,40,1,60,128600.0,70800.0,51800.0
+Neuropsichiatria infantile,Medica,4,Veneto,Regione,18,90,0.02,88,99,0.361,36,-9.26,under15,79.2,1.0,1.5,40,1,60,128600.0,70800.0,51800.0
+Neuropsichiatria infantile,Medica,4,P.A. Bolzano,Regione,2,10,0.02,10,11,0.361,4,-5.68,under15,79.2,1.0,1.5,40,1,60,128600.0,70800.0,51800.0
+Neuropsichiatria infantile,Medica,4,P.A. Trento,Regione,2,10,0.02,10,11,0.361,4,-7.37,under15,79.2,1.0,1.5,40,1,60,128600.0,70800.0,51800.0
+Oncologia medica,Medica,4,Italia (Nazionale),Nazionale,310,1550,0.05,1472,2100,0.38,798,8.5,over65,60.6,2.0,2.5,44,2,75,109600.0,60300.0,32000.0
+Oncologia medica,Medica,4,Abruzzo,Regione,7,35,0.05,33,45,0.38,17,9.03,over65,60.6,2.0,2.5,44,2,75,109600.0,60300.0,32000.0
+Oncologia medica,Medica,4,Basilicata,Regione,3,15,0.05,14,19,0.399,8,8.52,over65,60.6,2.0,2.5,44,2,75,109600.0,60300.0,32000.0
+Oncologia medica,Medica,4,Calabria,Regione,10,50,0.05,48,65,0.399,26,9.5,over65,60.6,2.0,2.5,44,2,75,109600.0,60300.0,32000.0
+Oncologia medica,Medica,4,Campania,Regione,29,145,0.05,138,198,0.38,75,12.63,over65,60.6,2.0,2.5,44,2,75,109600.0,60300.0,32000.0
+Oncologia medica,Medica,4,Emilia-Romagna,Regione,24,120,0.05,114,159,0.38,60,9.01,over65,60.6,2.0,2.5,44,2,75,109600.0,60300.0,32000.0
+Oncologia medica,Medica,4,Friuli-Venezia Giulia,Regione,6,30,0.05,28,43,0.38,16,7.69,over65,60.6,2.0,2.5,44,2,75,109600.0,60300.0,32000.0
+Oncologia medica,Medica,4,Lazio,Regione,30,150,0.05,142,203,0.38,77,11.48,over65,60.6,2.0,2.5,44,2,75,109600.0,60300.0,32000.0
+Oncologia medica,Medica,4,Liguria,Regione,8,40,0.05,38,54,0.399,22,6.51,over65,60.6,2.0,2.5,44,2,75,109600.0,60300.0,32000.0
+Oncologia medica,Medica,4,Lombardia,Regione,53,265,0.05,252,359,0.361,130,10.72,over65,60.6,2.0,2.5,44,2,75,109600.0,60300.0,32000.0
+Oncologia medica,Medica,4,Marche,Regione,8,40,0.05,38,53,0.38,20,8.41,over65,60.6,2.0,2.5,44,2,75,109600.0,60300.0,32000.0
+Oncologia medica,Medica,4,Molise,Regione,2,10,0.05,10,10,0.399,4,6.78,over65,60.6,2.0,2.5,44,2,75,109600.0,60300.0,32000.0
+Oncologia medica,Medica,4,Piemonte,Regione,22,110,0.05,104,152,0.38,58,6.84,over65,60.6,2.0,2.5,44,2,75,109600.0,60300.0,32000.0
+Oncologia medica,Medica,4,Puglia,Regione,20,100,0.05,95,138,0.38,52,9.8,over65,60.6,2.0,2.5,44,2,75,109600.0,60300.0,32000.0
+Oncologia medica,Medica,4,Sardegna,Regione,8,40,0.05,38,55,0.38,21,9.57,over65,60.6,2.0,2.5,44,2,75,109600.0,60300.0,32000.0
+Oncologia medica,Medica,4,Sicilia,Regione,25,125,0.05,119,170,0.399,68,9.46,over65,60.6,2.0,2.5,44,2,75,109600.0,60300.0,32000.0
+Oncologia medica,Medica,4,Toscana,Regione,19,95,0.05,90,130,0.38,49,7.45,over65,60.6,2.0,2.5,44,2,75,109600.0,60300.0,32000.0
+Oncologia medica,Medica,4,Umbria,Regione,4,20,0.05,19,30,0.38,11,7.61,over65,60.6,2.0,2.5,44,2,75,109600.0,60300.0,32000.0
+Oncologia medica,Medica,4,Valle d'Aosta,Regione,1,5,0.05,5,4,0.38,2,10.58,over65,60.6,2.0,2.5,44,2,75,109600.0,60300.0,32000.0
+Oncologia medica,Medica,4,Veneto,Regione,26,130,0.05,124,173,0.361,62,11.23,over65,60.6,2.0,2.5,44,2,75,109600.0,60300.0,32000.0
+Oncologia medica,Medica,4,P.A. Bolzano,Regione,3,15,0.05,14,19,0.361,7,15.77,over65,60.6,2.0,2.5,44,2,75,109600.0,60300.0,32000.0
+Oncologia medica,Medica,4,P.A. Trento,Regione,3,15,0.05,14,20,0.361,7,12.85,over65,60.6,2.0,2.5,44,2,75,109600.0,60300.0,32000.0
+Pediatria,Medica,5,Italia (Nazionale),Nazionale,812,4060,0.03,3938,6200,0.38,2356,-10.2,under15,51.9,4.0,3.0,44,2,65,125800.0,69200.0,46400.0
+Pediatria,Medica,5,Abruzzo,Regione,17,85,0.03,82,133,0.38,51,-11.85,under15,51.9,4.0,3.0,44,2,65,125800.0,69200.0,46400.0
+Pediatria,Medica,5,Basilicata,Regione,7,35,0.03,34,55,0.399,22,-12.34,under15,51.9,4.0,3.0,44,2,65,125800.0,69200.0,46400.0
+Pediatria,Medica,5,Calabria,Regione,25,125,0.03,121,192,0.399,77,-10.23,under15,51.9,4.0,3.0,44,2,65,125800.0,69200.0,46400.0
+Pediatria,Medica,5,Campania,Regione,77,385,0.03,373,586,0.38,223,-9.83,under15,51.9,4.0,3.0,44,2,65,125800.0,69200.0,46400.0
+Pediatria,Medica,5,Emilia-Romagna,Regione,62,310,0.03,301,471,0.38,179,-8.5,under15,51.9,4.0,3.0,44,2,65,125800.0,69200.0,46400.0
+Pediatria,Medica,5,Friuli-Venezia Giulia,Regione,16,80,0.03,78,126,0.38,48,-8.04,under15,51.9,4.0,3.0,44,2,65,125800.0,69200.0,46400.0
+Pediatria,Medica,5,Lazio,Regione,79,395,0.03,383,600,0.38,228,-12.77,under15,51.9,4.0,3.0,44,2,65,125800.0,69200.0,46400.0
+Pediatria,Medica,5,Liguria,Regione,21,105,0.03,102,159,0.399,63,-5.44,under15,51.9,4.0,3.0,44,2,65,125800.0,69200.0,46400.0
+Pediatria,Medica,5,Lombardia,Regione,139,695,0.03,674,1059,0.361,382,-8.35,under15,51.9,4.0,3.0,44,2,65,125800.0,69200.0,46400.0
+Pediatria,Medica,5,Marche,Regione,20,100,0.03,97,156,0.38,59,-12.1,under15,51.9,4.0,3.0,44,2,65,125800.0,69200.0,46400.0
+Pediatria,Medica,5,Molise,Regione,4,20,0.03,19,30,0.399,12,-11.94,under15,51.9,4.0,3.0,44,2,65,125800.0,69200.0,46400.0
+Pediatria,Medica,5,Piemonte,Regione,59,295,0.03,286,448,0.38,170,-8.69,under15,51.9,4.0,3.0,44,2,65,125800.0,69200.0,46400.0
+Pediatria,Medica,5,Puglia,Regione,53,265,0.03,257,407,0.38,155,-11.82,under15,51.9,4.0,3.0,44,2,65,125800.0,69200.0,46400.0
+Pediatria,Medica,5,Sardegna,Regione,21,105,0.03,102,164,0.38,62,-17.99,under15,51.9,4.0,3.0,44,2,65,125800.0,69200.0,46400.0
+Pediatria,Medica,5,Sicilia,Regione,66,330,0.03,320,502,0.399,200,-10.03,under15,51.9,4.0,3.0,44,2,65,125800.0,69200.0,46400.0
+Pediatria,Medica,5,Toscana,Regione,50,250,0.03,242,385,0.38,146,-9.93,under15,51.9,4.0,3.0,44,2,65,125800.0,69200.0,46400.0
+Pediatria,Medica,5,Umbria,Regione,12,60,0.03,58,89,0.38,34,-12.09,under15,51.9,4.0,3.0,44,2,65,125800.0,69200.0,46400.0
+Pediatria,Medica,5,Valle d'Aosta,Regione,2,10,0.03,10,13,0.38,5,-12.0,under15,51.9,4.0,3.0,44,2,65,125800.0,69200.0,46400.0
+Pediatria,Medica,5,Veneto,Regione,67,335,0.03,325,511,0.361,184,-9.26,under15,51.9,4.0,3.0,44,2,65,125800.0,69200.0,46400.0
+Pediatria,Medica,5,P.A. Bolzano,Regione,7,35,0.03,34,57,0.361,21,-5.68,under15,51.9,4.0,3.0,44,2,65,125800.0,69200.0,46400.0
+Pediatria,Medica,5,P.A. Trento,Regione,8,40,0.03,39,58,0.361,21,-7.37,under15,51.9,4.0,3.0,44,2,65,125800.0,69200.0,46400.0
+Psichiatria,Medica,4,Italia (Nazionale),Nazionale,520,2600,0.1,2340,4800,0.38,1824,-0.5,totale,59.7,3.0,2.0,42,2,80,130300.0,71700.0,51800.0
+Psichiatria,Medica,4,Abruzzo,Regione,11,55,0.1,50,103,0.38,39,-1.18,totale,59.7,3.0,2.0,42,2,80,130300.0,71700.0,51800.0
+Psichiatria,Medica,4,Basilicata,Regione,5,25,0.1,22,43,0.399,17,-4.41,totale,59.7,3.0,2.0,42,2,80,130300.0,71700.0,51800.0
+Psichiatria,Medica,4,Calabria,Regione,16,80,0.1,72,149,0.399,59,-2.33,totale,59.7,3.0,2.0,42,2,80,130300.0,71700.0,51800.0
+Psichiatria,Medica,4,Campania,Regione,49,245,0.1,220,454,0.38,173,-1.77,totale,59.7,3.0,2.0,42,2,80,130300.0,71700.0,51800.0
+Psichiatria,Medica,4,Emilia-Romagna,Regione,39,195,0.1,176,365,0.38,139,0.99,totale,59.7,3.0,2.0,42,2,80,130300.0,71700.0,51800.0
+Psichiatria,Medica,4,Friuli-Venezia Giulia,Regione,11,55,0.1,50,97,0.38,37,-0.45,totale,59.7,3.0,2.0,42,2,80,130300.0,71700.0,51800.0
+Psichiatria,Medica,4,Lazio,Regione,50,250,0.1,225,465,0.38,177,-0.4,totale,59.7,3.0,2.0,42,2,80,130300.0,71700.0,51800.0
+Psichiatria,Medica,4,Liguria,Regione,13,65,0.1,58,123,0.399,49,0.13,totale,59.7,3.0,2.0,42,2,80,130300.0,71700.0,51800.0
+Psichiatria,Medica,4,Lombardia,Regione,89,445,0.1,400,820,0.361,296,0.82,totale,59.7,3.0,2.0,42,2,80,130300.0,71700.0,51800.0
+Psichiatria,Medica,4,Marche,Regione,13,65,0.1,58,121,0.38,46,-0.81,totale,59.7,3.0,2.0,42,2,80,130300.0,71700.0,51800.0
+Psichiatria,Medica,4,Molise,Regione,3,15,0.1,14,23,0.399,9,-3.24,totale,59.7,3.0,2.0,42,2,80,130300.0,71700.0,51800.0
+Psichiatria,Medica,4,Piemonte,Regione,38,190,0.1,171,347,0.38,132,-0.21,totale,59.7,3.0,2.0,42,2,80,130300.0,71700.0,51800.0
+Psichiatria,Medica,4,Puglia,Regione,34,170,0.1,153,315,0.38,120,-2.15,totale,59.7,3.0,2.0,42,2,80,130300.0,71700.0,51800.0
+Psichiatria,Medica,4,Sardegna,Regione,14,70,0.1,63,127,0.38,48,-3.2,totale,59.7,3.0,2.0,42,2,80,130300.0,71700.0,51800.0
+Psichiatria,Medica,4,Sicilia,Regione,42,210,0.1,189,389,0.399,155,-1.88,totale,59.7,3.0,2.0,42,2,80,130300.0,71700.0,51800.0
+Psichiatria,Medica,4,Toscana,Regione,32,160,0.1,144,298,0.38,113,-0.3,totale,59.7,3.0,2.0,42,2,80,130300.0,71700.0,51800.0
+Psichiatria,Medica,4,Umbria,Regione,8,40,0.1,36,69,0.38,26,-1.16,totale,59.7,3.0,2.0,42,2,80,130300.0,71700.0,51800.0
+Psichiatria,Medica,4,Valle d'Aosta,Regione,1,5,0.1,4,10,0.38,4,-0.55,totale,59.7,3.0,2.0,42,2,80,130300.0,71700.0,51800.0
+Psichiatria,Medica,4,Veneto,Regione,43,215,0.1,194,396,0.361,143,-0.1,totale,59.7,3.0,2.0,42,2,80,130300.0,71700.0,51800.0
+Psichiatria,Medica,4,P.A. Bolzano,Regione,5,25,0.1,22,44,0.361,16,1.62,totale,59.7,3.0,2.0,42,2,80,130300.0,71700.0,51800.0
+Psichiatria,Medica,4,P.A. Trento,Regione,5,25,0.1,22,45,0.361,16,1.32,totale,59.7,3.0,2.0,42,2,80,130300.0,71700.0,51800.0
+Radioterapia,Medica,4,Italia (Nazionale),Nazionale,170,850,0.35,552,750,0.38,285,8.5,over65,79.1,0.5,1.5,40,2,50,86900.0,47800.0,10500.0
+Radioterapia,Medica,4,Abruzzo,Regione,4,20,0.35,13,16,0.38,6,9.03,over65,79.1,0.5,1.5,40,2,50,86900.0,47800.0,10500.0
+Radioterapia,Medica,4,Basilicata,Regione,2,10,0.35,6,7,0.399,3,8.52,over65,79.1,0.5,1.5,40,2,50,86900.0,47800.0,10500.0
+Radioterapia,Medica,4,Calabria,Regione,5,25,0.35,16,23,0.399,9,9.5,over65,79.1,0.5,1.5,40,2,50,86900.0,47800.0,10500.0
+Radioterapia,Medica,4,Campania,Regione,16,80,0.35,52,71,0.38,27,12.63,over65,79.1,0.5,1.5,40,2,50,86900.0,47800.0,10500.0
+Radioterapia,Medica,4,Emilia-Romagna,Regione,13,65,0.35,42,57,0.38,22,9.01,over65,79.1,0.5,1.5,40,2,50,86900.0,47800.0,10500.0
+Radioterapia,Medica,4,Friuli-Venezia Giulia,Regione,3,15,0.35,10,15,0.38,6,7.69,over65,79.1,0.5,1.5,40,2,50,86900.0,47800.0,10500.0
+Radioterapia,Medica,4,Lazio,Regione,16,80,0.35,52,73,0.38,28,11.48,over65,79.1,0.5,1.5,40,2,50,86900.0,47800.0,10500.0
+Radioterapia,Medica,4,Liguria,Regione,4,20,0.35,13,19,0.399,8,6.51,over65,79.1,0.5,1.5,40,2,50,86900.0,47800.0,10500.0
+Radioterapia,Medica,4,Lombardia,Regione,29,145,0.35,94,128,0.361,46,10.72,over65,79.1,0.5,1.5,40,2,50,86900.0,47800.0,10500.0
+Radioterapia,Medica,4,Marche,Regione,4,20,0.35,13,19,0.38,7,8.41,over65,79.1,0.5,1.5,40,2,50,86900.0,47800.0,10500.0
+Radioterapia,Medica,4,Molise,Regione,1,5,0.35,3,4,0.399,2,6.78,over65,79.1,0.5,1.5,40,2,50,86900.0,47800.0,10500.0
+Radioterapia,Medica,4,Piemonte,Regione,12,60,0.35,39,54,0.38,21,6.84,over65,79.1,0.5,1.5,40,2,50,86900.0,47800.0,10500.0
+Radioterapia,Medica,4,Puglia,Regione,11,55,0.35,36,49,0.38,19,9.8,over65,79.1,0.5,1.5,40,2,50,86900.0,47800.0,10500.0
+Radioterapia,Medica,4,Sardegna,Regione,4,20,0.35,13,20,0.38,8,9.57,over65,79.1,0.5,1.5,40,2,50,86900.0,47800.0,10500.0
+Radioterapia,Medica,4,Sicilia,Regione,14,70,0.35,46,61,0.399,24,9.46,over65,79.1,0.5,1.5,40,2,50,86900.0,47800.0,10500.0
+Radioterapia,Medica,4,Toscana,Regione,11,55,0.35,36,47,0.38,18,7.45,over65,79.1,0.5,1.5,40,2,50,86900.0,47800.0,10500.0
+Radioterapia,Medica,4,Umbria,Regione,2,10,0.35,6,11,0.38,4,7.61,over65,79.1,0.5,1.5,40,2,50,86900.0,47800.0,10500.0
+Radioterapia,Medica,4,Valle d'Aosta,Regione,0,0,0.35,0,2,0.38,1,10.58,over65,79.1,0.5,1.5,40,2,50,86900.0,47800.0,10500.0
+Radioterapia,Medica,4,Veneto,Regione,14,70,0.35,46,62,0.361,22,11.23,over65,79.1,0.5,1.5,40,2,50,86900.0,47800.0,10500.0
+Radioterapia,Medica,4,P.A. Bolzano,Regione,2,10,0.35,6,7,0.361,3,15.77,over65,79.1,0.5,1.5,40,2,50,86900.0,47800.0,10500.0
+Radioterapia,Medica,4,P.A. Trento,Regione,2,10,0.35,6,7,0.361,3,12.85,over65,79.1,0.5,1.5,40,2,50,86900.0,47800.0,10500.0
+Reumatologia,Medica,4,Italia (Nazionale),Nazionale,120,600,0.02,588,500,0.38,190,8.5,over65,87.8,0.5,1.0,38,1,45,117800.0,64800.0,41400.0
+Reumatologia,Medica,4,Abruzzo,Regione,3,15,0.02,15,11,0.38,4,9.03,over65,87.8,0.5,1.0,38,1,45,117800.0,64800.0,41400.0
+Reumatologia,Medica,4,Basilicata,Regione,1,5,0.02,5,4,0.399,2,8.52,over65,87.8,0.5,1.0,38,1,45,117800.0,64800.0,41400.0
+Reumatologia,Medica,4,Calabria,Regione,4,20,0.02,20,16,0.399,6,9.5,over65,87.8,0.5,1.0,38,1,45,117800.0,64800.0,41400.0
+Reumatologia,Medica,4,Campania,Regione,11,55,0.02,54,47,0.38,18,12.63,over65,87.8,0.5,1.0,38,1,45,117800.0,64800.0,41400.0
+Reumatologia,Medica,4,Emilia-Romagna,Regione,9,45,0.02,44,38,0.38,14,9.01,over65,87.8,0.5,1.0,38,1,45,117800.0,64800.0,41400.0
+Reumatologia,Medica,4,Friuli-Venezia Giulia,Regione,2,10,0.02,10,10,0.38,4,7.69,over65,87.8,0.5,1.0,38,1,45,117800.0,64800.0,41400.0
+Reumatologia,Medica,4,Lazio,Regione,12,60,0.02,59,48,0.38,18,11.48,over65,87.8,0.5,1.0,38,1,45,117800.0,64800.0,41400.0
+Reumatologia,Medica,4,Liguria,Regione,3,15,0.02,15,13,0.399,5,6.51,over65,87.8,0.5,1.0,38,1,45,117800.0,64800.0,41400.0
+Reumatologia,Medica,4,Lombardia,Regione,20,100,0.02,98,85,0.361,31,10.72,over65,87.8,0.5,1.0,38,1,45,117800.0,64800.0,41400.0
+Reumatologia,Medica,4,Marche,Regione,3,15,0.02,15,13,0.38,5,8.41,over65,87.8,0.5,1.0,38,1,45,117800.0,64800.0,41400.0
+Reumatologia,Medica,4,Molise,Regione,1,5,0.02,5,2,0.399,1,6.78,over65,87.8,0.5,1.0,38,1,45,117800.0,64800.0,41400.0
+Reumatologia,Medica,4,Piemonte,Regione,9,45,0.02,44,36,0.38,14,6.84,over65,87.8,0.5,1.0,38,1,45,117800.0,64800.0,41400.0
+Reumatologia,Medica,4,Puglia,Regione,8,40,0.02,39,33,0.38,13,9.8,over65,87.8,0.5,1.0,38,1,45,117800.0,64800.0,41400.0
+Reumatologia,Medica,4,Sardegna,Regione,3,15,0.02,15,13,0.38,5,9.57,over65,87.8,0.5,1.0,38,1,45,117800.0,64800.0,41400.0
+Reumatologia,Medica,4,Sicilia,Regione,10,50,0.02,49,41,0.399,16,9.46,over65,87.8,0.5,1.0,38,1,45,117800.0,64800.0,41400.0
+Reumatologia,Medica,4,Toscana,Regione,7,35,0.02,34,31,0.38,12,7.45,over65,87.8,0.5,1.0,38,1,45,117800.0,64800.0,41400.0
+Reumatologia,Medica,4,Umbria,Regione,2,10,0.02,10,7,0.38,3,7.61,over65,87.8,0.5,1.0,38,1,45,117800.0,64800.0,41400.0
+Reumatologia,Medica,4,Valle d'Aosta,Regione,0,0,0.02,0,1,0.38,0,10.58,over65,87.8,0.5,1.0,38,1,45,117800.0,64800.0,41400.0
+Reumatologia,Medica,4,Veneto,Regione,10,50,0.02,49,41,0.361,15,11.23,over65,87.8,0.5,1.0,38,1,45,117800.0,64800.0,41400.0
+Reumatologia,Medica,4,P.A. Bolzano,Regione,1,5,0.02,5,5,0.361,2,15.77,over65,87.8,0.5,1.0,38,1,45,117800.0,64800.0,41400.0
+Reumatologia,Medica,4,P.A. Trento,Regione,1,5,0.02,5,5,0.361,2,12.85,over65,87.8,0.5,1.0,38,1,45,117800.0,64800.0,41400.0
+Medicina Generale (MMG*),Cure Primarie*,3,Italia (Nazionale),Nazionale,2700,13500,0.12,11880,39366,0.54,21258,8.5,over65,87.2,0.0,0.0,36,2,60,110000.0,58000.0,13300.0
+Medicina Generale (MMG*),Cure Primarie*,3,Abruzzo,Regione,58,290,0.12,255,846,0.54,457,9.03,over65,87.2,0.0,0.0,36,2,60,110000.0,58000.0,13300.0
+Medicina Generale (MMG*),Cure Primarie*,3,Basilicata,Regione,24,120,0.12,106,351,0.567,199,8.52,over65,87.2,0.0,0.0,36,2,60,110000.0,58000.0,13300.0
+Medicina Generale (MMG*),Cure Primarie*,3,Calabria,Regione,84,420,0.12,370,1221,0.567,692,9.5,over65,87.2,0.0,0.0,36,2,60,110000.0,58000.0,13300.0
+Medicina Generale (MMG*),Cure Primarie*,3,Campania,Regione,255,1275,0.12,1122,3720,0.54,2009,12.63,over65,87.2,0.0,0.0,36,2,60,110000.0,58000.0,13300.0
+Medicina Generale (MMG*),Cure Primarie*,3,Emilia-Romagna,Regione,205,1025,0.12,902,2990,0.54,1615,9.01,over65,87.2,0.0,0.0,36,2,60,110000.0,58000.0,13300.0
+Medicina Generale (MMG*),Cure Primarie*,3,Friuli-Venezia Giulia,Regione,55,275,0.12,242,797,0.54,430,7.69,over65,87.2,0.0,0.0,36,2,60,110000.0,58000.0,13300.0
+Medicina Generale (MMG*),Cure Primarie*,3,Lazio,Regione,262,1310,0.12,1153,3813,0.54,2059,11.48,over65,87.2,0.0,0.0,36,2,60,110000.0,58000.0,13300.0
+Medicina Generale (MMG*),Cure Primarie*,3,Liguria,Regione,69,345,0.12,304,1010,0.567,573,6.51,over65,87.2,0.0,0.0,36,2,60,110000.0,58000.0,13300.0
+Medicina Generale (MMG*),Cure Primarie*,3,Lombardia,Regione,461,2305,0.12,2028,6721,0.513,3448,10.72,over65,87.2,0.0,0.0,36,2,60,110000.0,58000.0,13300.0
+Medicina Generale (MMG*),Cure Primarie*,3,Marche,Regione,68,340,0.12,299,988,0.54,534,8.41,over65,87.2,0.0,0.0,36,2,60,110000.0,58000.0,13300.0
+Medicina Generale (MMG*),Cure Primarie*,3,Molise,Regione,13,65,0.12,57,191,0.567,108,6.78,over65,87.2,0.0,0.0,36,2,60,110000.0,58000.0,13300.0
+Medicina Generale (MMG*),Cure Primarie*,3,Piemonte,Regione,195,975,0.12,858,2842,0.54,1535,6.84,over65,87.2,0.0,0.0,36,2,60,110000.0,58000.0,13300.0
+Medicina Generale (MMG*),Cure Primarie*,3,Puglia,Regione,177,885,0.12,779,2582,0.54,1394,9.8,over65,87.2,0.0,0.0,36,2,60,110000.0,58000.0,13300.0
+Medicina Generale (MMG*),Cure Primarie*,3,Sardegna,Regione,71,355,0.12,312,1038,0.54,561,9.57,over65,87.2,0.0,0.0,36,2,60,110000.0,58000.0,13300.0
+Medicina Generale (MMG*),Cure Primarie*,3,Sicilia,Regione,219,1095,0.12,964,3190,0.567,1809,9.46,over65,87.2,0.0,0.0,36,2,60,110000.0,58000.0,13300.0
+Medicina Generale (MMG*),Cure Primarie*,3,Toscana,Regione,168,840,0.12,739,2444,0.54,1320,7.45,over65,87.2,0.0,0.0,36,2,60,110000.0,58000.0,13300.0
+Medicina Generale (MMG*),Cure Primarie*,3,Umbria,Regione,39,195,0.12,172,568,0.54,307,7.61,over65,87.2,0.0,0.0,36,2,60,110000.0,58000.0,13300.0
+Medicina Generale (MMG*),Cure Primarie*,3,Valle d'Aosta,Regione,6,30,0.12,26,82,0.54,44,10.58,over65,87.2,0.0,0.0,36,2,60,110000.0,58000.0,13300.0
+Medicina Generale (MMG*),Cure Primarie*,3,Veneto,Regione,223,1115,0.12,981,3244,0.513,1664,11.23,over65,87.2,0.0,0.0,36,2,60,110000.0,58000.0,13300.0
+Medicina Generale (MMG*),Cure Primarie*,3,P.A. Bolzano,Regione,25,125,0.12,110,362,0.513,186,15.77,over65,87.2,0.0,0.0,36,2,60,110000.0,58000.0,13300.0
+Medicina Generale (MMG*),Cure Primarie*,3,P.A. Trento,Regione,25,125,0.12,110,366,0.513,188,12.85,over65,87.2,0.0,0.0,36,2,60,110000.0,58000.0,13300.0
+Cardiochirurgia,Chirurgica,5,Italia (Nazionale),Nazionale,95,475,0.04,456,750,0.38,285,8.5,over65,13.7,4.5,6.0,54,5,80,107500.0,59100.0,27700.0
+Cardiochirurgia,Chirurgica,5,Abruzzo,Regione,2,10,0.04,10,16,0.38,6,9.03,over65,13.7,4.5,6.0,54,5,80,107500.0,59100.0,27700.0
+Cardiochirurgia,Chirurgica,5,Basilicata,Regione,1,5,0.04,5,7,0.399,3,8.52,over65,13.7,4.5,6.0,54,5,80,107500.0,59100.0,27700.0
+Cardiochirurgia,Chirurgica,5,Calabria,Regione,3,15,0.04,14,23,0.399,9,9.5,over65,13.7,4.5,6.0,54,5,80,107500.0,59100.0,27700.0
+Cardiochirurgia,Chirurgica,5,Campania,Regione,9,45,0.04,43,71,0.38,27,12.63,over65,13.7,4.5,6.0,54,5,80,107500.0,59100.0,27700.0
+Cardiochirurgia,Chirurgica,5,Emilia-Romagna,Regione,7,35,0.04,34,57,0.38,22,9.01,over65,13.7,4.5,6.0,54,5,80,107500.0,59100.0,27700.0
+Cardiochirurgia,Chirurgica,5,Friuli-Venezia Giulia,Regione,2,10,0.04,10,15,0.38,6,7.69,over65,13.7,4.5,6.0,54,5,80,107500.0,59100.0,27700.0
+Cardiochirurgia,Chirurgica,5,Lazio,Regione,9,45,0.04,43,73,0.38,28,11.48,over65,13.7,4.5,6.0,54,5,80,107500.0,59100.0,27700.0
+Cardiochirurgia,Chirurgica,5,Liguria,Regione,2,10,0.04,10,19,0.399,8,6.51,over65,13.7,4.5,6.0,54,5,80,107500.0,59100.0,27700.0
+Cardiochirurgia,Chirurgica,5,Lombardia,Regione,16,80,0.04,77,128,0.361,46,10.72,over65,13.7,4.5,6.0,54,5,80,107500.0,59100.0,27700.0
+Cardiochirurgia,Chirurgica,5,Marche,Regione,2,10,0.04,10,19,0.38,7,8.41,over65,13.7,4.5,6.0,54,5,80,107500.0,59100.0,27700.0
+Cardiochirurgia,Chirurgica,5,Molise,Regione,0,0,0.04,0,4,0.399,2,6.78,over65,13.7,4.5,6.0,54,5,80,107500.0,59100.0,27700.0
+Cardiochirurgia,Chirurgica,5,Piemonte,Regione,7,35,0.04,34,54,0.38,21,6.84,over65,13.7,4.5,6.0,54,5,80,107500.0,59100.0,27700.0
+Cardiochirurgia,Chirurgica,5,Puglia,Regione,6,30,0.04,29,49,0.38,19,9.8,over65,13.7,4.5,6.0,54,5,80,107500.0,59100.0,27700.0
+Cardiochirurgia,Chirurgica,5,Sardegna,Regione,3,15,0.04,14,20,0.38,8,9.57,over65,13.7,4.5,6.0,54,5,80,107500.0,59100.0,27700.0
+Cardiochirurgia,Chirurgica,5,Sicilia,Regione,8,40,0.04,38,61,0.399,24,9.46,over65,13.7,4.5,6.0,54,5,80,107500.0,59100.0,27700.0
+Cardiochirurgia,Chirurgica,5,Toscana,Regione,6,30,0.04,29,47,0.38,18,7.45,over65,13.7,4.5,6.0,54,5,80,107500.0,59100.0,27700.0
+Cardiochirurgia,Chirurgica,5,Umbria,Regione,1,5,0.04,5,11,0.38,4,7.61,over65,13.7,4.5,6.0,54,5,80,107500.0,59100.0,27700.0
+Cardiochirurgia,Chirurgica,5,Valle d'Aosta,Regione,0,0,0.04,0,2,0.38,1,10.58,over65,13.7,4.5,6.0,54,5,80,107500.0,59100.0,27700.0
+Cardiochirurgia,Chirurgica,5,Veneto,Regione,8,40,0.04,38,62,0.361,22,11.23,over65,13.7,4.5,6.0,54,5,80,107500.0,59100.0,27700.0
+Cardiochirurgia,Chirurgica,5,P.A. Bolzano,Regione,1,5,0.04,5,7,0.361,3,15.77,over65,13.7,4.5,6.0,54,5,80,107500.0,59100.0,27700.0
+Cardiochirurgia,Chirurgica,5,P.A. Trento,Regione,1,5,0.04,5,7,0.361,3,12.85,over65,13.7,4.5,6.0,54,5,80,107500.0,59100.0,27700.0
+Chirurgia generale,Chirurgica,5,Italia (Nazionale),Nazionale,690,3450,0.18,2829,7000,0.38,2660,8.5,over65,24.4,5.0,5.0,50,4,75,116700.0,64200.0,36500.0
+Chirurgia generale,Chirurgica,5,Abruzzo,Regione,15,75,0.18,62,150,0.38,57,9.03,over65,24.4,5.0,5.0,50,4,75,116700.0,64200.0,36500.0
+Chirurgia generale,Chirurgica,5,Basilicata,Regione,6,30,0.18,25,62,0.399,25,8.52,over65,24.4,5.0,5.0,50,4,75,116700.0,64200.0,36500.0
+Chirurgia generale,Chirurgica,5,Calabria,Regione,21,105,0.18,86,217,0.399,87,9.5,over65,24.4,5.0,5.0,50,4,75,116700.0,64200.0,36500.0
+Chirurgia generale,Chirurgica,5,Campania,Regione,65,325,0.18,266,661,0.38,251,12.63,over65,24.4,5.0,5.0,50,4,75,116700.0,64200.0,36500.0
+Chirurgia generale,Chirurgica,5,Emilia-Romagna,Regione,52,260,0.18,213,532,0.38,202,9.01,over65,24.4,5.0,5.0,50,4,75,116700.0,64200.0,36500.0
+Chirurgia generale,Chirurgica,5,Friuli-Venezia Giulia,Regione,14,70,0.18,57,142,0.38,54,7.69,over65,24.4,5.0,5.0,50,4,75,116700.0,64200.0,36500.0
+Chirurgia generale,Chirurgica,5,Lazio,Regione,67,335,0.18,275,678,0.38,258,11.48,over65,24.4,5.0,5.0,50,4,75,116700.0,64200.0,36500.0
+Chirurgia generale,Chirurgica,5,Liguria,Regione,18,90,0.18,74,180,0.399,72,6.51,over65,24.4,5.0,5.0,50,4,75,116700.0,64200.0,36500.0
+Chirurgia generale,Chirurgica,5,Lombardia,Regione,118,590,0.18,484,1195,0.361,431,10.72,over65,24.4,5.0,5.0,50,4,75,116700.0,64200.0,36500.0
+Chirurgia generale,Chirurgica,5,Marche,Regione,17,85,0.18,70,176,0.38,67,8.41,over65,24.4,5.0,5.0,50,4,75,116700.0,64200.0,36500.0
+Chirurgia generale,Chirurgica,5,Molise,Regione,3,15,0.18,12,34,0.399,14,6.78,over65,24.4,5.0,5.0,50,4,75,116700.0,64200.0,36500.0
+Chirurgia generale,Chirurgica,5,Piemonte,Regione,50,250,0.18,205,505,0.38,192,6.84,over65,24.4,5.0,5.0,50,4,75,116700.0,64200.0,36500.0
+Chirurgia generale,Chirurgica,5,Puglia,Regione,45,225,0.18,184,459,0.38,174,9.8,over65,24.4,5.0,5.0,50,4,75,116700.0,64200.0,36500.0
+Chirurgia generale,Chirurgica,5,Sardegna,Regione,18,90,0.18,74,185,0.38,70,9.57,over65,24.4,5.0,5.0,50,4,75,116700.0,64200.0,36500.0
+Chirurgia generale,Chirurgica,5,Sicilia,Regione,56,280,0.18,230,567,0.399,226,9.46,over65,24.4,5.0,5.0,50,4,75,116700.0,64200.0,36500.0
+Chirurgia generale,Chirurgica,5,Toscana,Regione,43,215,0.18,176,435,0.38,165,7.45,over65,24.4,5.0,5.0,50,4,75,116700.0,64200.0,36500.0
+Chirurgia generale,Chirurgica,5,Umbria,Regione,10,50,0.18,41,101,0.38,38,7.61,over65,24.4,5.0,5.0,50,4,75,116700.0,64200.0,36500.0
+Chirurgia generale,Chirurgica,5,Valle d'Aosta,Regione,1,5,0.18,4,15,0.38,6,10.58,over65,24.4,5.0,5.0,50,4,75,116700.0,64200.0,36500.0
+Chirurgia generale,Chirurgica,5,Veneto,Regione,57,285,0.18,234,577,0.361,208,11.23,over65,24.4,5.0,5.0,50,4,75,116700.0,64200.0,36500.0
+Chirurgia generale,Chirurgica,5,P.A. Bolzano,Regione,6,30,0.18,25,64,0.361,23,15.77,over65,24.4,5.0,5.0,50,4,75,116700.0,64200.0,36500.0
+Chirurgia generale,Chirurgica,5,P.A. Trento,Regione,6,30,0.18,25,65,0.361,23,12.85,over65,24.4,5.0,5.0,50,4,75,116700.0,64200.0,36500.0
+Chirurgia maxillo-facciale,Chirurgica,5,Italia (Nazionale),Nazionale,55,275,0.03,267,350,0.38,133,-0.5,totale,42.8,3.0,4.0,46,4,65,125000.0,68700.0,46400.0
+Chirurgia maxillo-facciale,Chirurgica,5,Abruzzo,Regione,1,5,0.03,5,8,0.38,3,-1.18,totale,42.8,3.0,4.0,46,4,65,125000.0,68700.0,46400.0
+Chirurgia maxillo-facciale,Chirurgica,5,Basilicata,Regione,0,0,0.03,0,3,0.399,1,-4.41,totale,42.8,3.0,4.0,46,4,65,125000.0,68700.0,46400.0
+Chirurgia maxillo-facciale,Chirurgica,5,Calabria,Regione,2,10,0.03,10,11,0.399,4,-2.33,totale,42.8,3.0,4.0,46,4,65,125000.0,68700.0,46400.0
+Chirurgia maxillo-facciale,Chirurgica,5,Campania,Regione,5,25,0.03,24,33,0.38,13,-1.77,totale,42.8,3.0,4.0,46,4,65,125000.0,68700.0,46400.0
+Chirurgia maxillo-facciale,Chirurgica,5,Emilia-Romagna,Regione,4,20,0.03,19,27,0.38,10,0.99,totale,42.8,3.0,4.0,46,4,65,125000.0,68700.0,46400.0
+Chirurgia maxillo-facciale,Chirurgica,5,Friuli-Venezia Giulia,Regione,1,5,0.03,5,7,0.38,3,-0.45,totale,42.8,3.0,4.0,46,4,65,125000.0,68700.0,46400.0
+Chirurgia maxillo-facciale,Chirurgica,5,Lazio,Regione,5,25,0.03,24,34,0.38,13,-0.4,totale,42.8,3.0,4.0,46,4,65,125000.0,68700.0,46400.0
+Chirurgia maxillo-facciale,Chirurgica,5,Liguria,Regione,1,5,0.03,5,9,0.399,4,0.13,totale,42.8,3.0,4.0,46,4,65,125000.0,68700.0,46400.0
+Chirurgia maxillo-facciale,Chirurgica,5,Lombardia,Regione,9,45,0.03,44,60,0.361,22,0.82,totale,42.8,3.0,4.0,46,4,65,125000.0,68700.0,46400.0
+Chirurgia maxillo-facciale,Chirurgica,5,Marche,Regione,1,5,0.03,5,9,0.38,3,-0.81,totale,42.8,3.0,4.0,46,4,65,125000.0,68700.0,46400.0
+Chirurgia maxillo-facciale,Chirurgica,5,Molise,Regione,0,0,0.03,0,2,0.399,1,-3.24,totale,42.8,3.0,4.0,46,4,65,125000.0,68700.0,46400.0
+Chirurgia maxillo-facciale,Chirurgica,5,Piemonte,Regione,4,20,0.03,19,25,0.38,10,-0.21,totale,42.8,3.0,4.0,46,4,65,125000.0,68700.0,46400.0
+Chirurgia maxillo-facciale,Chirurgica,5,Puglia,Regione,4,20,0.03,19,23,0.38,9,-2.15,totale,42.8,3.0,4.0,46,4,65,125000.0,68700.0,46400.0
+Chirurgia maxillo-facciale,Chirurgica,5,Sardegna,Regione,1,5,0.03,5,9,0.38,3,-3.2,totale,42.8,3.0,4.0,46,4,65,125000.0,68700.0,46400.0
+Chirurgia maxillo-facciale,Chirurgica,5,Sicilia,Regione,4,20,0.03,19,28,0.399,11,-1.88,totale,42.8,3.0,4.0,46,4,65,125000.0,68700.0,46400.0
+Chirurgia maxillo-facciale,Chirurgica,5,Toscana,Regione,3,15,0.03,15,22,0.38,8,-0.3,totale,42.8,3.0,4.0,46,4,65,125000.0,68700.0,46400.0
+Chirurgia maxillo-facciale,Chirurgica,5,Umbria,Regione,1,5,0.03,5,5,0.38,2,-1.16,totale,42.8,3.0,4.0,46,4,65,125000.0,68700.0,46400.0
+Chirurgia maxillo-facciale,Chirurgica,5,Valle d'Aosta,Regione,0,0,0.03,0,1,0.38,0,-0.55,totale,42.8,3.0,4.0,46,4,65,125000.0,68700.0,46400.0
+Chirurgia maxillo-facciale,Chirurgica,5,Veneto,Regione,5,25,0.03,24,29,0.361,10,-0.1,totale,42.8,3.0,4.0,46,4,65,125000.0,68700.0,46400.0
+Chirurgia maxillo-facciale,Chirurgica,5,P.A. Bolzano,Regione,1,5,0.03,5,3,0.361,1,1.62,totale,42.8,3.0,4.0,46,4,65,125000.0,68700.0,46400.0
+Chirurgia maxillo-facciale,Chirurgica,5,P.A. Trento,Regione,1,5,0.03,5,3,0.361,1,1.32,totale,42.8,3.0,4.0,46,4,65,125000.0,68700.0,46400.0
+Chirurgia pediatrica,Chirurgica,5,Italia (Nazionale),Nazionale,60,300,0.04,288,360,0.38,137,-10.2,under15,38.2,3.5,4.5,46,4,70,98900.0,54400.0,19900.0
+Chirurgia pediatrica,Chirurgica,5,Abruzzo,Regione,1,5,0.04,5,8,0.38,3,-11.85,under15,38.2,3.5,4.5,46,4,70,98900.0,54400.0,19900.0
+Chirurgia pediatrica,Chirurgica,5,Basilicata,Regione,1,5,0.04,5,3,0.399,1,-12.34,under15,38.2,3.5,4.5,46,4,70,98900.0,54400.0,19900.0
+Chirurgia pediatrica,Chirurgica,5,Calabria,Regione,2,10,0.04,10,11,0.399,4,-10.23,under15,38.2,3.5,4.5,46,4,70,98900.0,54400.0,19900.0
+Chirurgia pediatrica,Chirurgica,5,Campania,Regione,6,30,0.04,29,34,0.38,13,-9.83,under15,38.2,3.5,4.5,46,4,70,98900.0,54400.0,19900.0
+Chirurgia pediatrica,Chirurgica,5,Emilia-Romagna,Regione,5,25,0.04,24,27,0.38,10,-8.5,under15,38.2,3.5,4.5,46,4,70,98900.0,54400.0,19900.0
+Chirurgia pediatrica,Chirurgica,5,Friuli-Venezia Giulia,Regione,1,5,0.04,5,7,0.38,3,-8.04,under15,38.2,3.5,4.5,46,4,70,98900.0,54400.0,19900.0
+Chirurgia pediatrica,Chirurgica,5,Lazio,Regione,6,30,0.04,29,35,0.38,13,-12.77,under15,38.2,3.5,4.5,46,4,70,98900.0,54400.0,19900.0
+Chirurgia pediatrica,Chirurgica,5,Liguria,Regione,2,10,0.04,10,9,0.399,4,-5.44,under15,38.2,3.5,4.5,46,4,70,98900.0,54400.0,19900.0
+Chirurgia pediatrica,Chirurgica,5,Lombardia,Regione,10,50,0.04,48,61,0.361,22,-8.35,under15,38.2,3.5,4.5,46,4,70,98900.0,54400.0,19900.0
+Chirurgia pediatrica,Chirurgica,5,Marche,Regione,2,10,0.04,10,9,0.38,3,-12.1,under15,38.2,3.5,4.5,46,4,70,98900.0,54400.0,19900.0
+Chirurgia pediatrica,Chirurgica,5,Molise,Regione,0,0,0.04,0,2,0.399,1,-11.94,under15,38.2,3.5,4.5,46,4,70,98900.0,54400.0,19900.0
+Chirurgia pediatrica,Chirurgica,5,Piemonte,Regione,4,20,0.04,19,26,0.38,10,-8.69,under15,38.2,3.5,4.5,46,4,70,98900.0,54400.0,19900.0
+Chirurgia pediatrica,Chirurgica,5,Puglia,Regione,4,20,0.04,19,24,0.38,9,-11.82,under15,38.2,3.5,4.5,46,4,70,98900.0,54400.0,19900.0
+Chirurgia pediatrica,Chirurgica,5,Sardegna,Regione,2,10,0.04,10,9,0.38,3,-17.99,under15,38.2,3.5,4.5,46,4,70,98900.0,54400.0,19900.0
+Chirurgia pediatrica,Chirurgica,5,Sicilia,Regione,5,25,0.04,24,29,0.399,12,-10.03,under15,38.2,3.5,4.5,46,4,70,98900.0,54400.0,19900.0
+Chirurgia pediatrica,Chirurgica,5,Toscana,Regione,4,20,0.04,19,22,0.38,8,-9.93,under15,38.2,3.5,4.5,46,4,70,98900.0,54400.0,19900.0
+Chirurgia pediatrica,Chirurgica,5,Umbria,Regione,1,5,0.04,5,5,0.38,2,-12.09,under15,38.2,3.5,4.5,46,4,70,98900.0,54400.0,19900.0
+Chirurgia pediatrica,Chirurgica,5,Valle d'Aosta,Regione,0,0,0.04,0,1,0.38,0,-12.0,under15,38.2,3.5,4.5,46,4,70,98900.0,54400.0,19900.0
+Chirurgia pediatrica,Chirurgica,5,Veneto,Regione,5,25,0.04,24,30,0.361,11,-9.26,under15,38.2,3.5,4.5,46,4,70,98900.0,54400.0,19900.0
+Chirurgia pediatrica,Chirurgica,5,P.A. Bolzano,Regione,1,5,0.04,5,3,0.361,1,-5.68,under15,38.2,3.5,4.5,46,4,70,98900.0,54400.0,19900.0
+Chirurgia pediatrica,Chirurgica,5,P.A. Trento,Regione,1,5,0.04,5,3,0.361,1,-7.37,under15,38.2,3.5,4.5,46,4,70,98900.0,54400.0,19900.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,Italia (Nazionale),Nazionale,110,550,0.01,544,700,0.38,266,-0.5,totale,56.1,1.5,3.0,42,5,50,146700.0,80700.0,69400.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,Abruzzo,Regione,2,10,0.01,10,15,0.38,6,-1.18,totale,56.1,1.5,3.0,42,5,50,146700.0,80700.0,69400.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,Basilicata,Regione,1,5,0.01,5,6,0.399,2,-4.41,totale,56.1,1.5,3.0,42,5,50,146700.0,80700.0,69400.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,Calabria,Regione,3,15,0.01,15,22,0.399,9,-2.33,totale,56.1,1.5,3.0,42,5,50,146700.0,80700.0,69400.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,Campania,Regione,10,50,0.01,50,66,0.38,25,-1.77,totale,56.1,1.5,3.0,42,5,50,146700.0,80700.0,69400.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,Emilia-Romagna,Regione,8,40,0.01,40,53,0.38,20,0.99,totale,56.1,1.5,3.0,42,5,50,146700.0,80700.0,69400.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,Friuli-Venezia Giulia,Regione,2,10,0.01,10,14,0.38,5,-0.45,totale,56.1,1.5,3.0,42,5,50,146700.0,80700.0,69400.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,Lazio,Regione,11,55,0.01,54,68,0.38,26,-0.4,totale,56.1,1.5,3.0,42,5,50,146700.0,80700.0,69400.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,Liguria,Regione,3,15,0.01,15,18,0.399,7,0.13,totale,56.1,1.5,3.0,42,5,50,146700.0,80700.0,69400.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,Lombardia,Regione,19,95,0.01,94,120,0.361,43,0.82,totale,56.1,1.5,3.0,42,5,50,146700.0,80700.0,69400.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,Marche,Regione,3,15,0.01,15,18,0.38,7,-0.81,totale,56.1,1.5,3.0,42,5,50,146700.0,80700.0,69400.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,Molise,Regione,1,5,0.01,5,3,0.399,1,-3.24,totale,56.1,1.5,3.0,42,5,50,146700.0,80700.0,69400.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,Piemonte,Regione,8,40,0.01,40,51,0.38,19,-0.21,totale,56.1,1.5,3.0,42,5,50,146700.0,80700.0,69400.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,Puglia,Regione,7,35,0.01,35,46,0.38,17,-2.15,totale,56.1,1.5,3.0,42,5,50,146700.0,80700.0,69400.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,Sardegna,Regione,3,15,0.01,15,18,0.38,7,-3.2,totale,56.1,1.5,3.0,42,5,50,146700.0,80700.0,69400.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,Sicilia,Regione,9,45,0.01,45,57,0.399,23,-1.88,totale,56.1,1.5,3.0,42,5,50,146700.0,80700.0,69400.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,Toscana,Regione,7,35,0.01,35,43,0.38,16,-0.3,totale,56.1,1.5,3.0,42,5,50,146700.0,80700.0,69400.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,Umbria,Regione,2,10,0.01,10,10,0.38,4,-1.16,totale,56.1,1.5,3.0,42,5,50,146700.0,80700.0,69400.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,Valle d'Aosta,Regione,0,0,0.01,0,1,0.38,0,-0.55,totale,56.1,1.5,3.0,42,5,50,146700.0,80700.0,69400.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,Veneto,Regione,9,45,0.01,45,58,0.361,21,-0.1,totale,56.1,1.5,3.0,42,5,50,146700.0,80700.0,69400.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,P.A. Bolzano,Regione,1,5,0.01,5,6,0.361,2,1.62,totale,56.1,1.5,3.0,42,5,50,146700.0,80700.0,69400.0
+"Chirurgia plastica, ricostruttiva ed estetica",Chirurgica,5,P.A. Trento,Regione,1,5,0.01,5,7,0.361,3,1.32,totale,56.1,1.5,3.0,42,5,50,146700.0,80700.0,69400.0
+Chirurgia toracica,Chirurgica,5,Italia (Nazionale),Nazionale,90,450,0.15,382,600,0.38,228,8.5,over65,35.8,3.5,4.5,48,4,70,102600.0,56400.0,23700.0
+Chirurgia toracica,Chirurgica,5,Abruzzo,Regione,2,10,0.15,8,13,0.38,5,9.03,over65,35.8,3.5,4.5,48,4,70,102600.0,56400.0,23700.0
+Chirurgia toracica,Chirurgica,5,Basilicata,Regione,1,5,0.15,4,5,0.399,2,8.52,over65,35.8,3.5,4.5,48,4,70,102600.0,56400.0,23700.0
+Chirurgia toracica,Chirurgica,5,Calabria,Regione,3,15,0.15,13,19,0.399,8,9.5,over65,35.8,3.5,4.5,48,4,70,102600.0,56400.0,23700.0
+Chirurgia toracica,Chirurgica,5,Campania,Regione,9,45,0.15,38,57,0.38,22,12.63,over65,35.8,3.5,4.5,48,4,70,102600.0,56400.0,23700.0
+Chirurgia toracica,Chirurgica,5,Emilia-Romagna,Regione,7,35,0.15,30,46,0.38,17,9.01,over65,35.8,3.5,4.5,48,4,70,102600.0,56400.0,23700.0
+Chirurgia toracica,Chirurgica,5,Friuli-Venezia Giulia,Regione,2,10,0.15,8,12,0.38,5,7.69,over65,35.8,3.5,4.5,48,4,70,102600.0,56400.0,23700.0
+Chirurgia toracica,Chirurgica,5,Lazio,Regione,9,45,0.15,38,58,0.38,22,11.48,over65,35.8,3.5,4.5,48,4,70,102600.0,56400.0,23700.0
+Chirurgia toracica,Chirurgica,5,Liguria,Regione,2,10,0.15,8,15,0.399,6,6.51,over65,35.8,3.5,4.5,48,4,70,102600.0,56400.0,23700.0
+Chirurgia toracica,Chirurgica,5,Lombardia,Regione,15,75,0.15,64,102,0.361,37,10.72,over65,35.8,3.5,4.5,48,4,70,102600.0,56400.0,23700.0
+Chirurgia toracica,Chirurgica,5,Marche,Regione,2,10,0.15,8,15,0.38,6,8.41,over65,35.8,3.5,4.5,48,4,70,102600.0,56400.0,23700.0
+Chirurgia toracica,Chirurgica,5,Molise,Regione,0,0,0.15,0,3,0.399,1,6.78,over65,35.8,3.5,4.5,48,4,70,102600.0,56400.0,23700.0
+Chirurgia toracica,Chirurgica,5,Piemonte,Regione,6,30,0.15,26,43,0.38,16,6.84,over65,35.8,3.5,4.5,48,4,70,102600.0,56400.0,23700.0
+Chirurgia toracica,Chirurgica,5,Puglia,Regione,6,30,0.15,26,39,0.38,15,9.8,over65,35.8,3.5,4.5,48,4,70,102600.0,56400.0,23700.0
+Chirurgia toracica,Chirurgica,5,Sardegna,Regione,2,10,0.15,8,16,0.38,6,9.57,over65,35.8,3.5,4.5,48,4,70,102600.0,56400.0,23700.0
+Chirurgia toracica,Chirurgica,5,Sicilia,Regione,7,35,0.15,30,49,0.399,20,9.46,over65,35.8,3.5,4.5,48,4,70,102600.0,56400.0,23700.0
+Chirurgia toracica,Chirurgica,5,Toscana,Regione,6,30,0.15,26,37,0.38,14,7.45,over65,35.8,3.5,4.5,48,4,70,102600.0,56400.0,23700.0
+Chirurgia toracica,Chirurgica,5,Umbria,Regione,1,5,0.15,4,9,0.38,3,7.61,over65,35.8,3.5,4.5,48,4,70,102600.0,56400.0,23700.0
+Chirurgia toracica,Chirurgica,5,Valle d'Aosta,Regione,0,0,0.15,0,1,0.38,0,10.58,over65,35.8,3.5,4.5,48,4,70,102600.0,56400.0,23700.0
+Chirurgia toracica,Chirurgica,5,Veneto,Regione,7,35,0.15,30,49,0.361,18,11.23,over65,35.8,3.5,4.5,48,4,70,102600.0,56400.0,23700.0
+Chirurgia toracica,Chirurgica,5,P.A. Bolzano,Regione,1,5,0.15,4,6,0.361,2,15.77,over65,35.8,3.5,4.5,48,4,70,102600.0,56400.0,23700.0
+Chirurgia toracica,Chirurgica,5,P.A. Trento,Regione,1,5,0.15,4,6,0.361,2,12.85,over65,35.8,3.5,4.5,48,4,70,102600.0,56400.0,23700.0
+Chirurgia vascolare,Chirurgica,5,Italia (Nazionale),Nazionale,115,575,0.08,529,900,0.38,342,8.5,over65,31.9,4.0,5.0,48,4,70,120700.0,66400.0,41400.0
+Chirurgia vascolare,Chirurgica,5,Abruzzo,Regione,2,10,0.08,9,19,0.38,7,9.03,over65,31.9,4.0,5.0,48,4,70,120700.0,66400.0,41400.0
+Chirurgia vascolare,Chirurgica,5,Basilicata,Regione,1,5,0.08,5,8,0.399,3,8.52,over65,31.9,4.0,5.0,48,4,70,120700.0,66400.0,41400.0
+Chirurgia vascolare,Chirurgica,5,Calabria,Regione,4,20,0.08,18,28,0.399,11,9.5,over65,31.9,4.0,5.0,48,4,70,120700.0,66400.0,41400.0
+Chirurgia vascolare,Chirurgica,5,Campania,Regione,11,55,0.08,51,85,0.38,32,12.63,over65,31.9,4.0,5.0,48,4,70,120700.0,66400.0,41400.0
+Chirurgia vascolare,Chirurgica,5,Emilia-Romagna,Regione,9,45,0.08,41,68,0.38,26,9.01,over65,31.9,4.0,5.0,48,4,70,120700.0,66400.0,41400.0
+Chirurgia vascolare,Chirurgica,5,Friuli-Venezia Giulia,Regione,2,10,0.08,9,18,0.38,7,7.69,over65,31.9,4.0,5.0,48,4,70,120700.0,66400.0,41400.0
+Chirurgia vascolare,Chirurgica,5,Lazio,Regione,11,55,0.08,51,87,0.38,33,11.48,over65,31.9,4.0,5.0,48,4,70,120700.0,66400.0,41400.0
+Chirurgia vascolare,Chirurgica,5,Liguria,Regione,3,15,0.08,14,23,0.399,9,6.51,over65,31.9,4.0,5.0,48,4,70,120700.0,66400.0,41400.0
+Chirurgia vascolare,Chirurgica,5,Lombardia,Regione,20,100,0.08,92,154,0.361,56,10.72,over65,31.9,4.0,5.0,48,4,70,120700.0,66400.0,41400.0
+Chirurgia vascolare,Chirurgica,5,Marche,Regione,3,15,0.08,14,23,0.38,9,8.41,over65,31.9,4.0,5.0,48,4,70,120700.0,66400.0,41400.0
+Chirurgia vascolare,Chirurgica,5,Molise,Regione,1,5,0.08,5,4,0.399,2,6.78,over65,31.9,4.0,5.0,48,4,70,120700.0,66400.0,41400.0
+Chirurgia vascolare,Chirurgica,5,Piemonte,Regione,8,40,0.08,37,65,0.38,25,6.84,over65,31.9,4.0,5.0,48,4,70,120700.0,66400.0,41400.0
+Chirurgia vascolare,Chirurgica,5,Puglia,Regione,8,40,0.08,37,59,0.38,22,9.8,over65,31.9,4.0,5.0,48,4,70,120700.0,66400.0,41400.0
+Chirurgia vascolare,Chirurgica,5,Sardegna,Regione,3,15,0.08,14,24,0.38,9,9.57,over65,31.9,4.0,5.0,48,4,70,120700.0,66400.0,41400.0
+Chirurgia vascolare,Chirurgica,5,Sicilia,Regione,9,45,0.08,41,73,0.399,29,9.46,over65,31.9,4.0,5.0,48,4,70,120700.0,66400.0,41400.0
+Chirurgia vascolare,Chirurgica,5,Toscana,Regione,7,35,0.08,32,56,0.38,21,7.45,over65,31.9,4.0,5.0,48,4,70,120700.0,66400.0,41400.0
+Chirurgia vascolare,Chirurgica,5,Umbria,Regione,2,10,0.08,9,13,0.38,5,7.61,over65,31.9,4.0,5.0,48,4,70,120700.0,66400.0,41400.0
+Chirurgia vascolare,Chirurgica,5,Valle d'Aosta,Regione,0,0,0.08,0,2,0.38,1,10.58,over65,31.9,4.0,5.0,48,4,70,120700.0,66400.0,41400.0
+Chirurgia vascolare,Chirurgica,5,Veneto,Regione,9,45,0.08,41,74,0.361,27,11.23,over65,31.9,4.0,5.0,48,4,70,120700.0,66400.0,41400.0
+Chirurgia vascolare,Chirurgica,5,P.A. Bolzano,Regione,1,5,0.08,5,8,0.361,3,15.77,over65,31.9,4.0,5.0,48,4,70,120700.0,66400.0,41400.0
+Chirurgia vascolare,Chirurgica,5,P.A. Trento,Regione,1,5,0.08,5,8,0.361,3,12.85,over65,31.9,4.0,5.0,48,4,70,120700.0,66400.0,41400.0
+Ginecologia ed ostetricia,Chirurgica,5,Italia (Nazionale),Nazionale,525,2625,0.04,2520,5000,0.38,1900,-0.5,totale,27.0,4.5,4.5,48,5,75,137200.0,75500.0,57400.0
+Ginecologia ed ostetricia,Chirurgica,5,Abruzzo,Regione,11,55,0.04,53,107,0.38,41,-1.18,totale,27.0,4.5,4.5,48,5,75,137200.0,75500.0,57400.0
+Ginecologia ed ostetricia,Chirurgica,5,Basilicata,Regione,5,25,0.04,24,45,0.399,18,-4.41,totale,27.0,4.5,4.5,48,5,75,137200.0,75500.0,57400.0
+Ginecologia ed ostetricia,Chirurgica,5,Calabria,Regione,16,80,0.04,77,155,0.399,62,-2.33,totale,27.0,4.5,4.5,48,5,75,137200.0,75500.0,57400.0
+Ginecologia ed ostetricia,Chirurgica,5,Campania,Regione,50,250,0.04,240,472,0.38,179,-1.77,totale,27.0,4.5,4.5,48,5,75,137200.0,75500.0,57400.0
+Ginecologia ed ostetricia,Chirurgica,5,Emilia-Romagna,Regione,40,200,0.04,192,380,0.38,144,0.99,totale,27.0,4.5,4.5,48,5,75,137200.0,75500.0,57400.0
+Ginecologia ed ostetricia,Chirurgica,5,Friuli-Venezia Giulia,Regione,11,55,0.04,53,101,0.38,38,-0.45,totale,27.0,4.5,4.5,48,5,75,137200.0,75500.0,57400.0
+Ginecologia ed ostetricia,Chirurgica,5,Lazio,Regione,51,255,0.04,245,484,0.38,184,-0.4,totale,27.0,4.5,4.5,48,5,75,137200.0,75500.0,57400.0
+Ginecologia ed ostetricia,Chirurgica,5,Liguria,Regione,13,65,0.04,62,128,0.399,51,0.13,totale,27.0,4.5,4.5,48,5,75,137200.0,75500.0,57400.0
+Ginecologia ed ostetricia,Chirurgica,5,Lombardia,Regione,90,450,0.04,432,854,0.361,308,0.82,totale,27.0,4.5,4.5,48,5,75,137200.0,75500.0,57400.0
+Ginecologia ed ostetricia,Chirurgica,5,Marche,Regione,13,65,0.04,62,126,0.38,48,-0.81,totale,27.0,4.5,4.5,48,5,75,137200.0,75500.0,57400.0
+Ginecologia ed ostetricia,Chirurgica,5,Molise,Regione,3,15,0.04,14,24,0.399,10,-3.24,totale,27.0,4.5,4.5,48,5,75,137200.0,75500.0,57400.0
+Ginecologia ed ostetricia,Chirurgica,5,Piemonte,Regione,38,190,0.04,182,361,0.38,137,-0.21,totale,27.0,4.5,4.5,48,5,75,137200.0,75500.0,57400.0
+Ginecologia ed ostetricia,Chirurgica,5,Puglia,Regione,34,170,0.04,163,328,0.38,125,-2.15,totale,27.0,4.5,4.5,48,5,75,137200.0,75500.0,57400.0
+Ginecologia ed ostetricia,Chirurgica,5,Sardegna,Regione,14,70,0.04,67,132,0.38,50,-3.2,totale,27.0,4.5,4.5,48,5,75,137200.0,75500.0,57400.0
+Ginecologia ed ostetricia,Chirurgica,5,Sicilia,Regione,43,215,0.04,206,405,0.399,162,-1.88,totale,27.0,4.5,4.5,48,5,75,137200.0,75500.0,57400.0
+Ginecologia ed ostetricia,Chirurgica,5,Toscana,Regione,33,165,0.04,158,310,0.38,118,-0.3,totale,27.0,4.5,4.5,48,5,75,137200.0,75500.0,57400.0
+Ginecologia ed ostetricia,Chirurgica,5,Umbria,Regione,8,40,0.04,38,72,0.38,27,-1.16,totale,27.0,4.5,4.5,48,5,75,137200.0,75500.0,57400.0
+Ginecologia ed ostetricia,Chirurgica,5,Valle d'Aosta,Regione,1,5,0.04,5,10,0.38,4,-0.55,totale,27.0,4.5,4.5,48,5,75,137200.0,75500.0,57400.0
+Ginecologia ed ostetricia,Chirurgica,5,Veneto,Regione,43,215,0.04,206,412,0.361,149,-0.1,totale,27.0,4.5,4.5,48,5,75,137200.0,75500.0,57400.0
+Ginecologia ed ostetricia,Chirurgica,5,P.A. Bolzano,Regione,5,25,0.04,24,46,0.361,17,1.62,totale,27.0,4.5,4.5,48,5,75,137200.0,75500.0,57400.0
+Ginecologia ed ostetricia,Chirurgica,5,P.A. Trento,Regione,5,25,0.04,24,47,0.361,17,1.32,totale,27.0,4.5,4.5,48,5,75,137200.0,75500.0,57400.0
+Neurochirurgia,Chirurgica,5,Italia (Nazionale),Nazionale,112,560,0.04,538,880,0.38,334,8.5,over65,16.2,4.5,6.0,52,5,80,111700.0,61500.0,32000.0
+Neurochirurgia,Chirurgica,5,Abruzzo,Regione,2,10,0.04,10,19,0.38,7,9.03,over65,16.2,4.5,6.0,52,5,80,111700.0,61500.0,32000.0
+Neurochirurgia,Chirurgica,5,Basilicata,Regione,1,5,0.04,5,8,0.399,3,8.52,over65,16.2,4.5,6.0,52,5,80,111700.0,61500.0,32000.0
+Neurochirurgia,Chirurgica,5,Calabria,Regione,3,15,0.04,14,27,0.399,11,9.5,over65,16.2,4.5,6.0,52,5,80,111700.0,61500.0,32000.0
+Neurochirurgia,Chirurgica,5,Campania,Regione,11,55,0.04,53,83,0.38,32,12.63,over65,16.2,4.5,6.0,52,5,80,111700.0,61500.0,32000.0
+Neurochirurgia,Chirurgica,5,Emilia-Romagna,Regione,9,45,0.04,43,67,0.38,25,9.01,over65,16.2,4.5,6.0,52,5,80,111700.0,61500.0,32000.0
+Neurochirurgia,Chirurgica,5,Friuli-Venezia Giulia,Regione,2,10,0.04,10,18,0.38,7,7.69,over65,16.2,4.5,6.0,52,5,80,111700.0,61500.0,32000.0
+Neurochirurgia,Chirurgica,5,Lazio,Regione,11,55,0.04,53,85,0.38,32,11.48,over65,16.2,4.5,6.0,52,5,80,111700.0,61500.0,32000.0
+Neurochirurgia,Chirurgica,5,Liguria,Regione,3,15,0.04,14,23,0.399,9,6.51,over65,16.2,4.5,6.0,52,5,80,111700.0,61500.0,32000.0
+Neurochirurgia,Chirurgica,5,Lombardia,Regione,19,95,0.04,91,150,0.361,54,10.72,over65,16.2,4.5,6.0,52,5,80,111700.0,61500.0,32000.0
+Neurochirurgia,Chirurgica,5,Marche,Regione,3,15,0.04,14,22,0.38,8,8.41,over65,16.2,4.5,6.0,52,5,80,111700.0,61500.0,32000.0
+Neurochirurgia,Chirurgica,5,Molise,Regione,1,5,0.04,5,4,0.399,2,6.78,over65,16.2,4.5,6.0,52,5,80,111700.0,61500.0,32000.0
+Neurochirurgia,Chirurgica,5,Piemonte,Regione,8,40,0.04,38,64,0.38,24,6.84,over65,16.2,4.5,6.0,52,5,80,111700.0,61500.0,32000.0
+Neurochirurgia,Chirurgica,5,Puglia,Regione,7,35,0.04,34,58,0.38,22,9.8,over65,16.2,4.5,6.0,52,5,80,111700.0,61500.0,32000.0
+Neurochirurgia,Chirurgica,5,Sardegna,Regione,3,15,0.04,14,23,0.38,9,9.57,over65,16.2,4.5,6.0,52,5,80,111700.0,61500.0,32000.0
+Neurochirurgia,Chirurgica,5,Sicilia,Regione,9,45,0.04,43,71,0.399,28,9.46,over65,16.2,4.5,6.0,52,5,80,111700.0,61500.0,32000.0
+Neurochirurgia,Chirurgica,5,Toscana,Regione,7,35,0.04,34,55,0.38,21,7.45,over65,16.2,4.5,6.0,52,5,80,111700.0,61500.0,32000.0
+Neurochirurgia,Chirurgica,5,Umbria,Regione,2,10,0.04,10,13,0.38,5,7.61,over65,16.2,4.5,6.0,52,5,80,111700.0,61500.0,32000.0
+Neurochirurgia,Chirurgica,5,Valle d'Aosta,Regione,0,0,0.04,0,2,0.38,1,10.58,over65,16.2,4.5,6.0,52,5,80,111700.0,61500.0,32000.0
+Neurochirurgia,Chirurgica,5,Veneto,Regione,9,45,0.04,43,73,0.361,26,11.23,over65,16.2,4.5,6.0,52,5,80,111700.0,61500.0,32000.0
+Neurochirurgia,Chirurgica,5,P.A. Bolzano,Regione,1,5,0.04,5,8,0.361,3,15.77,over65,16.2,4.5,6.0,52,5,80,111700.0,61500.0,32000.0
+Neurochirurgia,Chirurgica,5,P.A. Trento,Regione,1,5,0.04,5,8,0.361,3,12.85,over65,16.2,4.5,6.0,52,5,80,111700.0,61500.0,32000.0
+Oftalmologia,Chirurgica,4,Italia (Nazionale),Nazionale,220,1100,0.01,1089,1900,0.38,722,8.5,over65,72.3,1.0,2.0,40,3,45,146200.0,80400.0,69400.0
+Oftalmologia,Chirurgica,4,Abruzzo,Regione,5,25,0.01,25,41,0.38,16,9.03,over65,72.3,1.0,2.0,40,3,45,146200.0,80400.0,69400.0
+Oftalmologia,Chirurgica,4,Basilicata,Regione,2,10,0.01,10,17,0.399,7,8.52,over65,72.3,1.0,2.0,40,3,45,146200.0,80400.0,69400.0
+Oftalmologia,Chirurgica,4,Calabria,Regione,7,35,0.01,35,59,0.399,24,9.5,over65,72.3,1.0,2.0,40,3,45,146200.0,80400.0,69400.0
+Oftalmologia,Chirurgica,4,Campania,Regione,21,105,0.01,104,180,0.38,68,12.63,over65,72.3,1.0,2.0,40,3,45,146200.0,80400.0,69400.0
+Oftalmologia,Chirurgica,4,Emilia-Romagna,Regione,17,85,0.01,84,144,0.38,55,9.01,over65,72.3,1.0,2.0,40,3,45,146200.0,80400.0,69400.0
+Oftalmologia,Chirurgica,4,Friuli-Venezia Giulia,Regione,4,20,0.01,20,38,0.38,14,7.69,over65,72.3,1.0,2.0,40,3,45,146200.0,80400.0,69400.0
+Oftalmologia,Chirurgica,4,Lazio,Regione,21,105,0.01,104,184,0.38,70,11.48,over65,72.3,1.0,2.0,40,3,45,146200.0,80400.0,69400.0
+Oftalmologia,Chirurgica,4,Liguria,Regione,6,30,0.01,30,49,0.399,20,6.51,over65,72.3,1.0,2.0,40,3,45,146200.0,80400.0,69400.0
+Oftalmologia,Chirurgica,4,Lombardia,Regione,38,190,0.01,188,324,0.361,117,10.72,over65,72.3,1.0,2.0,40,3,45,146200.0,80400.0,69400.0
+Oftalmologia,Chirurgica,4,Marche,Regione,6,30,0.01,30,48,0.38,18,8.41,over65,72.3,1.0,2.0,40,3,45,146200.0,80400.0,69400.0
+Oftalmologia,Chirurgica,4,Molise,Regione,1,5,0.01,5,9,0.399,4,6.78,over65,72.3,1.0,2.0,40,3,45,146200.0,80400.0,69400.0
+Oftalmologia,Chirurgica,4,Piemonte,Regione,16,80,0.01,79,137,0.38,52,6.84,over65,72.3,1.0,2.0,40,3,45,146200.0,80400.0,69400.0
+Oftalmologia,Chirurgica,4,Puglia,Regione,14,70,0.01,69,125,0.38,48,9.8,over65,72.3,1.0,2.0,40,3,45,146200.0,80400.0,69400.0
+Oftalmologia,Chirurgica,4,Sardegna,Regione,6,30,0.01,30,50,0.38,19,9.57,over65,72.3,1.0,2.0,40,3,45,146200.0,80400.0,69400.0
+Oftalmologia,Chirurgica,4,Sicilia,Regione,18,90,0.01,89,154,0.399,61,9.46,over65,72.3,1.0,2.0,40,3,45,146200.0,80400.0,69400.0
+Oftalmologia,Chirurgica,4,Toscana,Regione,14,70,0.01,69,118,0.38,45,7.45,over65,72.3,1.0,2.0,40,3,45,146200.0,80400.0,69400.0
+Oftalmologia,Chirurgica,4,Umbria,Regione,3,15,0.01,15,27,0.38,10,7.61,over65,72.3,1.0,2.0,40,3,45,146200.0,80400.0,69400.0
+Oftalmologia,Chirurgica,4,Valle d'Aosta,Regione,0,0,0.01,0,4,0.38,2,10.58,over65,72.3,1.0,2.0,40,3,45,146200.0,80400.0,69400.0
+Oftalmologia,Chirurgica,4,Veneto,Regione,18,90,0.01,89,157,0.361,57,11.23,over65,72.3,1.0,2.0,40,3,45,146200.0,80400.0,69400.0
+Oftalmologia,Chirurgica,4,P.A. Bolzano,Regione,2,10,0.01,10,17,0.361,6,15.77,over65,72.3,1.0,2.0,40,3,45,146200.0,80400.0,69400.0
+Oftalmologia,Chirurgica,4,P.A. Trento,Regione,2,10,0.01,10,18,0.361,6,12.85,over65,72.3,1.0,2.0,40,3,45,146200.0,80400.0,69400.0
+Ortopedia e traumatologia,Chirurgica,5,Italia (Nazionale),Nazionale,472,2360,0.04,2266,4200,0.38,1596,8.5,over65,28.2,4.0,5.0,48,5,70,142600.0,78500.0,63300.0
+Ortopedia e traumatologia,Chirurgica,5,Abruzzo,Regione,10,50,0.04,48,90,0.38,34,9.03,over65,28.2,4.0,5.0,48,5,70,142600.0,78500.0,63300.0
+Ortopedia e traumatologia,Chirurgica,5,Basilicata,Regione,4,20,0.04,19,37,0.399,15,8.52,over65,28.2,4.0,5.0,48,5,70,142600.0,78500.0,63300.0
+Ortopedia e traumatologia,Chirurgica,5,Calabria,Regione,15,75,0.04,72,130,0.399,52,9.5,over65,28.2,4.0,5.0,48,5,70,142600.0,78500.0,63300.0
+Ortopedia e traumatologia,Chirurgica,5,Campania,Regione,45,225,0.04,216,397,0.38,151,12.63,over65,28.2,4.0,5.0,48,5,70,142600.0,78500.0,63300.0
+Ortopedia e traumatologia,Chirurgica,5,Emilia-Romagna,Regione,36,180,0.04,173,319,0.38,121,9.01,over65,28.2,4.0,5.0,48,5,70,142600.0,78500.0,63300.0
+Ortopedia e traumatologia,Chirurgica,5,Friuli-Venezia Giulia,Regione,10,50,0.04,48,85,0.38,32,7.69,over65,28.2,4.0,5.0,48,5,70,142600.0,78500.0,63300.0
+Ortopedia e traumatologia,Chirurgica,5,Lazio,Regione,46,230,0.04,221,407,0.38,155,11.48,over65,28.2,4.0,5.0,48,5,70,142600.0,78500.0,63300.0
+Ortopedia e traumatologia,Chirurgica,5,Liguria,Regione,12,60,0.04,58,108,0.399,43,6.51,over65,28.2,4.0,5.0,48,5,70,142600.0,78500.0,63300.0
+Ortopedia e traumatologia,Chirurgica,5,Lombardia,Regione,81,405,0.04,389,717,0.361,259,10.72,over65,28.2,4.0,5.0,48,5,70,142600.0,78500.0,63300.0
+Ortopedia e traumatologia,Chirurgica,5,Marche,Regione,12,60,0.04,58,105,0.38,40,8.41,over65,28.2,4.0,5.0,48,5,70,142600.0,78500.0,63300.0
+Ortopedia e traumatologia,Chirurgica,5,Molise,Regione,2,10,0.04,10,20,0.399,8,6.78,over65,28.2,4.0,5.0,48,5,70,142600.0,78500.0,63300.0
+Ortopedia e traumatologia,Chirurgica,5,Piemonte,Regione,34,170,0.04,163,303,0.38,115,6.84,over65,28.2,4.0,5.0,48,5,70,142600.0,78500.0,63300.0
+Ortopedia e traumatologia,Chirurgica,5,Puglia,Regione,31,155,0.04,149,275,0.38,104,9.8,over65,28.2,4.0,5.0,48,5,70,142600.0,78500.0,63300.0
+Ortopedia e traumatologia,Chirurgica,5,Sardegna,Regione,12,60,0.04,58,111,0.38,42,9.57,over65,28.2,4.0,5.0,48,5,70,142600.0,78500.0,63300.0
+Ortopedia e traumatologia,Chirurgica,5,Sicilia,Regione,38,190,0.04,182,340,0.399,136,9.46,over65,28.2,4.0,5.0,48,5,70,142600.0,78500.0,63300.0
+Ortopedia e traumatologia,Chirurgica,5,Toscana,Regione,29,145,0.04,139,261,0.38,99,7.45,over65,28.2,4.0,5.0,48,5,70,142600.0,78500.0,63300.0
+Ortopedia e traumatologia,Chirurgica,5,Umbria,Regione,7,35,0.04,34,61,0.38,23,7.61,over65,28.2,4.0,5.0,48,5,70,142600.0,78500.0,63300.0
+Ortopedia e traumatologia,Chirurgica,5,Valle d'Aosta,Regione,1,5,0.04,5,9,0.38,3,10.58,over65,28.2,4.0,5.0,48,5,70,142600.0,78500.0,63300.0
+Ortopedia e traumatologia,Chirurgica,5,Veneto,Regione,39,195,0.04,187,346,0.361,125,11.23,over65,28.2,4.0,5.0,48,5,70,142600.0,78500.0,63300.0
+Ortopedia e traumatologia,Chirurgica,5,P.A. Bolzano,Regione,4,20,0.04,19,39,0.361,14,15.77,over65,28.2,4.0,5.0,48,5,70,142600.0,78500.0,63300.0
+Ortopedia e traumatologia,Chirurgica,5,P.A. Trento,Regione,4,20,0.04,19,39,0.361,14,12.85,over65,28.2,4.0,5.0,48,5,70,142600.0,78500.0,63300.0
+Otorinolaringoiatria,Chirurgica,4,Italia (Nazionale),Nazionale,185,925,0.03,897,1800,0.38,684,-0.5,totale,61.4,2.0,3.0,42,3,50,129500.0,71200.0,51800.0
+Otorinolaringoiatria,Chirurgica,4,Abruzzo,Regione,4,20,0.03,19,39,0.38,15,-1.18,totale,61.4,2.0,3.0,42,3,50,129500.0,71200.0,51800.0
+Otorinolaringoiatria,Chirurgica,4,Basilicata,Regione,2,10,0.03,10,16,0.399,6,-4.41,totale,61.4,2.0,3.0,42,3,50,129500.0,71200.0,51800.0
+Otorinolaringoiatria,Chirurgica,4,Calabria,Regione,6,30,0.03,29,56,0.399,22,-2.33,totale,61.4,2.0,3.0,42,3,50,129500.0,71200.0,51800.0
+Otorinolaringoiatria,Chirurgica,4,Campania,Regione,17,85,0.03,82,170,0.38,65,-1.77,totale,61.4,2.0,3.0,42,3,50,129500.0,71200.0,51800.0
+Otorinolaringoiatria,Chirurgica,4,Emilia-Romagna,Regione,14,70,0.03,68,137,0.38,52,0.99,totale,61.4,2.0,3.0,42,3,50,129500.0,71200.0,51800.0
+Otorinolaringoiatria,Chirurgica,4,Friuli-Venezia Giulia,Regione,4,20,0.03,19,36,0.38,14,-0.45,totale,61.4,2.0,3.0,42,3,50,129500.0,71200.0,51800.0
+Otorinolaringoiatria,Chirurgica,4,Lazio,Regione,18,90,0.03,87,174,0.38,66,-0.4,totale,61.4,2.0,3.0,42,3,50,129500.0,71200.0,51800.0
+Otorinolaringoiatria,Chirurgica,4,Liguria,Regione,5,25,0.03,24,46,0.399,18,0.13,totale,61.4,2.0,3.0,42,3,50,129500.0,71200.0,51800.0
+Otorinolaringoiatria,Chirurgica,4,Lombardia,Regione,32,160,0.03,155,307,0.361,111,0.82,totale,61.4,2.0,3.0,42,3,50,129500.0,71200.0,51800.0
+Otorinolaringoiatria,Chirurgica,4,Marche,Regione,5,25,0.03,24,45,0.38,17,-0.81,totale,61.4,2.0,3.0,42,3,50,129500.0,71200.0,51800.0
+Otorinolaringoiatria,Chirurgica,4,Molise,Regione,1,5,0.03,5,9,0.399,4,-3.24,totale,61.4,2.0,3.0,42,3,50,129500.0,71200.0,51800.0
+Otorinolaringoiatria,Chirurgica,4,Piemonte,Regione,13,65,0.03,63,130,0.38,49,-0.21,totale,61.4,2.0,3.0,42,3,50,129500.0,71200.0,51800.0
+Otorinolaringoiatria,Chirurgica,4,Puglia,Regione,12,60,0.03,58,118,0.38,45,-2.15,totale,61.4,2.0,3.0,42,3,50,129500.0,71200.0,51800.0
+Otorinolaringoiatria,Chirurgica,4,Sardegna,Regione,5,25,0.03,24,47,0.38,18,-3.2,totale,61.4,2.0,3.0,42,3,50,129500.0,71200.0,51800.0
+Otorinolaringoiatria,Chirurgica,4,Sicilia,Regione,15,75,0.03,73,146,0.399,58,-1.88,totale,61.4,2.0,3.0,42,3,50,129500.0,71200.0,51800.0
+Otorinolaringoiatria,Chirurgica,4,Toscana,Regione,11,55,0.03,53,112,0.38,43,-0.3,totale,61.4,2.0,3.0,42,3,50,129500.0,71200.0,51800.0
+Otorinolaringoiatria,Chirurgica,4,Umbria,Regione,3,15,0.03,15,26,0.38,10,-1.16,totale,61.4,2.0,3.0,42,3,50,129500.0,71200.0,51800.0
+Otorinolaringoiatria,Chirurgica,4,Valle d'Aosta,Regione,0,0,0.03,0,4,0.38,2,-0.55,totale,61.4,2.0,3.0,42,3,50,129500.0,71200.0,51800.0
+Otorinolaringoiatria,Chirurgica,4,Veneto,Regione,15,75,0.03,73,148,0.361,53,-0.1,totale,61.4,2.0,3.0,42,3,50,129500.0,71200.0,51800.0
+Otorinolaringoiatria,Chirurgica,4,P.A. Bolzano,Regione,2,10,0.03,10,17,0.361,6,1.62,totale,61.4,2.0,3.0,42,3,50,129500.0,71200.0,51800.0
+Otorinolaringoiatria,Chirurgica,4,P.A. Trento,Regione,2,10,0.03,10,17,0.361,6,1.32,totale,61.4,2.0,3.0,42,3,50,129500.0,71200.0,51800.0
+Urologia,Chirurgica,5,Italia (Nazionale),Nazionale,250,1250,0.05,1188,1850,0.38,703,8.5,over65,48.6,3.0,4.0,45,3,60,130300.0,71700.0,51800.0
+Urologia,Chirurgica,5,Abruzzo,Regione,5,25,0.05,24,40,0.38,15,9.03,over65,48.6,3.0,4.0,45,3,60,130300.0,71700.0,51800.0
+Urologia,Chirurgica,5,Basilicata,Regione,2,10,0.05,10,16,0.399,6,8.52,over65,48.6,3.0,4.0,45,3,60,130300.0,71700.0,51800.0
+Urologia,Chirurgica,5,Calabria,Regione,8,40,0.05,38,57,0.399,23,9.5,over65,48.6,3.0,4.0,45,3,60,130300.0,71700.0,51800.0
+Urologia,Chirurgica,5,Campania,Regione,24,120,0.05,114,175,0.38,66,12.63,over65,48.6,3.0,4.0,45,3,60,130300.0,71700.0,51800.0
+Urologia,Chirurgica,5,Emilia-Romagna,Regione,19,95,0.05,90,140,0.38,53,9.01,over65,48.6,3.0,4.0,45,3,60,130300.0,71700.0,51800.0
+Urologia,Chirurgica,5,Friuli-Venezia Giulia,Regione,5,25,0.05,24,37,0.38,14,7.69,over65,48.6,3.0,4.0,45,3,60,130300.0,71700.0,51800.0
+Urologia,Chirurgica,5,Lazio,Regione,24,120,0.05,114,179,0.38,68,11.48,over65,48.6,3.0,4.0,45,3,60,130300.0,71700.0,51800.0
+Urologia,Chirurgica,5,Liguria,Regione,6,30,0.05,28,47,0.399,19,6.51,over65,48.6,3.0,4.0,45,3,60,130300.0,71700.0,51800.0
+Urologia,Chirurgica,5,Lombardia,Regione,43,215,0.05,204,316,0.361,114,10.72,over65,48.6,3.0,4.0,45,3,60,130300.0,71700.0,51800.0
+Urologia,Chirurgica,5,Marche,Regione,6,30,0.05,28,46,0.38,17,8.41,over65,48.6,3.0,4.0,45,3,60,130300.0,71700.0,51800.0
+Urologia,Chirurgica,5,Molise,Regione,1,5,0.05,5,9,0.399,4,6.78,over65,48.6,3.0,4.0,45,3,60,130300.0,71700.0,51800.0
+Urologia,Chirurgica,5,Piemonte,Regione,18,90,0.05,86,134,0.38,51,6.84,over65,48.6,3.0,4.0,45,3,60,130300.0,71700.0,51800.0
+Urologia,Chirurgica,5,Puglia,Regione,16,80,0.05,76,121,0.38,46,9.8,over65,48.6,3.0,4.0,45,3,60,130300.0,71700.0,51800.0
+Urologia,Chirurgica,5,Sardegna,Regione,7,35,0.05,33,49,0.38,19,9.57,over65,48.6,3.0,4.0,45,3,60,130300.0,71700.0,51800.0
+Urologia,Chirurgica,5,Sicilia,Regione,20,100,0.05,95,150,0.399,60,9.46,over65,48.6,3.0,4.0,45,3,60,130300.0,71700.0,51800.0
+Urologia,Chirurgica,5,Toscana,Regione,16,80,0.05,76,115,0.38,44,7.45,over65,48.6,3.0,4.0,45,3,60,130300.0,71700.0,51800.0
+Urologia,Chirurgica,5,Umbria,Regione,4,20,0.05,19,27,0.38,10,7.61,over65,48.6,3.0,4.0,45,3,60,130300.0,71700.0,51800.0
+Urologia,Chirurgica,5,Valle d'Aosta,Regione,1,5,0.05,5,4,0.38,2,10.58,over65,48.6,3.0,4.0,45,3,60,130300.0,71700.0,51800.0
+Urologia,Chirurgica,5,Veneto,Regione,21,105,0.05,100,152,0.361,55,11.23,over65,48.6,3.0,4.0,45,3,60,130300.0,71700.0,51800.0
+Urologia,Chirurgica,5,P.A. Bolzano,Regione,2,10,0.05,10,17,0.361,6,15.77,over65,48.6,3.0,4.0,45,3,60,130300.0,71700.0,51800.0
+Urologia,Chirurgica,5,P.A. Trento,Regione,2,10,0.05,10,17,0.361,6,12.85,over65,48.6,3.0,4.0,45,3,60,130300.0,71700.0,51800.0
+Anatomia patologica,Servizi,4,Italia (Nazionale),Nazionale,175,875,0.3,612,1380,0.38,524,8.5,over65,87.1,0.0,0.5,38,2,50,86500.0,47600.0,10500.0
+Anatomia patologica,Servizi,4,Abruzzo,Regione,4,20,0.3,14,30,0.38,11,9.03,over65,87.1,0.0,0.5,38,2,50,86500.0,47600.0,10500.0
+Anatomia patologica,Servizi,4,Basilicata,Regione,2,10,0.3,7,12,0.399,5,8.52,over65,87.1,0.0,0.5,38,2,50,86500.0,47600.0,10500.0
+Anatomia patologica,Servizi,4,Calabria,Regione,5,25,0.3,18,43,0.399,17,9.5,over65,87.1,0.0,0.5,38,2,50,86500.0,47600.0,10500.0
+Anatomia patologica,Servizi,4,Campania,Regione,17,85,0.3,59,130,0.38,49,12.63,over65,87.1,0.0,0.5,38,2,50,86500.0,47600.0,10500.0
+Anatomia patologica,Servizi,4,Emilia-Romagna,Regione,13,65,0.3,46,105,0.38,40,9.01,over65,87.1,0.0,0.5,38,2,50,86500.0,47600.0,10500.0
+Anatomia patologica,Servizi,4,Friuli-Venezia Giulia,Regione,4,20,0.3,14,28,0.38,11,7.69,over65,87.1,0.0,0.5,38,2,50,86500.0,47600.0,10500.0
+Anatomia patologica,Servizi,4,Lazio,Regione,17,85,0.3,59,134,0.38,51,11.48,over65,87.1,0.0,0.5,38,2,50,86500.0,47600.0,10500.0
+Anatomia patologica,Servizi,4,Liguria,Regione,4,20,0.3,14,35,0.399,14,6.51,over65,87.1,0.0,0.5,38,2,50,86500.0,47600.0,10500.0
+Anatomia patologica,Servizi,4,Lombardia,Regione,30,150,0.3,105,236,0.361,85,10.72,over65,87.1,0.0,0.5,38,2,50,86500.0,47600.0,10500.0
+Anatomia patologica,Servizi,4,Marche,Regione,4,20,0.3,14,35,0.38,13,8.41,over65,87.1,0.0,0.5,38,2,50,86500.0,47600.0,10500.0
+Anatomia patologica,Servizi,4,Molise,Regione,1,5,0.3,4,7,0.399,3,6.78,over65,87.1,0.0,0.5,38,2,50,86500.0,47600.0,10500.0
+Anatomia patologica,Servizi,4,Piemonte,Regione,13,65,0.3,46,100,0.38,38,6.84,over65,87.1,0.0,0.5,38,2,50,86500.0,47600.0,10500.0
+Anatomia patologica,Servizi,4,Puglia,Regione,11,55,0.3,38,91,0.38,35,9.8,over65,87.1,0.0,0.5,38,2,50,86500.0,47600.0,10500.0
+Anatomia patologica,Servizi,4,Sardegna,Regione,5,25,0.3,18,36,0.38,14,9.57,over65,87.1,0.0,0.5,38,2,50,86500.0,47600.0,10500.0
+Anatomia patologica,Servizi,4,Sicilia,Regione,14,70,0.3,49,112,0.399,45,9.46,over65,87.1,0.0,0.5,38,2,50,86500.0,47600.0,10500.0
+Anatomia patologica,Servizi,4,Toscana,Regione,11,55,0.3,38,86,0.38,33,7.45,over65,87.1,0.0,0.5,38,2,50,86500.0,47600.0,10500.0
+Anatomia patologica,Servizi,4,Umbria,Regione,3,15,0.3,10,20,0.38,8,7.61,over65,87.1,0.0,0.5,38,2,50,86500.0,47600.0,10500.0
+Anatomia patologica,Servizi,4,Valle d'Aosta,Regione,0,0,0.3,0,3,0.38,1,10.58,over65,87.1,0.0,0.5,38,2,50,86500.0,47600.0,10500.0
+Anatomia patologica,Servizi,4,Veneto,Regione,14,70,0.3,49,114,0.361,41,11.23,over65,87.1,0.0,0.5,38,2,50,86500.0,47600.0,10500.0
+Anatomia patologica,Servizi,4,P.A. Bolzano,Regione,2,10,0.3,7,13,0.361,5,15.77,over65,87.1,0.0,0.5,38,2,50,86500.0,47600.0,10500.0
+Anatomia patologica,Servizi,4,P.A. Trento,Regione,2,10,0.3,7,13,0.361,5,12.85,over65,87.1,0.0,0.5,38,2,50,86500.0,47600.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,Italia (Nazionale),Nazionale,1540,7700,0.14,6622,11500,0.38,4370,-0.5,totale,29.4,5.5,4.5,48,3,80,91100.0,50100.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,Abruzzo,Regione,33,165,0.14,142,247,0.38,94,-1.18,totale,29.4,5.5,4.5,48,3,80,91100.0,50100.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,Basilicata,Regione,14,70,0.14,60,102,0.399,41,-4.41,totale,29.4,5.5,4.5,48,3,80,91100.0,50100.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,Calabria,Regione,48,240,0.14,206,357,0.399,142,-2.33,totale,29.4,5.5,4.5,48,3,80,91100.0,50100.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,Campania,Regione,146,730,0.14,628,1087,0.38,413,-1.77,totale,29.4,5.5,4.5,48,3,80,91100.0,50100.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,Emilia-Romagna,Regione,117,585,0.14,503,873,0.38,332,0.99,totale,29.4,5.5,4.5,48,3,80,91100.0,50100.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,Friuli-Venezia Giulia,Regione,31,155,0.14,133,233,0.38,89,-0.45,totale,29.4,5.5,4.5,48,3,80,91100.0,50100.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,Lazio,Regione,149,745,0.14,641,1114,0.38,423,-0.4,totale,29.4,5.5,4.5,48,3,80,91100.0,50100.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,Liguria,Regione,40,200,0.14,172,295,0.399,118,0.13,totale,29.4,5.5,4.5,48,3,80,91100.0,50100.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,Lombardia,Regione,263,1315,0.14,1131,1963,0.361,709,0.82,totale,29.4,5.5,4.5,48,3,80,91100.0,50100.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,Marche,Regione,39,195,0.14,168,289,0.38,110,-0.81,totale,29.4,5.5,4.5,48,3,80,91100.0,50100.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,Molise,Regione,7,35,0.14,30,56,0.399,22,-3.24,totale,29.4,5.5,4.5,48,3,80,91100.0,50100.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,Piemonte,Regione,111,555,0.14,477,830,0.38,315,-0.21,totale,29.4,5.5,4.5,48,3,80,91100.0,50100.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,Puglia,Regione,101,505,0.14,434,754,0.38,287,-2.15,totale,29.4,5.5,4.5,48,3,80,91100.0,50100.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,Sardegna,Regione,41,205,0.14,176,303,0.38,115,-3.2,totale,29.4,5.5,4.5,48,3,80,91100.0,50100.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,Sicilia,Regione,125,625,0.14,538,932,0.399,372,-1.88,totale,29.4,5.5,4.5,48,3,80,91100.0,50100.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,Toscana,Regione,96,480,0.14,413,714,0.38,271,-0.3,totale,29.4,5.5,4.5,48,3,80,91100.0,50100.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,Umbria,Regione,22,110,0.14,95,166,0.38,63,-1.16,totale,29.4,5.5,4.5,48,3,80,91100.0,50100.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,Valle d'Aosta,Regione,3,15,0.14,13,24,0.38,9,-0.55,totale,29.4,5.5,4.5,48,3,80,91100.0,50100.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,Veneto,Regione,127,635,0.14,546,948,0.361,342,-0.1,totale,29.4,5.5,4.5,48,3,80,91100.0,50100.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,P.A. Bolzano,Regione,14,70,0.14,60,106,0.361,38,1.62,totale,29.4,5.5,4.5,48,3,80,91100.0,50100.0,10500.0
+"Anestesia Rianimazione, Terapia Intensiva e del dolore",Servizi,5,P.A. Trento,Regione,14,70,0.14,60,107,0.361,39,1.32,totale,29.4,5.5,4.5,48,3,80,91100.0,50100.0,10500.0
+Audiologia e foniatria,Servizi,4,Italia (Nazionale),Nazionale,35,175,0.08,161,250,0.38,95,-0.5,totale,93.1,0.0,0.5,38,1,35,112500.0,61900.0,36500.0
+Audiologia e foniatria,Servizi,4,Abruzzo,Regione,1,5,0.08,5,5,0.38,2,-1.18,totale,93.1,0.0,0.5,38,1,35,112500.0,61900.0,36500.0
+Audiologia e foniatria,Servizi,4,Basilicata,Regione,0,0,0.08,0,2,0.399,1,-4.41,totale,93.1,0.0,0.5,38,1,35,112500.0,61900.0,36500.0
+Audiologia e foniatria,Servizi,4,Calabria,Regione,1,5,0.08,5,8,0.399,3,-2.33,totale,93.1,0.0,0.5,38,1,35,112500.0,61900.0,36500.0
+Audiologia e foniatria,Servizi,4,Campania,Regione,3,15,0.08,14,24,0.38,9,-1.77,totale,93.1,0.0,0.5,38,1,35,112500.0,61900.0,36500.0
+Audiologia e foniatria,Servizi,4,Emilia-Romagna,Regione,3,15,0.08,14,19,0.38,7,0.99,totale,93.1,0.0,0.5,38,1,35,112500.0,61900.0,36500.0
+Audiologia e foniatria,Servizi,4,Friuli-Venezia Giulia,Regione,1,5,0.08,5,5,0.38,2,-0.45,totale,93.1,0.0,0.5,38,1,35,112500.0,61900.0,36500.0
+Audiologia e foniatria,Servizi,4,Lazio,Regione,3,15,0.08,14,24,0.38,9,-0.4,totale,93.1,0.0,0.5,38,1,35,112500.0,61900.0,36500.0
+Audiologia e foniatria,Servizi,4,Liguria,Regione,1,5,0.08,5,6,0.399,2,0.13,totale,93.1,0.0,0.5,38,1,35,112500.0,61900.0,36500.0
+Audiologia e foniatria,Servizi,4,Lombardia,Regione,6,30,0.08,28,43,0.361,16,0.82,totale,93.1,0.0,0.5,38,1,35,112500.0,61900.0,36500.0
+Audiologia e foniatria,Servizi,4,Marche,Regione,1,5,0.08,5,6,0.38,2,-0.81,totale,93.1,0.0,0.5,38,1,35,112500.0,61900.0,36500.0
+Audiologia e foniatria,Servizi,4,Molise,Regione,0,0,0.08,0,1,0.399,0,-3.24,totale,93.1,0.0,0.5,38,1,35,112500.0,61900.0,36500.0
+Audiologia e foniatria,Servizi,4,Piemonte,Regione,3,15,0.08,14,18,0.38,7,-0.21,totale,93.1,0.0,0.5,38,1,35,112500.0,61900.0,36500.0
+Audiologia e foniatria,Servizi,4,Puglia,Regione,2,10,0.08,9,16,0.38,6,-2.15,totale,93.1,0.0,0.5,38,1,35,112500.0,61900.0,36500.0
+Audiologia e foniatria,Servizi,4,Sardegna,Regione,1,5,0.08,5,7,0.38,3,-3.2,totale,93.1,0.0,0.5,38,1,35,112500.0,61900.0,36500.0
+Audiologia e foniatria,Servizi,4,Sicilia,Regione,3,15,0.08,14,20,0.399,8,-1.88,totale,93.1,0.0,0.5,38,1,35,112500.0,61900.0,36500.0
+Audiologia e foniatria,Servizi,4,Toscana,Regione,2,10,0.08,9,16,0.38,6,-0.3,totale,93.1,0.0,0.5,38,1,35,112500.0,61900.0,36500.0
+Audiologia e foniatria,Servizi,4,Umbria,Regione,1,5,0.08,5,4,0.38,2,-1.16,totale,93.1,0.0,0.5,38,1,35,112500.0,61900.0,36500.0
+Audiologia e foniatria,Servizi,4,Valle d'Aosta,Regione,0,0,0.08,0,1,0.38,0,-0.55,totale,93.1,0.0,0.5,38,1,35,112500.0,61900.0,36500.0
+Audiologia e foniatria,Servizi,4,Veneto,Regione,3,15,0.08,14,21,0.361,8,-0.1,totale,93.1,0.0,0.5,38,1,35,112500.0,61900.0,36500.0
+Audiologia e foniatria,Servizi,4,P.A. Bolzano,Regione,0,0,0.08,0,2,0.361,1,1.62,totale,93.1,0.0,0.5,38,1,35,112500.0,61900.0,36500.0
+Audiologia e foniatria,Servizi,4,P.A. Trento,Regione,0,0,0.08,0,2,0.361,1,1.32,totale,93.1,0.0,0.5,38,1,35,112500.0,61900.0,36500.0
+Farmacologia e Tossicologia Clinica,Servizi,4,Italia (Nazionale),Nazionale,105,525,0.42,305,450,0.38,171,-0.5,totale,93.1,0.0,0.5,38,1,35,83900.0,46200.0,7900.0
+Farmacologia e Tossicologia Clinica,Servizi,4,Abruzzo,Regione,2,10,0.42,6,10,0.38,4,-1.18,totale,93.1,0.0,0.5,38,1,35,83900.0,46200.0,7900.0
+Farmacologia e Tossicologia Clinica,Servizi,4,Basilicata,Regione,1,5,0.42,3,4,0.399,2,-4.41,totale,93.1,0.0,0.5,38,1,35,83900.0,46200.0,7900.0
+Farmacologia e Tossicologia Clinica,Servizi,4,Calabria,Regione,3,15,0.42,9,14,0.399,6,-2.33,totale,93.1,0.0,0.5,38,1,35,83900.0,46200.0,7900.0
+Farmacologia e Tossicologia Clinica,Servizi,4,Campania,Regione,10,50,0.42,29,43,0.38,16,-1.77,totale,93.1,0.0,0.5,38,1,35,83900.0,46200.0,7900.0
+Farmacologia e Tossicologia Clinica,Servizi,4,Emilia-Romagna,Regione,8,40,0.42,23,34,0.38,13,0.99,totale,93.1,0.0,0.5,38,1,35,83900.0,46200.0,7900.0
+Farmacologia e Tossicologia Clinica,Servizi,4,Friuli-Venezia Giulia,Regione,2,10,0.42,6,9,0.38,3,-0.45,totale,93.1,0.0,0.5,38,1,35,83900.0,46200.0,7900.0
+Farmacologia e Tossicologia Clinica,Servizi,4,Lazio,Regione,10,50,0.42,29,44,0.38,17,-0.4,totale,93.1,0.0,0.5,38,1,35,83900.0,46200.0,7900.0
+Farmacologia e Tossicologia Clinica,Servizi,4,Liguria,Regione,3,15,0.42,9,12,0.399,5,0.13,totale,93.1,0.0,0.5,38,1,35,83900.0,46200.0,7900.0
+Farmacologia e Tossicologia Clinica,Servizi,4,Lombardia,Regione,18,90,0.42,52,77,0.361,28,0.82,totale,93.1,0.0,0.5,38,1,35,83900.0,46200.0,7900.0
+Farmacologia e Tossicologia Clinica,Servizi,4,Marche,Regione,3,15,0.42,9,11,0.38,4,-0.81,totale,93.1,0.0,0.5,38,1,35,83900.0,46200.0,7900.0
+Farmacologia e Tossicologia Clinica,Servizi,4,Molise,Regione,1,5,0.42,3,2,0.399,1,-3.24,totale,93.1,0.0,0.5,38,1,35,83900.0,46200.0,7900.0
+Farmacologia e Tossicologia Clinica,Servizi,4,Piemonte,Regione,8,40,0.42,23,32,0.38,12,-0.21,totale,93.1,0.0,0.5,38,1,35,83900.0,46200.0,7900.0
+Farmacologia e Tossicologia Clinica,Servizi,4,Puglia,Regione,7,35,0.42,20,30,0.38,11,-2.15,totale,93.1,0.0,0.5,38,1,35,83900.0,46200.0,7900.0
+Farmacologia e Tossicologia Clinica,Servizi,4,Sardegna,Regione,3,15,0.42,9,12,0.38,5,-3.2,totale,93.1,0.0,0.5,38,1,35,83900.0,46200.0,7900.0
+Farmacologia e Tossicologia Clinica,Servizi,4,Sicilia,Regione,9,45,0.42,26,36,0.399,14,-1.88,totale,93.1,0.0,0.5,38,1,35,83900.0,46200.0,7900.0
+Farmacologia e Tossicologia Clinica,Servizi,4,Toscana,Regione,7,35,0.42,20,28,0.38,11,-0.3,totale,93.1,0.0,0.5,38,1,35,83900.0,46200.0,7900.0
+Farmacologia e Tossicologia Clinica,Servizi,4,Umbria,Regione,2,10,0.42,6,6,0.38,2,-1.16,totale,93.1,0.0,0.5,38,1,35,83900.0,46200.0,7900.0
+Farmacologia e Tossicologia Clinica,Servizi,4,Valle d'Aosta,Regione,0,0,0.42,0,1,0.38,0,-0.55,totale,93.1,0.0,0.5,38,1,35,83900.0,46200.0,7900.0
+Farmacologia e Tossicologia Clinica,Servizi,4,Veneto,Regione,9,45,0.42,26,37,0.361,13,-0.1,totale,93.1,0.0,0.5,38,1,35,83900.0,46200.0,7900.0
+Farmacologia e Tossicologia Clinica,Servizi,4,P.A. Bolzano,Regione,1,5,0.42,3,4,0.361,1,1.62,totale,93.1,0.0,0.5,38,1,35,83900.0,46200.0,7900.0
+Farmacologia e Tossicologia Clinica,Servizi,4,P.A. Trento,Regione,1,5,0.42,3,4,0.361,1,1.32,totale,93.1,0.0,0.5,38,1,35,83900.0,46200.0,7900.0
+Genetica medica,Servizi,4,Italia (Nazionale),Nazionale,70,350,0.04,336,200,0.38,76,-0.5,totale,92.3,0.0,0.5,38,1,40,108000.0,59400.0,32000.0
+Genetica medica,Servizi,4,Abruzzo,Regione,2,10,0.04,10,4,0.38,2,-1.18,totale,92.3,0.0,0.5,38,1,40,108000.0,59400.0,32000.0
+Genetica medica,Servizi,4,Basilicata,Regione,1,5,0.04,5,2,0.399,1,-4.41,totale,92.3,0.0,0.5,38,1,40,108000.0,59400.0,32000.0
+Genetica medica,Servizi,4,Calabria,Regione,2,10,0.04,10,6,0.399,2,-2.33,totale,92.3,0.0,0.5,38,1,40,108000.0,59400.0,32000.0
+Genetica medica,Servizi,4,Campania,Regione,7,35,0.04,34,19,0.38,7,-1.77,totale,92.3,0.0,0.5,38,1,40,108000.0,59400.0,32000.0
+Genetica medica,Servizi,4,Emilia-Romagna,Regione,5,25,0.04,24,15,0.38,6,0.99,totale,92.3,0.0,0.5,38,1,40,108000.0,59400.0,32000.0
+Genetica medica,Servizi,4,Friuli-Venezia Giulia,Regione,1,5,0.04,5,4,0.38,2,-0.45,totale,92.3,0.0,0.5,38,1,40,108000.0,59400.0,32000.0
+Genetica medica,Servizi,4,Lazio,Regione,7,35,0.04,34,19,0.38,7,-0.4,totale,92.3,0.0,0.5,38,1,40,108000.0,59400.0,32000.0
+Genetica medica,Servizi,4,Liguria,Regione,2,10,0.04,10,5,0.399,2,0.13,totale,92.3,0.0,0.5,38,1,40,108000.0,59400.0,32000.0
+Genetica medica,Servizi,4,Lombardia,Regione,12,60,0.04,58,34,0.361,12,0.82,totale,92.3,0.0,0.5,38,1,40,108000.0,59400.0,32000.0
+Genetica medica,Servizi,4,Marche,Regione,2,10,0.04,10,5,0.38,2,-0.81,totale,92.3,0.0,0.5,38,1,40,108000.0,59400.0,32000.0
+Genetica medica,Servizi,4,Molise,Regione,0,0,0.04,0,1,0.399,0,-3.24,totale,92.3,0.0,0.5,38,1,40,108000.0,59400.0,32000.0
+Genetica medica,Servizi,4,Piemonte,Regione,5,25,0.04,24,14,0.38,5,-0.21,totale,92.3,0.0,0.5,38,1,40,108000.0,59400.0,32000.0
+Genetica medica,Servizi,4,Puglia,Regione,5,25,0.04,24,13,0.38,5,-2.15,totale,92.3,0.0,0.5,38,1,40,108000.0,59400.0,32000.0
+Genetica medica,Servizi,4,Sardegna,Regione,2,10,0.04,10,5,0.38,2,-3.2,totale,92.3,0.0,0.5,38,1,40,108000.0,59400.0,32000.0
+Genetica medica,Servizi,4,Sicilia,Regione,6,30,0.04,29,16,0.399,6,-1.88,totale,92.3,0.0,0.5,38,1,40,108000.0,59400.0,32000.0
+Genetica medica,Servizi,4,Toscana,Regione,4,20,0.04,19,12,0.38,5,-0.3,totale,92.3,0.0,0.5,38,1,40,108000.0,59400.0,32000.0
+Genetica medica,Servizi,4,Umbria,Regione,1,5,0.04,5,3,0.38,1,-1.16,totale,92.3,0.0,0.5,38,1,40,108000.0,59400.0,32000.0
+Genetica medica,Servizi,4,Valle d'Aosta,Regione,0,0,0.04,0,1,0.38,0,-0.55,totale,92.3,0.0,0.5,38,1,40,108000.0,59400.0,32000.0
+Genetica medica,Servizi,4,Veneto,Regione,6,30,0.04,29,16,0.361,6,-0.1,totale,92.3,0.0,0.5,38,1,40,108000.0,59400.0,32000.0
+Genetica medica,Servizi,4,P.A. Bolzano,Regione,1,5,0.04,5,2,0.361,1,1.62,totale,92.3,0.0,0.5,38,1,40,108000.0,59400.0,32000.0
+Genetica medica,Servizi,4,P.A. Trento,Regione,1,5,0.04,5,2,0.361,1,1.32,totale,92.3,0.0,0.5,38,1,40,108000.0,59400.0,32000.0
+Igiene e medicina preventiva,Servizi,4,Italia (Nazionale),Nazionale,560,2800,0.12,2464,3000,0.38,1140,-0.5,totale,90.7,0.0,1.0,38,1,40,89300.0,49100.0,13300.0
+Igiene e medicina preventiva,Servizi,4,Abruzzo,Regione,12,60,0.12,53,64,0.38,24,-1.18,totale,90.7,0.0,1.0,38,1,40,89300.0,49100.0,13300.0
+Igiene e medicina preventiva,Servizi,4,Basilicata,Regione,5,25,0.12,22,27,0.399,11,-4.41,totale,90.7,0.0,1.0,38,1,40,89300.0,49100.0,13300.0
+Igiene e medicina preventiva,Servizi,4,Calabria,Regione,17,85,0.12,75,93,0.399,37,-2.33,totale,90.7,0.0,1.0,38,1,40,89300.0,49100.0,13300.0
+Igiene e medicina preventiva,Servizi,4,Campania,Regione,53,265,0.12,233,283,0.38,108,-1.77,totale,90.7,0.0,1.0,38,1,40,89300.0,49100.0,13300.0
+Igiene e medicina preventiva,Servizi,4,Emilia-Romagna,Regione,43,215,0.12,189,228,0.38,87,0.99,totale,90.7,0.0,1.0,38,1,40,89300.0,49100.0,13300.0
+Igiene e medicina preventiva,Servizi,4,Friuli-Venezia Giulia,Regione,11,55,0.12,48,61,0.38,23,-0.45,totale,90.7,0.0,1.0,38,1,40,89300.0,49100.0,13300.0
+Igiene e medicina preventiva,Servizi,4,Lazio,Regione,54,270,0.12,238,291,0.38,111,-0.4,totale,90.7,0.0,1.0,38,1,40,89300.0,49100.0,13300.0
+Igiene e medicina preventiva,Servizi,4,Liguria,Regione,14,70,0.12,62,77,0.399,31,0.13,totale,90.7,0.0,1.0,38,1,40,89300.0,49100.0,13300.0
+Igiene e medicina preventiva,Servizi,4,Lombardia,Regione,96,480,0.12,422,512,0.361,185,0.82,totale,90.7,0.0,1.0,38,1,40,89300.0,49100.0,13300.0
+Igiene e medicina preventiva,Servizi,4,Marche,Regione,14,70,0.12,62,75,0.38,28,-0.81,totale,90.7,0.0,1.0,38,1,40,89300.0,49100.0,13300.0
+Igiene e medicina preventiva,Servizi,4,Molise,Regione,3,15,0.12,13,15,0.399,6,-3.24,totale,90.7,0.0,1.0,38,1,40,89300.0,49100.0,13300.0
+Igiene e medicina preventiva,Servizi,4,Piemonte,Regione,40,200,0.12,176,217,0.38,82,-0.21,totale,90.7,0.0,1.0,38,1,40,89300.0,49100.0,13300.0
+Igiene e medicina preventiva,Servizi,4,Puglia,Regione,37,185,0.12,163,197,0.38,75,-2.15,totale,90.7,0.0,1.0,38,1,40,89300.0,49100.0,13300.0
+Igiene e medicina preventiva,Servizi,4,Sardegna,Regione,15,75,0.12,66,79,0.38,30,-3.2,totale,90.7,0.0,1.0,38,1,40,89300.0,49100.0,13300.0
+Igiene e medicina preventiva,Servizi,4,Sicilia,Regione,45,225,0.12,198,243,0.399,97,-1.88,totale,90.7,0.0,1.0,38,1,40,89300.0,49100.0,13300.0
+Igiene e medicina preventiva,Servizi,4,Toscana,Regione,35,175,0.12,154,186,0.38,71,-0.3,totale,90.7,0.0,1.0,38,1,40,89300.0,49100.0,13300.0
+Igiene e medicina preventiva,Servizi,4,Umbria,Regione,8,40,0.12,35,43,0.38,16,-1.16,totale,90.7,0.0,1.0,38,1,40,89300.0,49100.0,13300.0
+Igiene e medicina preventiva,Servizi,4,Valle d'Aosta,Regione,1,5,0.12,4,6,0.38,2,-0.55,totale,90.7,0.0,1.0,38,1,40,89300.0,49100.0,13300.0
+Igiene e medicina preventiva,Servizi,4,Veneto,Regione,46,230,0.12,202,247,0.361,89,-0.1,totale,90.7,0.0,1.0,38,1,40,89300.0,49100.0,13300.0
+Igiene e medicina preventiva,Servizi,4,P.A. Bolzano,Regione,5,25,0.12,22,28,0.361,10,1.62,totale,90.7,0.0,1.0,38,1,40,89300.0,49100.0,13300.0
+Igiene e medicina preventiva,Servizi,4,P.A. Trento,Regione,5,25,0.12,22,28,0.361,10,1.32,totale,90.7,0.0,1.0,38,1,40,89300.0,49100.0,13300.0
+Medicina del lavoro,Servizi,4,Italia (Nazionale),Nazionale,190,950,0.1,855,520,0.38,198,-0.5,totale,94.8,0.0,0.0,38,1,35,127800.0,70300.0,51800.0
+Medicina del lavoro,Servizi,4,Abruzzo,Regione,4,20,0.1,18,11,0.38,4,-1.18,totale,94.8,0.0,0.0,38,1,35,127800.0,70300.0,51800.0
+Medicina del lavoro,Servizi,4,Basilicata,Regione,2,10,0.1,9,5,0.399,2,-4.41,totale,94.8,0.0,0.0,38,1,35,127800.0,70300.0,51800.0
+Medicina del lavoro,Servizi,4,Calabria,Regione,6,30,0.1,27,16,0.399,6,-2.33,totale,94.8,0.0,0.0,38,1,35,127800.0,70300.0,51800.0
+Medicina del lavoro,Servizi,4,Campania,Regione,18,90,0.1,81,49,0.38,19,-1.77,totale,94.8,0.0,0.0,38,1,35,127800.0,70300.0,51800.0
+Medicina del lavoro,Servizi,4,Emilia-Romagna,Regione,14,70,0.1,63,39,0.38,15,0.99,totale,94.8,0.0,0.0,38,1,35,127800.0,70300.0,51800.0
+Medicina del lavoro,Servizi,4,Friuli-Venezia Giulia,Regione,4,20,0.1,18,11,0.38,4,-0.45,totale,94.8,0.0,0.0,38,1,35,127800.0,70300.0,51800.0
+Medicina del lavoro,Servizi,4,Lazio,Regione,18,90,0.1,81,50,0.38,19,-0.4,totale,94.8,0.0,0.0,38,1,35,127800.0,70300.0,51800.0
+Medicina del lavoro,Servizi,4,Liguria,Regione,5,25,0.1,22,13,0.399,5,0.13,totale,94.8,0.0,0.0,38,1,35,127800.0,70300.0,51800.0
+Medicina del lavoro,Servizi,4,Lombardia,Regione,32,160,0.1,144,89,0.361,32,0.82,totale,94.8,0.0,0.0,38,1,35,127800.0,70300.0,51800.0
+Medicina del lavoro,Servizi,4,Marche,Regione,5,25,0.1,22,13,0.38,5,-0.81,totale,94.8,0.0,0.0,38,1,35,127800.0,70300.0,51800.0
+Medicina del lavoro,Servizi,4,Molise,Regione,1,5,0.1,4,3,0.399,1,-3.24,totale,94.8,0.0,0.0,38,1,35,127800.0,70300.0,51800.0
+Medicina del lavoro,Servizi,4,Piemonte,Regione,14,70,0.1,63,38,0.38,14,-0.21,totale,94.8,0.0,0.0,38,1,35,127800.0,70300.0,51800.0
+Medicina del lavoro,Servizi,4,Puglia,Regione,12,60,0.1,54,34,0.38,13,-2.15,totale,94.8,0.0,0.0,38,1,35,127800.0,70300.0,51800.0
+Medicina del lavoro,Servizi,4,Sardegna,Regione,5,25,0.1,22,14,0.38,5,-3.2,totale,94.8,0.0,0.0,38,1,35,127800.0,70300.0,51800.0
+Medicina del lavoro,Servizi,4,Sicilia,Regione,15,75,0.1,68,42,0.399,17,-1.88,totale,94.8,0.0,0.0,38,1,35,127800.0,70300.0,51800.0
+Medicina del lavoro,Servizi,4,Toscana,Regione,12,60,0.1,54,32,0.38,12,-0.3,totale,94.8,0.0,0.0,38,1,35,127800.0,70300.0,51800.0
+Medicina del lavoro,Servizi,4,Umbria,Regione,3,15,0.1,14,8,0.38,3,-1.16,totale,94.8,0.0,0.0,38,1,35,127800.0,70300.0,51800.0
+Medicina del lavoro,Servizi,4,Valle d'Aosta,Regione,0,0,0.1,0,1,0.38,0,-0.55,totale,94.8,0.0,0.0,38,1,35,127800.0,70300.0,51800.0
+Medicina del lavoro,Servizi,4,Veneto,Regione,16,80,0.1,72,43,0.361,16,-0.1,totale,94.8,0.0,0.0,38,1,35,127800.0,70300.0,51800.0
+Medicina del lavoro,Servizi,4,P.A. Bolzano,Regione,2,10,0.1,9,5,0.361,2,1.62,totale,94.8,0.0,0.0,38,1,35,127800.0,70300.0,51800.0
+Medicina del lavoro,Servizi,4,P.A. Trento,Regione,2,10,0.1,9,5,0.361,2,1.32,totale,94.8,0.0,0.0,38,1,35,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,Italia (Nazionale),Nazionale,88,440,0.03,427,100,0.38,38,-0.5,totale,91.0,0.0,0.0,38,2,35,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,Abruzzo,Regione,2,10,0.03,10,2,0.38,1,-1.18,totale,91.0,0.0,0.0,38,2,35,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,Basilicata,Regione,1,5,0.03,5,1,0.399,0,-4.41,totale,91.0,0.0,0.0,38,2,35,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,Calabria,Regione,3,15,0.03,15,3,0.399,1,-2.33,totale,91.0,0.0,0.0,38,2,35,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,Campania,Regione,8,40,0.03,39,9,0.38,3,-1.77,totale,91.0,0.0,0.0,38,2,35,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,Emilia-Romagna,Regione,7,35,0.03,34,8,0.38,3,0.99,totale,91.0,0.0,0.0,38,2,35,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,Friuli-Venezia Giulia,Regione,2,10,0.03,10,2,0.38,1,-0.45,totale,91.0,0.0,0.0,38,2,35,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,Lazio,Regione,9,45,0.03,44,10,0.38,4,-0.4,totale,91.0,0.0,0.0,38,2,35,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,Liguria,Regione,2,10,0.03,10,3,0.399,1,0.13,totale,91.0,0.0,0.0,38,2,35,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,Lombardia,Regione,15,75,0.03,73,17,0.361,6,0.82,totale,91.0,0.0,0.0,38,2,35,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,Marche,Regione,2,10,0.03,10,3,0.38,1,-0.81,totale,91.0,0.0,0.0,38,2,35,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,Molise,Regione,0,0,0.03,0,1,0.399,0,-3.24,totale,91.0,0.0,0.0,38,2,35,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,Piemonte,Regione,6,30,0.03,29,7,0.38,3,-0.21,totale,91.0,0.0,0.0,38,2,35,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,Puglia,Regione,6,30,0.03,29,7,0.38,3,-2.15,totale,91.0,0.0,0.0,38,2,35,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,Sardegna,Regione,2,10,0.03,10,3,0.38,1,-3.2,totale,91.0,0.0,0.0,38,2,35,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,Sicilia,Regione,7,35,0.03,34,8,0.399,3,-1.88,totale,91.0,0.0,0.0,38,2,35,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,Toscana,Regione,5,25,0.03,24,6,0.38,2,-0.3,totale,91.0,0.0,0.0,38,2,35,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,Umbria,Regione,1,5,0.03,5,1,0.38,0,-1.16,totale,91.0,0.0,0.0,38,2,35,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,Valle d'Aosta,Regione,0,0,0.03,0,1,0.38,0,-0.55,totale,91.0,0.0,0.0,38,2,35,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,Veneto,Regione,7,35,0.03,34,8,0.361,3,-0.1,totale,91.0,0.0,0.0,38,2,35,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,P.A. Bolzano,Regione,1,5,0.03,5,1,0.361,0,1.62,totale,91.0,0.0,0.0,38,2,35,127800.0,70300.0,51800.0
+Medicina dello sport e dell'esercizio fisico,Servizi,4,P.A. Trento,Regione,1,5,0.03,5,1,0.361,0,1.32,totale,91.0,0.0,0.0,38,2,35,127800.0,70300.0,51800.0
+Medicina legale,Servizi,4,Italia (Nazionale),Nazionale,155,775,0.03,752,650,0.38,247,-0.5,totale,86.2,0.0,1.0,38,2,45,133400.0,73400.0,57400.0
+Medicina legale,Servizi,4,Abruzzo,Regione,3,15,0.03,15,14,0.38,5,-1.18,totale,86.2,0.0,1.0,38,2,45,133400.0,73400.0,57400.0
+Medicina legale,Servizi,4,Basilicata,Regione,1,5,0.03,5,6,0.399,2,-4.41,totale,86.2,0.0,1.0,38,2,45,133400.0,73400.0,57400.0
+Medicina legale,Servizi,4,Calabria,Regione,5,25,0.03,24,20,0.399,8,-2.33,totale,86.2,0.0,1.0,38,2,45,133400.0,73400.0,57400.0
+Medicina legale,Servizi,4,Campania,Regione,15,75,0.03,73,61,0.38,23,-1.77,totale,86.2,0.0,1.0,38,2,45,133400.0,73400.0,57400.0
+Medicina legale,Servizi,4,Emilia-Romagna,Regione,12,60,0.03,58,49,0.38,19,0.99,totale,86.2,0.0,1.0,38,2,45,133400.0,73400.0,57400.0
+Medicina legale,Servizi,4,Friuli-Venezia Giulia,Regione,3,15,0.03,15,13,0.38,5,-0.45,totale,86.2,0.0,1.0,38,2,45,133400.0,73400.0,57400.0
+Medicina legale,Servizi,4,Lazio,Regione,15,75,0.03,73,63,0.38,24,-0.4,totale,86.2,0.0,1.0,38,2,45,133400.0,73400.0,57400.0
+Medicina legale,Servizi,4,Liguria,Regione,4,20,0.03,19,17,0.399,7,0.13,totale,86.2,0.0,1.0,38,2,45,133400.0,73400.0,57400.0
+Medicina legale,Servizi,4,Lombardia,Regione,26,130,0.03,126,111,0.361,40,0.82,totale,86.2,0.0,1.0,38,2,45,133400.0,73400.0,57400.0
+Medicina legale,Servizi,4,Marche,Regione,4,20,0.03,19,16,0.38,6,-0.81,totale,86.2,0.0,1.0,38,2,45,133400.0,73400.0,57400.0
+Medicina legale,Servizi,4,Molise,Regione,1,5,0.03,5,3,0.399,1,-3.24,totale,86.2,0.0,1.0,38,2,45,133400.0,73400.0,57400.0
+Medicina legale,Servizi,4,Piemonte,Regione,11,55,0.03,53,47,0.38,18,-0.21,totale,86.2,0.0,1.0,38,2,45,133400.0,73400.0,57400.0
+Medicina legale,Servizi,4,Puglia,Regione,10,50,0.03,48,43,0.38,16,-2.15,totale,86.2,0.0,1.0,38,2,45,133400.0,73400.0,57400.0
+Medicina legale,Servizi,4,Sardegna,Regione,4,20,0.03,19,17,0.38,6,-3.2,totale,86.2,0.0,1.0,38,2,45,133400.0,73400.0,57400.0
+Medicina legale,Servizi,4,Sicilia,Regione,13,65,0.03,63,53,0.399,21,-1.88,totale,86.2,0.0,1.0,38,2,45,133400.0,73400.0,57400.0
+Medicina legale,Servizi,4,Toscana,Regione,10,50,0.03,48,40,0.38,15,-0.3,totale,86.2,0.0,1.0,38,2,45,133400.0,73400.0,57400.0
+Medicina legale,Servizi,4,Umbria,Regione,2,10,0.03,10,9,0.38,3,-1.16,totale,86.2,0.0,1.0,38,2,45,133400.0,73400.0,57400.0
+Medicina legale,Servizi,4,Valle d'Aosta,Regione,0,0,0.03,0,1,0.38,0,-0.55,totale,86.2,0.0,1.0,38,2,45,133400.0,73400.0,57400.0
+Medicina legale,Servizi,4,Veneto,Regione,13,65,0.03,63,54,0.361,19,-0.1,totale,86.2,0.0,1.0,38,2,45,133400.0,73400.0,57400.0
+Medicina legale,Servizi,4,P.A. Bolzano,Regione,1,5,0.03,5,6,0.361,2,1.62,totale,86.2,0.0,1.0,38,2,45,133400.0,73400.0,57400.0
+Medicina legale,Servizi,4,P.A. Trento,Regione,1,5,0.03,5,6,0.361,2,1.32,totale,86.2,0.0,1.0,38,2,45,133400.0,73400.0,57400.0
+Microbiologia e virologia,Servizi,4,Italia (Nazionale),Nazionale,110,550,0.38,341,400,0.38,152,-0.5,totale,90.7,0.0,1.0,38,1,40,81700.0,44900.0,5700.0
+Microbiologia e virologia,Servizi,4,Abruzzo,Regione,2,10,0.38,6,9,0.38,3,-1.18,totale,90.7,0.0,1.0,38,1,40,81700.0,44900.0,5700.0
+Microbiologia e virologia,Servizi,4,Basilicata,Regione,1,5,0.38,3,4,0.399,2,-4.41,totale,90.7,0.0,1.0,38,1,40,81700.0,44900.0,5700.0
+Microbiologia e virologia,Servizi,4,Calabria,Regione,3,15,0.38,9,12,0.399,5,-2.33,totale,90.7,0.0,1.0,38,1,40,81700.0,44900.0,5700.0
+Microbiologia e virologia,Servizi,4,Campania,Regione,10,50,0.38,31,38,0.38,14,-1.77,totale,90.7,0.0,1.0,38,1,40,81700.0,44900.0,5700.0
+Microbiologia e virologia,Servizi,4,Emilia-Romagna,Regione,8,40,0.38,25,30,0.38,11,0.99,totale,90.7,0.0,1.0,38,1,40,81700.0,44900.0,5700.0
+Microbiologia e virologia,Servizi,4,Friuli-Venezia Giulia,Regione,2,10,0.38,6,8,0.38,3,-0.45,totale,90.7,0.0,1.0,38,1,40,81700.0,44900.0,5700.0
+Microbiologia e virologia,Servizi,4,Lazio,Regione,11,55,0.38,34,39,0.38,15,-0.4,totale,90.7,0.0,1.0,38,1,40,81700.0,44900.0,5700.0
+Microbiologia e virologia,Servizi,4,Liguria,Regione,3,15,0.38,9,10,0.399,4,0.13,totale,90.7,0.0,1.0,38,1,40,81700.0,44900.0,5700.0
+Microbiologia e virologia,Servizi,4,Lombardia,Regione,19,95,0.38,59,68,0.361,25,0.82,totale,90.7,0.0,1.0,38,1,40,81700.0,44900.0,5700.0
+Microbiologia e virologia,Servizi,4,Marche,Regione,3,15,0.38,9,10,0.38,4,-0.81,totale,90.7,0.0,1.0,38,1,40,81700.0,44900.0,5700.0
+Microbiologia e virologia,Servizi,4,Molise,Regione,1,5,0.38,3,2,0.399,1,-3.24,totale,90.7,0.0,1.0,38,1,40,81700.0,44900.0,5700.0
+Microbiologia e virologia,Servizi,4,Piemonte,Regione,8,40,0.38,25,29,0.38,11,-0.21,totale,90.7,0.0,1.0,38,1,40,81700.0,44900.0,5700.0
+Microbiologia e virologia,Servizi,4,Puglia,Regione,7,35,0.38,22,26,0.38,10,-2.15,totale,90.7,0.0,1.0,38,1,40,81700.0,44900.0,5700.0
+Microbiologia e virologia,Servizi,4,Sardegna,Regione,3,15,0.38,9,11,0.38,4,-3.2,totale,90.7,0.0,1.0,38,1,40,81700.0,44900.0,5700.0
+Microbiologia e virologia,Servizi,4,Sicilia,Regione,9,45,0.38,28,32,0.399,13,-1.88,totale,90.7,0.0,1.0,38,1,40,81700.0,44900.0,5700.0
+Microbiologia e virologia,Servizi,4,Toscana,Regione,7,35,0.38,22,25,0.38,10,-0.3,totale,90.7,0.0,1.0,38,1,40,81700.0,44900.0,5700.0
+Microbiologia e virologia,Servizi,4,Umbria,Regione,2,10,0.38,6,6,0.38,2,-1.16,totale,90.7,0.0,1.0,38,1,40,81700.0,44900.0,5700.0
+Microbiologia e virologia,Servizi,4,Valle d'Aosta,Regione,0,0,0.38,0,1,0.38,0,-0.55,totale,90.7,0.0,1.0,38,1,40,81700.0,44900.0,5700.0
+Microbiologia e virologia,Servizi,4,Veneto,Regione,9,45,0.38,28,33,0.361,12,-0.1,totale,90.7,0.0,1.0,38,1,40,81700.0,44900.0,5700.0
+Microbiologia e virologia,Servizi,4,P.A. Bolzano,Regione,1,5,0.38,3,4,0.361,1,1.62,totale,90.7,0.0,1.0,38,1,40,81700.0,44900.0,5700.0
+Microbiologia e virologia,Servizi,4,P.A. Trento,Regione,1,5,0.38,3,4,0.361,1,1.32,totale,90.7,0.0,1.0,38,1,40,81700.0,44900.0,5700.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,Italia (Nazionale),Nazionale,265,1325,0.4,795,1600,0.38,608,-0.5,totale,86.1,0.5,1.5,38,1,45,84400.0,46400.0,7900.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,Abruzzo,Regione,6,30,0.4,18,34,0.38,13,-1.18,totale,86.1,0.5,1.5,38,1,45,84400.0,46400.0,7900.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,Basilicata,Regione,2,10,0.4,6,14,0.399,6,-4.41,totale,86.1,0.5,1.5,38,1,45,84400.0,46400.0,7900.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,Calabria,Regione,8,40,0.4,24,50,0.399,20,-2.33,totale,86.1,0.5,1.5,38,1,45,84400.0,46400.0,7900.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,Campania,Regione,25,125,0.4,75,151,0.38,57,-1.77,totale,86.1,0.5,1.5,38,1,45,84400.0,46400.0,7900.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,Emilia-Romagna,Regione,20,100,0.4,60,122,0.38,46,0.99,totale,86.1,0.5,1.5,38,1,45,84400.0,46400.0,7900.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,Friuli-Venezia Giulia,Regione,5,25,0.4,15,32,0.38,12,-0.45,totale,86.1,0.5,1.5,38,1,45,84400.0,46400.0,7900.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,Lazio,Regione,26,130,0.4,78,155,0.38,59,-0.4,totale,86.1,0.5,1.5,38,1,45,84400.0,46400.0,7900.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,Liguria,Regione,7,35,0.4,21,41,0.399,16,0.13,totale,86.1,0.5,1.5,38,1,45,84400.0,46400.0,7900.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,Lombardia,Regione,45,225,0.4,135,273,0.361,99,0.82,totale,86.1,0.5,1.5,38,1,45,84400.0,46400.0,7900.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,Marche,Regione,7,35,0.4,21,40,0.38,15,-0.81,totale,86.1,0.5,1.5,38,1,45,84400.0,46400.0,7900.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,Molise,Regione,1,5,0.4,3,8,0.399,3,-3.24,totale,86.1,0.5,1.5,38,1,45,84400.0,46400.0,7900.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,Piemonte,Regione,19,95,0.4,57,116,0.38,44,-0.21,totale,86.1,0.5,1.5,38,1,45,84400.0,46400.0,7900.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,Puglia,Regione,17,85,0.4,51,105,0.38,40,-2.15,totale,86.1,0.5,1.5,38,1,45,84400.0,46400.0,7900.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,Sardegna,Regione,7,35,0.4,21,42,0.38,16,-3.2,totale,86.1,0.5,1.5,38,1,45,84400.0,46400.0,7900.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,Sicilia,Regione,21,105,0.4,63,130,0.399,52,-1.88,totale,86.1,0.5,1.5,38,1,45,84400.0,46400.0,7900.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,Toscana,Regione,16,80,0.4,48,99,0.38,38,-0.3,totale,86.1,0.5,1.5,38,1,45,84400.0,46400.0,7900.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,Umbria,Regione,4,20,0.4,12,23,0.38,9,-1.16,totale,86.1,0.5,1.5,38,1,45,84400.0,46400.0,7900.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,Valle d'Aosta,Regione,1,5,0.4,3,3,0.38,1,-0.55,totale,86.1,0.5,1.5,38,1,45,84400.0,46400.0,7900.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,Veneto,Regione,22,110,0.4,66,132,0.361,48,-0.1,totale,86.1,0.5,1.5,38,1,45,84400.0,46400.0,7900.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,P.A. Bolzano,Regione,2,10,0.4,6,15,0.361,5,1.62,totale,86.1,0.5,1.5,38,1,45,84400.0,46400.0,7900.0
+Patologia Clinica e Biochimica Clinica,Servizi,4,P.A. Trento,Regione,2,10,0.4,6,15,0.361,5,1.32,totale,86.1,0.5,1.5,38,1,45,84400.0,46400.0,7900.0
+Radiodiagnostica,Servizi,4,Italia (Nazionale),Nazionale,655,3275,0.03,3177,6200,0.38,2356,-0.5,totale,55.4,2.5,3.5,42,3,65,124500.0,68500.0,46400.0
+Radiodiagnostica,Servizi,4,Abruzzo,Regione,14,70,0.03,68,133,0.38,51,-1.18,totale,55.4,2.5,3.5,42,3,65,124500.0,68500.0,46400.0
+Radiodiagnostica,Servizi,4,Basilicata,Regione,6,30,0.03,29,55,0.399,22,-4.41,totale,55.4,2.5,3.5,42,3,65,124500.0,68500.0,46400.0
+Radiodiagnostica,Servizi,4,Calabria,Regione,20,100,0.03,97,192,0.399,77,-2.33,totale,55.4,2.5,3.5,42,3,65,124500.0,68500.0,46400.0
+Radiodiagnostica,Servizi,4,Campania,Regione,62,310,0.03,301,586,0.38,223,-1.77,totale,55.4,2.5,3.5,42,3,65,124500.0,68500.0,46400.0
+Radiodiagnostica,Servizi,4,Emilia-Romagna,Regione,50,250,0.03,242,471,0.38,179,0.99,totale,55.4,2.5,3.5,42,3,65,124500.0,68500.0,46400.0
+Radiodiagnostica,Servizi,4,Friuli-Venezia Giulia,Regione,13,65,0.03,63,126,0.38,48,-0.45,totale,55.4,2.5,3.5,42,3,65,124500.0,68500.0,46400.0
+Radiodiagnostica,Servizi,4,Lazio,Regione,63,315,0.03,306,600,0.38,228,-0.4,totale,55.4,2.5,3.5,42,3,65,124500.0,68500.0,46400.0
+Radiodiagnostica,Servizi,4,Liguria,Regione,17,85,0.03,82,159,0.399,63,0.13,totale,55.4,2.5,3.5,42,3,65,124500.0,68500.0,46400.0
+Radiodiagnostica,Servizi,4,Lombardia,Regione,112,560,0.03,543,1059,0.361,382,0.82,totale,55.4,2.5,3.5,42,3,65,124500.0,68500.0,46400.0
+Radiodiagnostica,Servizi,4,Marche,Regione,16,80,0.03,78,156,0.38,59,-0.81,totale,55.4,2.5,3.5,42,3,65,124500.0,68500.0,46400.0
+Radiodiagnostica,Servizi,4,Molise,Regione,3,15,0.03,15,30,0.399,12,-3.24,totale,55.4,2.5,3.5,42,3,65,124500.0,68500.0,46400.0
+Radiodiagnostica,Servizi,4,Piemonte,Regione,47,235,0.03,228,448,0.38,170,-0.21,totale,55.4,2.5,3.5,42,3,65,124500.0,68500.0,46400.0
+Radiodiagnostica,Servizi,4,Puglia,Regione,43,215,0.03,209,407,0.38,155,-2.15,totale,55.4,2.5,3.5,42,3,65,124500.0,68500.0,46400.0
+Radiodiagnostica,Servizi,4,Sardegna,Regione,17,85,0.03,82,164,0.38,62,-3.2,totale,55.4,2.5,3.5,42,3,65,124500.0,68500.0,46400.0
+Radiodiagnostica,Servizi,4,Sicilia,Regione,53,265,0.03,257,502,0.399,200,-1.88,totale,55.4,2.5,3.5,42,3,65,124500.0,68500.0,46400.0
+Radiodiagnostica,Servizi,4,Toscana,Regione,41,205,0.03,199,385,0.38,146,-0.3,totale,55.4,2.5,3.5,42,3,65,124500.0,68500.0,46400.0
+Radiodiagnostica,Servizi,4,Umbria,Regione,9,45,0.03,44,89,0.38,34,-1.16,totale,55.4,2.5,3.5,42,3,65,124500.0,68500.0,46400.0
+Radiodiagnostica,Servizi,4,Valle d'Aosta,Regione,1,5,0.03,5,13,0.38,5,-0.55,totale,55.4,2.5,3.5,42,3,65,124500.0,68500.0,46400.0
+Radiodiagnostica,Servizi,4,Veneto,Regione,54,270,0.03,262,511,0.361,184,-0.1,totale,55.4,2.5,3.5,42,3,65,124500.0,68500.0,46400.0
+Radiodiagnostica,Servizi,4,P.A. Bolzano,Regione,6,30,0.03,29,57,0.361,21,1.62,totale,55.4,2.5,3.5,42,3,65,124500.0,68500.0,46400.0
+Radiodiagnostica,Servizi,4,P.A. Trento,Regione,6,30,0.03,29,58,0.361,21,1.32,totale,55.4,2.5,3.5,42,3,65,124500.0,68500.0,46400.0
+Scienza dell'alimentazione,Servizi,4,Italia (Nazionale),Nazionale,60,300,0.03,291,120,0.38,46,-0.5,totale,94.8,0.0,0.0,38,1,35,122400.0,67300.0,46400.0
+Scienza dell'alimentazione,Servizi,4,Abruzzo,Regione,1,5,0.03,5,3,0.38,1,-1.18,totale,94.8,0.0,0.0,38,1,35,122400.0,67300.0,46400.0
+Scienza dell'alimentazione,Servizi,4,Basilicata,Regione,1,5,0.03,5,1,0.399,0,-4.41,totale,94.8,0.0,0.0,38,1,35,122400.0,67300.0,46400.0
+Scienza dell'alimentazione,Servizi,4,Calabria,Regione,2,10,0.03,10,4,0.399,2,-2.33,totale,94.8,0.0,0.0,38,1,35,122400.0,67300.0,46400.0
+Scienza dell'alimentazione,Servizi,4,Campania,Regione,6,30,0.03,29,11,0.38,4,-1.77,totale,94.8,0.0,0.0,38,1,35,122400.0,67300.0,46400.0
+Scienza dell'alimentazione,Servizi,4,Emilia-Romagna,Regione,5,25,0.03,24,9,0.38,3,0.99,totale,94.8,0.0,0.0,38,1,35,122400.0,67300.0,46400.0
+Scienza dell'alimentazione,Servizi,4,Friuli-Venezia Giulia,Regione,1,5,0.03,5,2,0.38,1,-0.45,totale,94.8,0.0,0.0,38,1,35,122400.0,67300.0,46400.0
+Scienza dell'alimentazione,Servizi,4,Lazio,Regione,6,30,0.03,29,12,0.38,5,-0.4,totale,94.8,0.0,0.0,38,1,35,122400.0,67300.0,46400.0
+Scienza dell'alimentazione,Servizi,4,Liguria,Regione,2,10,0.03,10,3,0.399,1,0.13,totale,94.8,0.0,0.0,38,1,35,122400.0,67300.0,46400.0
+Scienza dell'alimentazione,Servizi,4,Lombardia,Regione,10,50,0.03,48,20,0.361,7,0.82,totale,94.8,0.0,0.0,38,1,35,122400.0,67300.0,46400.0
+Scienza dell'alimentazione,Servizi,4,Marche,Regione,2,10,0.03,10,3,0.38,1,-0.81,totale,94.8,0.0,0.0,38,1,35,122400.0,67300.0,46400.0
+Scienza dell'alimentazione,Servizi,4,Molise,Regione,0,0,0.03,0,1,0.399,0,-3.24,totale,94.8,0.0,0.0,38,1,35,122400.0,67300.0,46400.0
+Scienza dell'alimentazione,Servizi,4,Piemonte,Regione,4,20,0.03,19,9,0.38,3,-0.21,totale,94.8,0.0,0.0,38,1,35,122400.0,67300.0,46400.0
+Scienza dell'alimentazione,Servizi,4,Puglia,Regione,4,20,0.03,19,8,0.38,3,-2.15,totale,94.8,0.0,0.0,38,1,35,122400.0,67300.0,46400.0
+Scienza dell'alimentazione,Servizi,4,Sardegna,Regione,2,10,0.03,10,3,0.38,1,-3.2,totale,94.8,0.0,0.0,38,1,35,122400.0,67300.0,46400.0
+Scienza dell'alimentazione,Servizi,4,Sicilia,Regione,5,25,0.03,24,10,0.399,4,-1.88,totale,94.8,0.0,0.0,38,1,35,122400.0,67300.0,46400.0
+Scienza dell'alimentazione,Servizi,4,Toscana,Regione,4,20,0.03,19,7,0.38,3,-0.3,totale,94.8,0.0,0.0,38,1,35,122400.0,67300.0,46400.0
+Scienza dell'alimentazione,Servizi,4,Umbria,Regione,1,5,0.03,5,2,0.38,1,-1.16,totale,94.8,0.0,0.0,38,1,35,122400.0,67300.0,46400.0
+Scienza dell'alimentazione,Servizi,4,Valle d'Aosta,Regione,0,0,0.03,0,1,0.38,0,-0.55,totale,94.8,0.0,0.0,38,1,35,122400.0,67300.0,46400.0
+Scienza dell'alimentazione,Servizi,4,Veneto,Regione,5,25,0.03,24,10,0.361,4,-0.1,totale,94.8,0.0,0.0,38,1,35,122400.0,67300.0,46400.0
+Scienza dell'alimentazione,Servizi,4,P.A. Bolzano,Regione,1,5,0.03,5,1,0.361,0,1.62,totale,94.8,0.0,0.0,38,1,35,122400.0,67300.0,46400.0
+Scienza dell'alimentazione,Servizi,4,P.A. Trento,Regione,1,5,0.03,5,1,0.361,0,1.32,totale,94.8,0.0,0.0,38,1,35,122400.0,67300.0,46400.0
+Statistica sanitaria e Biometria,Servizi,4,Italia (Nazionale),Nazionale,40,200,0.45,110,150,0.38,57,-0.5,totale,95.5,0.0,0.0,38,1,30,83900.0,46200.0,7900.0
+Statistica sanitaria e Biometria,Servizi,4,Abruzzo,Regione,1,5,0.45,3,3,0.38,1,-1.18,totale,95.5,0.0,0.0,38,1,30,83900.0,46200.0,7900.0
+Statistica sanitaria e Biometria,Servizi,4,Basilicata,Regione,0,0,0.45,0,1,0.399,0,-4.41,totale,95.5,0.0,0.0,38,1,30,83900.0,46200.0,7900.0
+Statistica sanitaria e Biometria,Servizi,4,Calabria,Regione,1,5,0.45,3,5,0.399,2,-2.33,totale,95.5,0.0,0.0,38,1,30,83900.0,46200.0,7900.0
+Statistica sanitaria e Biometria,Servizi,4,Campania,Regione,4,20,0.45,11,14,0.38,5,-1.77,totale,95.5,0.0,0.0,38,1,30,83900.0,46200.0,7900.0
+Statistica sanitaria e Biometria,Servizi,4,Emilia-Romagna,Regione,3,15,0.45,8,11,0.38,4,0.99,totale,95.5,0.0,0.0,38,1,30,83900.0,46200.0,7900.0
+Statistica sanitaria e Biometria,Servizi,4,Friuli-Venezia Giulia,Regione,1,5,0.45,3,3,0.38,1,-0.45,totale,95.5,0.0,0.0,38,1,30,83900.0,46200.0,7900.0
+Statistica sanitaria e Biometria,Servizi,4,Lazio,Regione,4,20,0.45,11,15,0.38,6,-0.4,totale,95.5,0.0,0.0,38,1,30,83900.0,46200.0,7900.0
+Statistica sanitaria e Biometria,Servizi,4,Liguria,Regione,1,5,0.45,3,4,0.399,2,0.13,totale,95.5,0.0,0.0,38,1,30,83900.0,46200.0,7900.0
+Statistica sanitaria e Biometria,Servizi,4,Lombardia,Regione,7,35,0.45,19,26,0.361,9,0.82,totale,95.5,0.0,0.0,38,1,30,83900.0,46200.0,7900.0
+Statistica sanitaria e Biometria,Servizi,4,Marche,Regione,1,5,0.45,3,4,0.38,2,-0.81,totale,95.5,0.0,0.0,38,1,30,83900.0,46200.0,7900.0
+Statistica sanitaria e Biometria,Servizi,4,Molise,Regione,0,0,0.45,0,1,0.399,0,-3.24,totale,95.5,0.0,0.0,38,1,30,83900.0,46200.0,7900.0
+Statistica sanitaria e Biometria,Servizi,4,Piemonte,Regione,3,15,0.45,8,11,0.38,4,-0.21,totale,95.5,0.0,0.0,38,1,30,83900.0,46200.0,7900.0
+Statistica sanitaria e Biometria,Servizi,4,Puglia,Regione,3,15,0.45,8,10,0.38,4,-2.15,totale,95.5,0.0,0.0,38,1,30,83900.0,46200.0,7900.0
+Statistica sanitaria e Biometria,Servizi,4,Sardegna,Regione,1,5,0.45,3,4,0.38,2,-3.2,totale,95.5,0.0,0.0,38,1,30,83900.0,46200.0,7900.0
+Statistica sanitaria e Biometria,Servizi,4,Sicilia,Regione,3,15,0.45,8,12,0.399,5,-1.88,totale,95.5,0.0,0.0,38,1,30,83900.0,46200.0,7900.0
+Statistica sanitaria e Biometria,Servizi,4,Toscana,Regione,2,10,0.45,6,9,0.38,3,-0.3,totale,95.5,0.0,0.0,38,1,30,83900.0,46200.0,7900.0
+Statistica sanitaria e Biometria,Servizi,4,Umbria,Regione,1,5,0.45,3,2,0.38,1,-1.16,totale,95.5,0.0,0.0,38,1,30,83900.0,46200.0,7900.0
+Statistica sanitaria e Biometria,Servizi,4,Valle d'Aosta,Regione,0,0,0.45,0,1,0.38,0,-0.55,totale,95.5,0.0,0.0,38,1,30,83900.0,46200.0,7900.0
+Statistica sanitaria e Biometria,Servizi,4,Veneto,Regione,3,15,0.45,8,12,0.361,4,-0.1,totale,95.5,0.0,0.0,38,1,30,83900.0,46200.0,7900.0
+Statistica sanitaria e Biometria,Servizi,4,P.A. Bolzano,Regione,0,0,0.45,0,1,0.361,0,1.62,totale,95.5,0.0,0.0,38,1,30,83900.0,46200.0,7900.0
+Statistica sanitaria e Biometria,Servizi,4,P.A. Trento,Regione,0,0,0.45,0,1,0.361,0,1.32,totale,95.5,0.0,0.0,38,1,30,83900.0,46200.0,7900.0
